@@ -11,9 +11,9 @@ The tool was specifically developed to allow the calculation of acidification sp
 7.	LAMM index (McFarland et al. 2010) developed to evaluate the effects of acidification on clear and humic lakes in the UK; 
 8.	TL index (Hämäläinen & Huttunen, 1990) developed to evaluate the effects of acidification on streams and rivers in Finland;
 
-List of files:
-"Indexes_formulas.r" is the R script with the function "ACI_R" that evaluate the indexes for a sample.
-"Acidification_indexes.r" is the R script that apply the function "ACI_R" to the Italian data as a test case.
-"Taxonomy_18_01_2022.csv" is the taxonomic database used to classify taxa and store sensitivity level for the different index when available.
-"Bio_lit_Samples.csv" is the list of Italian samples to be used as a test case.
-"Bio_lit_UPDATED.csv" is the file with the abundance of taxa in each sample in long format.
+List of files:  
+"Indexes_formulas.r" is the R script with the function "ACI_R" that evaluate the indexes for a sample.  
+"Acidification_indexes.r" is the R script that apply the function "ACI_R" to the Italian data as a test case.  
+"Taxonomy_18_01_2022.csv" is the taxonomic database used to classify taxa and store sensitivity level for the different index when available.  
+"Bio_lit_Samples.csv" is the list of Italian samples to be used as a test case.  
+"Bio_lit_UPDATED.csv" is the file with the abundance of taxa in each sample in long format.  
