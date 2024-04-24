@@ -1,0 +1,1055 @@
+GBIF;Kingdom;Phylum;Subphylum;Class;Subclass;Order;Family;Subfamily;Tribe;Genus;Subgenus;Specie;CompleteName;Author;Name;Taxon_rank;Raddum_1988;Raddum_1990;NIVA;AWICfam_taxa;AWICfam;AWICsp_taxa;AWICsp;TL;Braukmann;LAMM_Sk;LAMM_Wk
+2308833;Animalia;Annelida;NA;Clitellata;Hirudinea;Arhynchobdellida;Erpobdellidae;NA;NA;Dina;NA;NA;Dina;NA;Dina;genus;NA;NA;NA;Erpobdellidae;6;NA;NA;NA;NA;NA;NA
+10869541;Animalia;Annelida;NA;Clitellata;Hirudinea;Arhynchobdellida;Erpobdellidae;NA;NA;Erpobdella;NA;NA;Erpobdella;NA;Erpobdella;genus;NA;NA;NA;Erpobdellidae;6;NA;NA;NA;NA;NA;NA
+2308846;Animalia;Annelida;NA;Clitellata;Hirudinea;Arhynchobdellida;Erpobdellidae;NA;NA;Erpobdella;NA;octoculata;Erpobdella octoculata;Linnaeus, 1758;E_octoculata;specie;NA;NA;3;Erpobdellidae;6;E_octoculata;7;5;NA;6;0.31
+4411080;Animalia;Annelida;NA;Clitellata;Hirudinea;Arhynchobdellida;Erpobdellidae;NA;NA;Erpobdella;NA;testacea;Erpobdella testacea;Savigny, 1822;E_testacea;specie;NA;NA;2;Erpobdellidae;6;NA;NA;NA;NA;6;0.365
+6945;Animalia;Annelida;NA;Clitellata;Hirudinea;Arhynchobdellida;Erpobdellidae;NA;NA;NA;NA;NA;Erpobdellidae;NA;Erpobdellidae;family;NA;NA;NA;Erpobdellidae;6;NA;NA;NA;NA;NA;NA
+2308810;Animalia;Annelida;NA;Clitellata;Hirudinea;Arhynchobdellida;Haemopidae;NA;NA;Haemopis;NA;NA;Haemopis;NA;Haemopis;genus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4411067;Animalia;Annelida;NA;Clitellata;Hirudinea;Arhynchobdellida;Haemopidae;NA;NA;Haemopis;NA;sanguisuga;Haemopis sanguisuga;Linnaeus, 1758;H_sanguisuga;specie;NA;1;3;NA;NA;NA;NA;NA;NA;NA;NA
+3559;Animalia;Annelida;NA;Clitellata;Hirudinea;Arhynchobdellida;Haemopidae;NA;NA;NA;NA;NA;Haemopidae;NA;Haemopidae;family;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+9517429;Animalia;Annelida;NA;Clitellata;Hirudinea;Arhynchobdellida;Praobdellidae;NA;NA;Limnatis;NA;NA;Limnatis;NA;Limnatis;genus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+9537848;Animalia;Annelida;NA;Clitellata;Hirudinea;Arhynchobdellida;Praobdellidae;NA;NA;NA;NA;NA;Praobdellidae;NA;Praobdellidae;family;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+2307918;Animalia;Annelida;NA;Clitellata;Hirudinea;Rhynchobdellida;Glossiphoniidae;NA;NA;Alboglossiphonia;NA;heteroclita;Alboglossiphonia heteroclita;Linnaeus, 1761;A_heteroclita;specie;NA;NA;NA;Glossiphoniidae;6;NA;NA;NA;NA;NA;NA
+2307917;Animalia;Annelida;NA;Clitellata;Hirudinea;Rhynchobdellida;Glossiphoniidae;NA;NA;Alboglossiphonia;NA;NA;Alboglossiphonia;NA;Alboglossiphonia;genus;NA;NA;NA;Glossiphoniidae;6;NA;NA;NA;NA;NA;NA
+8811840;Animalia;Annelida;NA;Clitellata;Hirudinea;Rhynchobdellida;Glossiphoniidae;NA;NA;Batracobdella;NA;NA;Batracobdella;NA;Batracobdella;genus;NA;NA;NA;Glossiphoniidae;6;NA;NA;NA;NA;NA;NA
+2307955;Animalia;Annelida;NA;Clitellata;Hirudinea;Rhynchobdellida;Glossiphoniidae;NA;NA;Batracobdella;NA;paludosa;Batracobdella paludosa;Carena, 1824;B_paludosa;specie;NA;NA;NA;Glossiphoniidae;6;NA;NA;NA;NA;NA;NA
+2307956;Animalia;Annelida;NA;Clitellata;Hirudinea;Rhynchobdellida;Glossiphoniidae;NA;NA;Glossiphonia;NA;complanata;Glossiphonia complanata;Linnaeus, 1758;G_complanata;specie;NA;1;2;Glossiphoniidae;6;G_complanata;9;5.1;NA;7;0.304
+2307952;Animalia;Annelida;NA;Clitellata;Hirudinea;Rhynchobdellida;Glossiphoniidae;NA;NA;Glossiphonia;NA;NA;Glossiphonia;NA;Glossiphonia;genus;NA;NA;NA;Glossiphoniidae;6;NA;NA;NA;NA;NA;NA
+2307934;Animalia;Annelida;NA;Clitellata;Hirudinea;Rhynchobdellida;Glossiphoniidae;NA;NA;Helobdella;NA;NA;Helobdella;NA;Helobdella;genus;NA;NA;NA;Glossiphoniidae;6;NA;NA;NA;NA;NA;NA
+2307936;Animalia;Annelida;NA;Clitellata;Hirudinea;Rhynchobdellida;Glossiphoniidae;NA;NA;Helobdella;NA;stagnalis;Helobdella stagnalis;Linnaeus, 1758;H_stagnalis;specie;NA;0.5;2;Glossiphoniidae;6;H_stagnalis;8;5.1;NA;6.5;0.288
+4308093;Animalia;Annelida;NA;Clitellata;Hirudinea;Rhynchobdellida;Glossiphoniidae;NA;NA;Hemiclepsis;NA;marginata;Hemiclepsis marginata;Müller, 1774;H_marginata;specie;NA;NA;1;Glossiphoniidae;6;NA;NA;NA;NA;7;0.308
+4308092;Animalia;Annelida;NA;Clitellata;Hirudinea;Rhynchobdellida;Glossiphoniidae;NA;NA;Hemiclepsis;NA;NA;Hemiclepsis;NA;Hemiclepsis;specie;NA;NA;NA;Glossiphoniidae;6;NA;NA;NA;NA;NA;NA
+3575;Animalia;Annelida;NA;Clitellata;Hirudinea;Rhynchobdellida;Glossiphoniidae;NA;NA;NA;NA;NA;Glossiphoniidae;NA;Glossiphoniidae;family;NA;NA;NA;Glossiphoniidae;6;NA;NA;NA;NA;NA;NA
+2307910;Animalia;Annelida;NA;Clitellata;Hirudinea;Rhynchobdellida;Glossiphoniidae;NA;NA;Theromyzon;NA;NA;Theromyzon;NA;Theromyzon;genus;NA;NA;NA;Glossiphoniidae;6;NA;NA;NA;NA;NA;NA
+2307911;Animalia;Annelida;NA;Clitellata;Hirudinea;Rhynchobdellida;Glossiphoniidae;NA;NA;Theromyzon;NA;tessulatum;Theromyzon tessulatum;Müller, 1774;T_tessulatum;specie;NA;1;NA;Glossiphoniidae;6;NA;NA;NA;NA;7;0.541
+3576;Animalia;Annelida;NA;Clitellata;Hirudinea;Rhynchobdellida;Piscicolidae;NA;NA;NA;NA;NA;Piscicolidae;NA;Piscicolidae;family;NA;NA;NA;Piscicolidae;6;NA;NA;NA;NA;NA;NA
+5193993;Animalia;Annelida;NA;Clitellata;Hirudinea;Rhynchobdellida;Piscicolidae;NA;NA;Piscicola;NA;NA;Piscicola;NA;Piscicola;genus;NA;NA;NA;Piscicolidae;6;NA;NA;NA;NA;NA;NA
+2307761;Animalia;Annelida;NA;Clitellata;Oligochaeta;Crassiclitellata;Lumbricidae;NA;NA;Eiseniella;NA;NA;Eiseniella;NA;Eiseniella;genus;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;NA;NA;NA
+2307762;Animalia;Annelida;NA;Clitellata;Oligochaeta;Crassiclitellata;Lumbricidae;NA;NA;Eiseniella;NA;tetraedra;Eiseniella tetraedra;Savigny, 1826;E_tetraedra;specie;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;4;NA;NA
+6103;Animalia;Annelida;NA;Clitellata;Oligochaeta;Crassiclitellata;Lumbricidae;NA;NA;NA;NA;NA;Lumbricidae;NA;Lumbricidae;family;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;NA;NA;NA
+2308346;Animalia;Annelida;NA;Clitellata;Oligochaeta;Enchytraeida;Enchytraeidae;NA;NA;Cernosvitoviella;NA;atrata;Cernosvitoviella atrata;Bretscher, 1903;C_atrata;specie;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;NA;NA;NA
+4409939;Animalia;Annelida;NA;Clitellata;Oligochaeta;Enchytraeida;Enchytraeidae;NA;NA;Cernosvitoviella;NA;goodhui;Cernosvitoviella goodhui;Healy, 1975;C_goodhui;specie;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;NA;NA;NA
+4307677;Animalia;Annelida;NA;Clitellata;Oligochaeta;Enchytraeida;Enchytraeidae;NA;NA;Cernosvitoviella;NA;minor;Cernosvitoviella minor;Dózsa-Farkas, 1990;C_minor;specie;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;NA;NA;NA
+2308345;Animalia;Annelida;NA;Clitellata;Oligochaeta;Enchytraeida;Enchytraeidae;NA;NA;Cernosvitoviella;NA;NA;Cernosvitoviella;NA;Cernosvitoviella;genus;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;NA;NA;NA
+4409945;Animalia;Annelida;NA;Clitellata;Oligochaeta;Enchytraeida;Enchytraeidae;NA;NA;Cernosvitoviella;NA;omodeoi;Cernosvitoviella omodeoi;Rota, 1995;C_omodeoi;specie;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;NA;NA;NA
+8053073;Animalia;Annelida;NA;Clitellata;Oligochaeta;Enchytraeida;Enchytraeidae;NA;NA;Cognettia;NA;cognettii;Cognettia cognettii;Issel, 1905;C_cognettii;specie;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;NA;NA;NA
+2308301;Animalia;Annelida;NA;Clitellata;Oligochaeta;Enchytraeida;Enchytraeidae;NA;NA;Cognettia;NA;glandulosa;Cognettia glandulosa;Michaelsen, 1888;C_glandulosa;specie;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;NA;NA;NA
+8026284;Animalia;Annelida;NA;Clitellata;Oligochaeta;Enchytraeida;Enchytraeidae;NA;NA;Cognettia;NA;NA;Cognettia;NA;Cognettia;genus;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;NA;NA;NA
+2308302;Animalia;Annelida;NA;Clitellata;Oligochaeta;Enchytraeida;Enchytraeidae;NA;NA;Cognettia;NA;sphagnetorum;Cognettia sphagnetorum;Vejdovský, 1878;C_sphagnetorum;specie;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;NA;NA;NA
+gr_2308302;Animalia;Annelida;NA;Clitellata;Oligochaeta;Enchytraeida;Enchytraeidae;NA;NA;Cognettia;NA;sphagnetorum/glandulosa;Cognettia sphagnetorum/glandulosa;NA;C_sphagnetorum_glandulosa;speciesAggregate;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;NA;NA;NA
+2308266;Animalia;Annelida;NA;Clitellata;Oligochaeta;Enchytraeida;Enchytraeidae;NA;NA;Enchytraeus;NA;NA;Enchytraeus;NA;Enchytraeus;genus;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;NA;NA;NA
+7944165;Animalia;Annelida;NA;Clitellata;Oligochaeta;Enchytraeida;Enchytraeidae;NA;NA;Fridericia;NA;leydigi;Fridericia leydigi;Vejdovský, 1878;F_leydigi;specie;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;NA;NA;NA
+2308358;Animalia;Annelida;NA;Clitellata;Oligochaeta;Enchytraeida;Enchytraeidae;NA;NA;Fridericia;NA;NA;Fridericia;NA;Fridericia;genus;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;NA;NA;NA
+2308378;Animalia;Annelida;NA;Clitellata;Oligochaeta;Enchytraeida;Enchytraeidae;NA;NA;Henlea;NA;NA;Henlea;NA;Henlea;genus;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;NA;NA;NA
+4307624;Animalia;Annelida;NA;Clitellata;Oligochaeta;Enchytraeida;Enchytraeidae;NA;NA;Henlea;NA;ventriculosa;Henlea ventriculosa;d'Udekem, 1854;H_ventriculosa;specie;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;NA;NA;NA
+2308281;Animalia;Annelida;NA;Clitellata;Oligochaeta;Enchytraeida;Enchytraeidae;NA;NA;Marionina;NA;argentea;Marionina argentea;Michaelsen, 1889;M_argentea;specie;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;NA;NA;NA
+2308278;Animalia;Annelida;NA;Clitellata;Oligochaeta;Enchytraeida;Enchytraeidae;NA;NA;Marionina;NA;NA;Marionina;NA;Marionina;genus;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;NA;NA;NA
+2308356;Animalia;Annelida;NA;Clitellata;Oligochaeta;Enchytraeida;Enchytraeidae;NA;NA;Mesenchytraeus;NA;armatus;Mesenchytraeus armatus;Levinsen, 1884;M_armatus;specie;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;NA;NA;NA
+2308353;Animalia;Annelida;NA;Clitellata;Oligochaeta;Enchytraeida;Enchytraeidae;NA;NA;Mesenchytraeus;NA;NA;Mesenchytraeus;NA;Mesenchytraeus;genus;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;NA;NA;NA
+3565;Animalia;Annelida;NA;Clitellata;Oligochaeta;Enchytraeida;Enchytraeidae;NA;NA;NA;NA;NA;Enchytraeidae;NA;Enchytraeidae;family;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;NA;NA;NA
+2308708;Animalia;Annelida;NA;Clitellata;Oligochaeta;Haplotaxida;Haplotaxidae;NA;NA;Haplotaxis;NA;gordioides;Haplotaxis gordioides;Hartmann, 1821;H_gordioides;specie;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;3;NA;NA
+2308707;Animalia;Annelida;NA;Clitellata;Oligochaeta;Haplotaxida;Haplotaxidae;NA;NA;Haplotaxis;NA;NA;Haplotaxis;NA;Haplotaxis;genus;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;NA;NA;NA
+3568;Animalia;Annelida;NA;Clitellata;Oligochaeta;Haplotaxida;Haplotaxidae;NA;NA;NA;NA;NA;Haplotaxidae;NA;Haplotaxidae;family;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;NA;NA;NA
+2308018;Animalia;Annelida;NA;Clitellata;Oligochaeta;Lumbriculida;Lumbriculidae;NA;NA;Lumbriculus;NA;NA;Lumbriculus;NA;Lumbriculus;genus;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;4;NA;NA
+2308023;Animalia;Annelida;NA;Clitellata;Oligochaeta;Lumbriculida;Lumbriculidae;NA;NA;Lumbriculus;NA;variegatus;Lumbriculus variegatus;Müller, 1774;L_variegatus;specie;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;4;NA;NA
+6964;Animalia;Annelida;NA;Clitellata;Oligochaeta;Lumbriculida;Lumbriculidae;NA;NA;NA;NA;NA;Lumbriculidae;NA;Lumbriculidae;family;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;4;NA;NA
+2308015;Animalia;Annelida;NA;Clitellata;Oligochaeta;Lumbriculida;Lumbriculidae;NA;NA;Stylodrilus;NA;heringianus;Stylodrilus heringianus;Claparede, 1862;S_heringianus;specie;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;4;NA;NA
+2308011;Animalia;Annelida;NA;Clitellata;Oligochaeta;Lumbriculida;Lumbriculidae;NA;NA;Stylodrilus;NA;NA;Stylodrilus;NA;Stylodrilus;genus;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;4;NA;NA
+8166676;Animalia;Annelida;NA;Clitellata;Oligochaeta;NA;NA;NA;NA;NA;NA;NA;Oligochaeta;NA;Oligochaeta;subclass;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;NA;NA;NA
+7492275;Animalia;Annelida;NA;Clitellata;Oligochaeta;Tubificida;Naididae;NA;NA;Bothrioneurum;NA;NA;Bothrioneurum;NA;Bothrioneurum;genus;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;NA;NA;NA
+5194097;Animalia;Annelida;NA;Clitellata;Oligochaeta;Tubificida;Naididae;NA;NA;Bothrioneurum;NA;vejdovskyanum;Bothrioneurum vejdovskyanum;Štolc, 1886;B_vejdovskyanum;specie;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;NA;NA;NA
+2308573;Animalia;Annelida;NA;Clitellata;Oligochaeta;Tubificida;Naididae;NA;NA;Branchiura;NA;NA;Branchiura;NA;Branchiura;genus;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;NA;NA;NA
+2308574;Animalia;Annelida;NA;Clitellata;Oligochaeta;Tubificida;Naididae;NA;NA;Branchiura;NA;sowerbyi;Branchiura sowerbyi;Beddard, 1892;B_sowerbyi;specie;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;NA;NA;NA
+5194017;Animalia;Annelida;NA;Clitellata;Oligochaeta;Tubificida;Naididae;NA;NA;Chaetogaster;NA;diaphanus;Chaetogaster diaphanus;Gruithuisen, 1828;C_diaphanus;specie;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;NA;NA;NA
+2308045;Animalia;Annelida;NA;Clitellata;Oligochaeta;Tubificida;Naididae;NA;NA;Chaetogaster;NA;NA;Chaetogaster;NA;Chaetogaster;genus;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;NA;NA;NA
+2308139;Animalia;Annelida;NA;Clitellata;Oligochaeta;Tubificida;Naididae;NA;NA;Dero;NA;digitata;Dero digitata;Müller, 1774;D_digitata;specie;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;NA;NA;NA
+2308127;Animalia;Annelida;NA;Clitellata;Oligochaeta;Tubificida;Naididae;NA;NA;Dero;NA;NA;Dero;NA;Dero;genus;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;NA;NA;NA
+2308141;Animalia;Annelida;NA;Clitellata;Oligochaeta;Tubificida;Naididae;NA;NA;Dero;NA;obtusa;Dero obtusa;d'Udekem, 1855;D_obtusa;specie;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;NA;NA;NA
+9614710;Animalia;Annelida;NA;Clitellata;Oligochaeta;Tubificida;Naididae;NA;NA;Ilyodrilus;NA;NA;Ilyodrilus;NA;Ilyodrilus;genus;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;NA;NA;NA
+2308490;Animalia;Annelida;NA;Clitellata;Oligochaeta;Tubificida;Naididae;NA;NA;Ilyodrilus;NA;templetoni;Ilyodrilus templetoni;Southern, 1909;I_templetoni;specie;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;NA;NA;NA
+2308030;Animalia;Annelida;NA;Clitellata;Oligochaeta;Tubificida;Naididae;NA;NA;Vejdovskyella;NA;intermedia;Vejdovskyella intermedia;Bretscher, 1896;V_intermedia;specie;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;NA;NA;NA
+9571446;Animalia;Annelida;NA;Clitellata;Oligochaeta;Tubificida;Naididae;NA;NA;Vejdovskyella;NA;NA;Vejdovskyella;NA;Vejdovskyella;genus;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;NA;NA;NA
+6960;Animalia;Annelida;NA;Clitellata;Oligochaeta;Tubificida;Naididae;NA;NA;NA;NA;NA;Naididae;NA;Naididae;family;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;NA;NA;NA
+8282704;Animalia;Annelida;NA;Clitellata;Oligochaeta;Tubificida;Naididae;NA;NA;Nais;NA;barbata;Nais barbata;Müller, 1774;N_barbata;specie;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;4;NA;NA
+2308090;Animalia;Annelida;NA;Clitellata;Oligochaeta;Tubificida;Naididae;NA;NA;Nais;NA;bretscheri;Nais bretscheri;Michaelsen, 1899;N_bretscheri;specie;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;4;NA;NA
+2308095;Animalia;Annelida;NA;Clitellata;Oligochaeta;Tubificida;Naididae;NA;NA;Nais;NA;communis;Nais communis;Piguet, 1906;N_communis;specie;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;4;NA;NA
+gr_2308091;Animalia;Annelida;NA;Clitellata;Oligochaeta;Tubificida;Naididae;NA;NA;Nais;NA;communis_variabilis;Nais gr. communis/variabilis;NA;N_communis_variabilis;speciesAggregate;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;4;NA;NA
+2308093;Animalia;Annelida;NA;Clitellata;Oligochaeta;Tubificida;Naididae;NA;NA;Nais;NA;elinguis;Nais elinguis;Müller, 1774;N_elinguis;specie;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;4;NA;NA
+9563151;Animalia;Annelida;NA;Clitellata;Oligochaeta;Tubificida;Naididae;NA;NA;Nais;NA;NA;Nais;NA;Nais;genus;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;4;NA;NA
+2308103;Animalia;Annelida;NA;Clitellata;Oligochaeta;Tubificida;Naididae;NA;NA;Nais;NA;pardalis;Nais pardalis;Piguet, 1906;N_pardalis;specie;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;4;NA;NA
+gr_2308103;Animalia;Annelida;NA;Clitellata;Oligochaeta;Tubificida;Naididae;NA;NA;Nais;NA;pardalis_variabilis;Nais gr. pardalis/variabilis;NA;N_pardalis_variabilis;speciesAggregate;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;4;NA;NA
+2308092;Animalia;Annelida;NA;Clitellata;Oligochaeta;Tubificida;Naididae;NA;NA;Nais;NA;pseudobtusa;Nais pseudobtusa;Piguet, 1906;N_pseudobtusa;specie;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;4;NA;NA
+2308091;Animalia;Annelida;NA;Clitellata;Oligochaeta;Tubificida;Naididae;NA;NA;Nais;NA;variabilis;Nais variabilis;Piguet, 1906;N_variabilis;specie;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;4;NA;NA
+2308037;Animalia;Annelida;NA;Clitellata;Oligochaeta;Tubificida;Naididae;NA;NA;Ophidonais;NA;NA;Ophidonais;NA;Ophidonais;genus;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;NA;NA;NA
+2308038;Animalia;Annelida;NA;Clitellata;Oligochaeta;Tubificida;Naididae;NA;NA;Ophidonais;NA;serpentina;Ophidonais serpentina;Müller, 1774;O_serpentina;specie;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;NA;NA;NA
+2308604;Animalia;Annelida;NA;Clitellata;Oligochaeta;Tubificida;Naididae;NA;NA;Potamothrix;NA;bedoti;Potamothrix bedoti;Piguet, 1913;P_bedoti;specie;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;NA;NA;NA
+2308608;Animalia;Annelida;NA;Clitellata;Oligochaeta;Tubificida;Naididae;NA;NA;Potamothrix;NA;hammoniensis;Potamothrix hammoniensis;Michaelsen, 1901;P_hammoniensis;specie;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;NA;NA;NA
+2308609;Animalia;Annelida;NA;Clitellata;Oligochaeta;Tubificida;Naididae;NA;NA;Potamothrix;NA;moldaviensis;Potamothrix moldaviensis;Vejdovský & Mrázek, 1903;P_moldaviensis;specie;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;NA;NA;NA
+9304546;Animalia;Annelida;NA;Clitellata;Oligochaeta;Tubificida;Naididae;NA;NA;Potamothrix;NA;NA;Potamothrix;NA;Potamothrix;genus;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;NA;NA;NA
+5194062;Animalia;Annelida;NA;Clitellata;Oligochaeta;Tubificida;Naididae;NA;NA;Pristina;NA;aequiseta;Pristina aequiseta;Bourne, 1891;P_aequiseta;specie;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;NA;NA;NA
+5194042;Animalia;Annelida;NA;Clitellata;Oligochaeta;Tubificida;Naididae;NA;NA;Pristina;NA;idrensis;Pristina idrensis;Sperber, 1948;P_idrensis;specie;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;NA;NA;NA
+9331524;Animalia;Annelida;NA;Clitellata;Oligochaeta;Tubificida;Naididae;NA;NA;Pristina;NA;NA;Pristina;NA;Pristina;genus;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;NA;NA;NA
+2308425;Animalia;Annelida;NA;Clitellata;Oligochaeta;Tubificida;Naididae;NA;NA;Psammoryctides;NA;barbatus;Psammoryctides barbatus;Grube, 1860;P_barbatus;specie;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;NA;NA;NA
+2308422;Animalia;Annelida;NA;Clitellata;Oligochaeta;Tubificida;Naididae;NA;NA;Psammoryctides;NA;NA;Psammoryctides;NA;Psammoryctides;genus;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;NA;NA;NA
+2308498;Animalia;Annelida;NA;Clitellata;Oligochaeta;Tubificida;Naididae;NA;NA;Rhyacodrilus;NA;coccineus;Rhyacodrilus coccineus;Vejdovský, 1876;R_coccineus;specie;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;NA;NA;NA
+2308495;Animalia;Annelida;NA;Clitellata;Oligochaeta;Tubificida;Naididae;NA;NA;Rhyacodrilus;NA;NA;Rhyacodrilus;NA;Rhyacodrilus;genus;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;NA;NA;NA
+2308197;Animalia;Annelida;NA;Clitellata;Oligochaeta;Tubificida;Naididae;NA;NA;Slavina;NA;appendiculata;Slavina appendiculata;d'Udekem, 1855;S_appendiculata;specie;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;NA;NA;NA
+2308196;Animalia;Annelida;NA;Clitellata;Oligochaeta;Tubificida;Naididae;NA;NA;Slavina;NA;NA;Slavina;NA;Slavina;genus;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;NA;NA;NA
+2308167;Animalia;Annelida;NA;Clitellata;Oligochaeta;Tubificida;Naididae;NA;NA;Specaria;NA;josinae;Specaria josinae;Vejdovský, 1884;S_josinae;specie;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;NA;NA;NA
+2308165;Animalia;Annelida;NA;Clitellata;Oligochaeta;Tubificida;Naididae;NA;NA;Specaria;NA;NA;Specaria;NA;Specaria;genus;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;NA;NA;NA
+2308512;Animalia;Annelida;NA;Clitellata;Oligochaeta;Tubificida;Naididae;NA;NA;Spirosperma;NA;ferox;Spirosperma ferox;Eisen, 1879;S_ferox;specie;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;NA;NA;NA
+2308413;Animalia;Annelida;NA;Clitellata;Oligochaeta;Tubificida;Naididae;NA;NA;Spirosperma;NA;NA;Spirosperma;NA;Spirosperma;genus;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;NA;NA;NA
+2308060;Animalia;Annelida;NA;Clitellata;Oligochaeta;Tubificida;Naididae;NA;NA;Stylaria;NA;lacustris;Stylaria lacustris;Linnaeus, 1758;St_lacustris;specie;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;NA;NA;NA
+2308058;Animalia;Annelida;NA;Clitellata;Oligochaeta;Tubificida;Naididae;NA;NA;Stylaria;NA;NA;Stylaria;NA;Stylaria;genus;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;NA;NA;NA
+8133924_1;Animalia;Annelida;NA;Clitellata;Oligochaeta;Tubificida;Naididae;NA;NA;Tubifex;NA;ignotus;Tubifex ignotus;Štolc, 1886;T_ignotus;specie;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;NA;NA;NA
+8133924;Animalia;Annelida;NA;Clitellata;Oligochaeta;Tubificida;Naididae;NA;NA;Tubifex;NA;NA;Tubifex;NA;Tubifex;genus;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;NA;NA;NA
+2308444;Animalia;Annelida;NA;Clitellata;Oligochaeta;Tubificida;Naididae;NA;NA;Tubifex;NA;tubifex;Tubifex tubifex;Müller, 1774;T_tubifex;specie;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;NA;NA;NA
+2308178;Animalia;Annelida;NA;Clitellata;Oligochaeta;Tubificida;Naididae;NA;NA;Uncinais;NA;NA;Uncinais;NA;Uncinais;genus;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;NA;NA;NA
+2308179;Animalia;Annelida;NA;Clitellata;Oligochaeta;Tubificida;Naididae;NA;NA;Uncinais;NA;uncinata;Uncinais uncinata;Ørsted, 1842;U_uncinata;specie;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;NA;NA;NA
+2308031;Animalia;Annelida;NA;Clitellata;Oligochaeta;Tubificida;Naididae;NA;NA;Vejdovskyella;NA;comata;Vejdovskyella comata;Vejdovský, 1884;V_comata;specie;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;NA;NA;NA
+9571446;Animalia;Annelida;NA;Clitellata;Oligochaeta;Tubificida;Naididae;NA;NA;Vejdovskyella;NA;NA;Vejdovskyella;NA;Vejdovskyella;genus;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;NA;NA;NA
+4410094;Animalia;Annelida;NA;Clitellata;Oligochaeta;Tubificida;Tubificidae;NA;NA;Aulodrilus;NA;japonicus;Aulodrilus pr. japonicus;Yamaguchi, 1953;A_japonicus;speciesAggregate;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;NA;NA;NA
+2308596;Animalia;Annelida;NA;Clitellata;Oligochaeta;Tubificida;Tubificidae;NA;NA;Aulodrilus;NA;limnobius;Aulodrilus limnobius;Bretscher, 1899;A_limnobius;specie;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;NA;NA;NA
+8012401;Animalia;Annelida;NA;Clitellata;Oligochaeta;Tubificida;Tubificidae;NA;NA;Aulodrilus;NA;NA;Aulodrilus;NA;Aulodrilus;genus;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;NA;NA;NA
+2308594;Animalia;Annelida;NA;Clitellata;Oligochaeta;Tubificida;Tubificidae;NA;NA;Aulodrilus;NA;pluriseta;Aulodrilus pluriseta;Piguet, 1906;A_pluriseta;specie;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;NA;NA;NA
+4812410;Animalia;Annelida;NA;Clitellata;Oligochaeta;Tubificida;Tubificidae;NA;NA;Limnodrilus;NA;claparedeianus;Limnodrilus claparedeianus;Ratzel, 1868;L_claparedeianus;specie;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;NA;NA;NA
+2308543;Animalia;Annelida;NA;Clitellata;Oligochaeta;Tubificida;Tubificidae;NA;NA;Limnodrilus;NA;hoffmeisteri;Limnodrilus hoffmeisteri;Claparède, 1862;L_hoffmeisteri;specie;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;NA;NA;NA
+2308538;Animalia;Annelida;NA;Clitellata;Oligochaeta;Tubificida;Tubificidae;NA;NA;Limnodrilus;NA;NA;Limnodrilus;NA;Limnodrilus;genus;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;NA;NA;NA
+2308557;Animalia;Annelida;NA;Clitellata;Oligochaeta;Tubificida;Tubificidae;NA;NA;Limnodrilus;NA;profundicola;Limnodrilus profundicola;Verrill, 1871;L_profundicola;specie;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;NA;NA;NA
+2308552;Animalia;Annelida;NA;Clitellata;Oligochaeta;Tubificida;Tubificidae;NA;NA;Limnodrilus;NA;udekemianus;Limnodrilus udekemianus;;L_udekemianus;specie;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;NA;NA;NA
+2308538_2;Animalia;Annelida;NA;Clitellata;Oligochaeta;Tubificida;Tubificidae;NA;NA;Limnodrilus_Bothrioneurum;NA;NA;Limnodrilus/Bothrioneurum;NA;Limnodrilus_Bothrioneurum;supragenericname;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;NA;NA;NA
+6962;Animalia;Annelida;NA;Clitellata;Oligochaeta;Tubificida;Tubificidae;NA;NA;NA;NA;NA;Tubificidae;NA;Tubificidae;family;NA;NA;NA;Oligochaeta;6;Oligochaeta;5;NA;NA;NA;NA
+2217966;Animalia;Arthropoda;Crustacea;Malacostraca;Eumalacostraca;Amphipoda;Crangonyctidae;NA;NA;Crangonyx;NA;NA;Crangonyx;NA;Crangonyx;genus;NA;NA;NA;Gammaridae;6;NA;NA;NA;NA;NA;NA
+2217982;Animalia;Arthropoda;Crustacea;Malacostraca;Eumalacostraca;Amphipoda;Crangonyctidae;NA;NA;Crangonyx;NA;pseudogracilis;Crangonyx pseudogracilis;Bousfield 1958;C_pseudogracilis;specie;NA;NA;NA;Gammaridae;6;C_pseudogracilis;6;NA;NA;6;0.585
+4424;Animalia;Arthropoda;Crustacea;Malacostraca;Eumalacostraca;Amphipoda;Crangonyctidae;NA;NA;NA;NA;NA;Crangonyctidae;NA;Crangonyctidae;family;NA;NA;NA;Gammaridae;6;NA;NA;NA;NA;NA;NA
+4416980;Animalia;Arthropoda;Crustacea;Malacostraca;Eumalacostraca;Amphipoda;Gammaridae;NA;NA;Gammarus;NA;fossarum;Gammarus fossarum;Koch 1836;G_fossarum;specie;NA;NA;NA;Gammaridae;6;NA;NA;NA;2;NA;NA
+2219867;Animalia;Arthropoda;Crustacea;Malacostraca;Eumalacostraca;Amphipoda;Gammaridae;NA;NA;Gammarus;NA;lacustris;Gammarus lacustris;G.O.Sars 1863;G_lacustris;specie;1;1;1;Gammaridae;6;NA;NA;NA;NA;7.33;0.517
+2218440;Animalia;Arthropoda;Crustacea;Malacostraca;Eumalacostraca;Amphipoda;Gammaridae;NA;NA;Gammarus;NA;NA;Gammarus;NA;Gammarus;genus;NA;NA;NA;Gammaridae;6;NA;NA;NA;NA;NA;NA
+2219853;Animalia;Arthropoda;Crustacea;Malacostraca;Eumalacostraca;Amphipoda;Gammaridae;NA;NA;Gammarus;NA;pulex;Gammarus pulex;Linnaeus 1758;G_pulex;specie;NA;NA;NA;Gammaridae;6;G_pulex;8;NA;2;7;0.464
+4434;Animalia;Arthropoda;Crustacea;Malacostraca;Eumalacostraca;Amphipoda;Gammaridae;NA;NA;NA;NA;NA;Gammaridae;NA;Gammaridae;family;NA;NA;NA;Gammaridae;6;NA;NA;NA;NA;NA;NA
+3254505;Animalia;Arthropoda;Crustacea;Malacostraca;Eumalacostraca;Amphipoda;Niphargidae;NA;NA;NA;NA;NA;Niphargidae;NA;Niphargidae;family;NA;NA;NA;Gammaridae;6;NA;NA;NA;NA;NA;NA
+4405305;Animalia;Arthropoda;Crustacea;Malacostraca;Eumalacostraca;Amphipoda;Niphargidae;NA;NA;Niphargus;NA;NA;Niphargus;NA;Niphargus;genus;NA;NA;NA;Gammaridae;6;NA;NA;NA;4;NA;NA
+2226998;Animalia;Arthropoda;Crustacea;Malacostraca;Eumalacostraca;Decapoda;Astacidae;NA;NA;Astacus;NA;astacus;Astacus astacus;Linnaeus, 1758;A_astacus;specie;NA;NA;2;NA;NA;NA;NA;NA;NA;NA;NA
+2222152;Animalia;Arthropoda;Crustacea;Malacostraca;Eumalacostraca;Decapoda;Astacidae;NA;NA;Astacus;NA;NA;Astacus;NA;Astacus;genus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+8022;Animalia;Arthropoda;Crustacea;Malacostraca;Eumalacostraca;Decapoda;Astacidae;NA;NA;NA;NA;NA;Astacidae;NA;Astacidae;family;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+2206247;Animalia;Arthropoda;Crustacea;Malacostraca;Eumalacostraca;Isopoda;Asellidae;NA;NA;Asellus;NA;aquaticus;Asellus aquaticus;Linnaeus, 1758;A_aquaticus;specie;NA;0.5;4;Asellidae;6;A_aquaticus;9;4.5;1;4;0.284
+2206087;Animalia;Arthropoda;Crustacea;Malacostraca;Eumalacostraca;Isopoda;Asellidae;NA;NA;Asellus;NA;meridianus;Asellus meridianus;Racovitza, 1919;A_meridianus;specie;NA;NA;NA;Asellidae;6;NA;NA;NA;NA;8;0.287
+2206245;Animalia;Arthropoda;Crustacea;Malacostraca;Eumalacostraca;Isopoda;Asellidae;NA;NA;Asellus;NA;NA;Asellus;NA;Asellus;genus;NA;NA;NA;Asellidae;6;A_aquaticus;9;NA;NA;NA;NA
+4574;Animalia;Arthropoda;Crustacea;Malacostraca;Eumalacostraca;Isopoda;Asellidae;NA;NA;NA;NA;NA;Asellidae;NA;Asellidae;family;NA;NA;NA;Asellidae;6;NA;NA;NA;NA;NA;NA
+203;Animalia;Arthropoda;Crustacea;Maxillopoda;NA;NA;NA;NA;NA;NA;NA;NA;Maxillopoda;NA;Maxillopoda;class;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+7780;Animalia;Arthropoda;Hexapoda;Insecta;NA;Coleoptera;Chrysomelidae;NA;NA;NA;NA;NA;Chrysomelidae;NA;Chrysomelidae;family;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4239;Animalia;Arthropoda;Hexapoda;Insecta;NA;Coleoptera;Curculionidae;NA;NA;NA;NA;NA;Curculionidae;NA;Curculionidae;family;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+1033449;Animalia;Arthropoda;Hexapoda;Insecta;NA;Coleoptera;Dryopidae;NA;NA;Dryops;NA;NA;Dryops;NA;Dryops;genus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4732;Animalia;Arthropoda;Hexapoda;Insecta;NA;Coleoptera;Dryopidae;NA;NA;NA;NA;NA;Dryopidae;NA;Dryopidae;family;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4469860;Animalia;Arthropoda;Hexapoda;Insecta;NA;Coleoptera;Dytiscidae;Agabinae;Agabini;Agabus;Gaurodytes;bipustulatus;Agabus (Gaurodytes) bipustulatus;Linnaeus 1767;A_bipustulatus;specie;NA;NA;NA;Dytiscidae;6;Dytiscidae;6;4.3;5;NA;NA
+4469878;Animalia;Arthropoda;Hexapoda;Insecta;NA;Coleoptera;Dytiscidae;Agabinae;Agabini;Agabus;NA;guttatus;Agabus guttatus;Paykull 1798;A_guttatus;specie;NA;NA;NA;Dytiscidae;6;Dytiscidae;6;4.3;4;NA;NA
+1037928;Animalia;Arthropoda;Hexapoda;Insecta;NA;Coleoptera;Dytiscidae;Agabinae;Agabini;Agabus;NA;NA;Agabus;NA;Agabus;genus;NA;NA;NA;Dytiscidae;6;Dytiscidae;6;4.3;5;NA;NA
+ 1038816;Animalia;Arthropoda;Hexapoda;Insecta;NA;Coleoptera;Dytiscidae;Agabinae;NA;Platambus;NA;NA;Platambus;NA;Platambus;genus;NA;NA;NA;Dytiscidae;6;Dytiscidae;6;NA;3;NA;NA
+7824_1;Animalia;Arthropoda;Hexapoda;Insecta;NA;Coleoptera;Dytiscidae;Dytiscinae;NA;NA;NA;NA;Dytiscinae;NA;Dytiscinae;subfamily;NA;NA;NA;Dytiscidae;6;Dytiscidae;6;NA;NA;NA;NA
+8402570;Animalia;Arthropoda;Hexapoda;Insecta;NA;Coleoptera;Dytiscidae;Hydroporinae;Hydroporini;Hydroporus;NA;foveolatus;Hydroporus foveolatus;Heer 1839;H_foveolatus;specie;NA;NA;NA;Dytiscidae;6;Dytiscidae;6;NA;NA;NA;NA
+1038204;Animalia;Arthropoda;Hexapoda;Insecta;NA;Coleoptera;Dytiscidae;Hydroporinae;NA;Hydroporus;NA;NA;Hydroporus;NA;Hydroporus;genus;NA;NA;NA;Dytiscidae;6;Dytiscidae;6;NA;NA;NA;NA
+fe_118888;Animalia;Arthropoda;Hexapoda;Insecta;NA;Coleoptera;Dytiscidae;Hydroporinae;NA;NA;NA;NA;Hydroporinae;NA;Hydroporinae;subfamily;NA;NA;NA;Dytiscidae;6;Dytiscidae;6;NA;NA;NA;NA
+fe_7824;Animalia;Arthropoda;Hexapoda;Insecta;NA;Coleoptera;Dytiscidae;Lacophilinae;NA;NA;NA;NA;Lacophilinae;NA;Lacophilinae;subfamily;NA;NA;NA;Dytiscidae;6;Dytiscidae;6;NA;NA;NA;NA
+1038695;Animalia;Arthropoda;Hexapoda;Insecta;NA;Coleoptera;Dytiscidae;NA;NA;Deronectes;NA;NA;Deronectes;NA;Deronectes;genus;NA;NA;NA;Dytiscidae;6;Dytiscidae;6;NA;NA;NA;NA
+4470120;Animalia;Arthropoda;Hexapoda;Insecta;NA;Coleoptera;Dytiscidae;NA;NA;Deronectes;NA;platynotus;Deronectes platynotus;Germar 1834;D_platynotus;specie;NA;NA;NA;Dytiscidae;6;Dytiscidae;6;NA;3;NA;NA
+7824;Animalia;Arthropoda;Hexapoda;Insecta;NA;Coleoptera;Dytiscidae;NA;NA;NA;NA;NA;Dytiscidae;NA;Dytiscidae;family;NA;NA;NA;Dytiscidae;6;Dytiscidae;6;NA;NA;NA;NA
+1038098;Animalia;Arthropoda;Hexapoda;Insecta;NA;Coleoptera;Dytiscidae;NA;NA;Oreodytes;NA;NA;Oreodytes;NA;Oreodytes;specie;NA;NA;NA;Dytiscidae;6;Dytiscidae;6;NA;NA;NA;NA
+1038118;Animalia;Arthropoda;Hexapoda;Insecta;NA;Coleoptera;Dytiscidae;NA;NA;Oreodytes;NA;sanmarki;Oreodytes sanmarki;C.R.Sahlberg,1826;O_sanmarki;specie;NA;NA;NA;Dytiscidae;6;Dytiscidae;6;NA;3;NA;NA
+4469793;Animalia;Arthropoda;Hexapoda;Insecta;NA;Coleoptera;Dytiscidae;NA;NA;Platambus;NA;maculatus;Platambus maculatus;Linnaeus 1758;P_maculatus;specie;NA;NA;NA;Dytiscidae;6;Dytiscidae;6;NA;3;NA;NA
+4427707;Animalia;Arthropoda;Hexapoda;Insecta;NA;Coleoptera;Elmidae;NA;NA;Elmis;NA;aenea;Elmis aenea;Müller 1806;E_aenea;specie;NA;NA;3;Elmidae;6;E_aenea;7;4.7;3;6;0.307
+4427714;Animalia;Arthropoda;Hexapoda;Insecta;NA;Coleoptera;Elmidae;NA;NA;Elmis;NA;latreillei;Elmis latreillei;Bedel 1878;E_latreillei;specie;NA;NA;NA;Elmidae;6;NA;NA;NA;4;NA;NA
+4427700;Animalia;Arthropoda;Hexapoda;Insecta;NA;Coleoptera;Elmidae;NA;NA;Elmis;NA;maugetii;Elmis maugetii;Latreille 1802;E_maugetii;specie;NA;NA;NA;Elmidae;6;NA;NA;NA;3;NA;NA
+1033468;Animalia;Arthropoda;Hexapoda;Insecta;NA;Coleoptera;Elmidae;NA;NA;Elmis;NA;NA;Elmis;NA;Elmis;genus;NA;NA;NA;Elmidae;6;NA;NA;NA;NA;NA;NA
+4427742;Animalia;Arthropoda;Hexapoda;Insecta;NA;Coleoptera;Elmidae;NA;NA;Esolus;NA;angustatus;Esolus angustatus;Müller 1821;E_angustatus;specie;NA;NA;NA;Elmidae;6;NA;NA;NA;3;NA;NA
+8908468;Animalia;Arthropoda;Hexapoda;Insecta;NA;Coleoptera;Elmidae;NA;NA;Esolus;NA;NA;Esolus;NA;Esolus;genus;NA;NA;NA;Elmidae;6;NA;NA;NA;3;NA;NA
+4427738;Animalia;Arthropoda;Hexapoda;Insecta;NA;Coleoptera;Elmidae;NA;NA;Esolus;NA;parallelepipedus;Esolus parallelepipedus;Müller 1806;E_parallelepipedus;specie;NA;NA;NA;Elmidae;6;E_parallelepipedus;8;NA;NA;7;0.307
+7922067;Animalia;Arthropoda;Hexapoda;Insecta;NA;Coleoptera;Elmidae;NA;NA;Limnius;NA;NA;Limnius;NA;Limnius;genus;NA;NA;NA;Elmidae;6;Oulimnius;6;NA;NA;4;0.329
+4427727;Animalia;Arthropoda;Hexapoda;Insecta;NA;Coleoptera;Elmidae;NA;NA;Limnius;NA;perrisi;Limnius perrisi;Dufour 1843;L_perrisi;specie;NA;NA;NA;Elmidae;6;NA;NA;NA;4;NA;NA
+4427719;Animalia;Arthropoda;Hexapoda;Insecta;NA;Coleoptera;Elmidae;NA;NA;Limnius;NA;volckmari;Limnius volckmari;Panzer 1793;L_volckmari;specie;NA;NA;3;Elmidae;6;L_volckmari;6;5.6;NA;6;0.39
+7826;Animalia;Arthropoda;Hexapoda;Insecta;NA;Coleoptera;Elmidae;NA;NA;NA;NA;NA;Elmidae;NA;Elmidae;family;NA;NA;NA;Elmidae;6;NA;NA;NA;NA;NA;NA
+1033643;Animalia;Arthropoda;Hexapoda;Insecta;NA;Coleoptera;Elmidae;NA;NA;Oulimnius;NA;NA;Oulimnius;NA;Oulimnius;genus;NA;NA;NA;Elmidae;6;Oulimnius;6;NA;NA;4;0.329
+4427688;Animalia;Arthropoda;Hexapoda;Insecta;NA;Coleoptera;Elmidae;NA;NA;Oulimnius;NA;tuberculatus;Oulimnius tuberculatus;Müller 1806;O_tuberculatus;specie;NA;NA;NA;Elmidae;6;NA;NA;4.9;NA;4;0.329
+4427688_1;Animalia;Arthropoda;Hexapoda;Insecta;NA;Coleoptera;Elmidae;NA;NA;Potamophilus;NA;NA;Potamophilus;NA;Potamophilus;genus;NA;NA;NA;Elmidae;6;NA;NA;NA;NA;NA;NA
+9646;Animalia;Arthropoda;Hexapoda;Insecta;NA;Coleoptera;Gyrinidae;NA;NA;NA;NA;NA;Gyrinidae;NA;Gyrinidae;family;NA;NA;NA;Gyrinidae;3;Gyrinidae;6;NA;NA;NA;NA
+6984;Animalia;Arthropoda;Hexapoda;Insecta;NA;Coleoptera;Haliplidae;NA;NA;NA;NA;NA;Haliplidae;NA;Haliplidae;family;NA;NA;NA;Haliplidae;6;NA;NA;NA;NA;NA;NA
+3263442;Animalia;Arthropoda;Hexapoda;Insecta;NA;Coleoptera;Helophoridae;NA;NA;Helophorus;NA;NA;Helophorus;NA;Helophorus;genus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+6985;Animalia;Arthropoda;Hexapoda;Insecta;NA;Coleoptera;Helophoridae;NA;NA;NA;NA;NA;Helophoridae;NA;Helophoridae;family;NA;NA;NA;Helophoridae;6;NA;NA;NA;NA;NA;NA
+5748088;Animalia;Arthropoda;Hexapoda;Insecta;NA;Coleoptera;Hydraenidae;NA;NA;Hydraena;NA;gracilis;Hydraena gracilis;Germar 1823;H_gracilis;specie;NA;NA;NA;Hydrophilidae;6;H_gracilis;7;5.1;2;8;0.096
+1039107;Animalia;Arthropoda;Hexapoda;Insecta;NA;Coleoptera;Hydraenidae;NA;NA;Hydraena;NA;NA;Hydraena;NA;Hydraena;genus;NA;NA;NA;Hydrophilidae;6;NA;NA;NA;2;NA;NA
+5748058;Animalia;Arthropoda;Hexapoda;Insecta;NA;Coleoptera;Hydraenidae;NA;NA;Hydraena;NA;palustris;Hydraena palustris;Erichson 1837;H_palustris;specie;NA;NA;NA;Hydrophilidae;6;NA;NA;5;2;NA;NA
+5748171;Animalia;Arthropoda;Hexapoda;Insecta;NA;Coleoptera;Hydraenidae;NA;NA;Hydraena;NA;riparia;Hydraena riparia;Kugelann 1794;H_riparia;specie;NA;NA;NA;Hydrophilidae;6;NA;NA;5.4;3;NA;NA
+1039090;Animalia;Arthropoda;Hexapoda;Insecta;NA;Coleoptera;Hydraenidae;NA;NA;Limnebius;NA;NA;Limnebius;NA;Limnebius;genus;NA;NA;NA;Hydrophilidae;6;NA;NA;NA;NA;NA;NA
+4448316;Animalia;Arthropoda;Hexapoda;Insecta;NA;Coleoptera;Hydraenidae;NA;NA;Limnebius;NA;truncatellus;Limnebius truncatellus;Thunberg 1794;L_truncatellus;specie;NA;NA;NA;Hydrophilidae;6;NA;NA;NA;NA;8;0.096
+7829;Animalia;Arthropoda;Hexapoda;Insecta;NA;Coleoptera;Hydraenidae;NA;NA;NA;NA;NA;Hydraenidae;NA;Hydraenidae;family;NA;NA;NA;Hydrophilidae;6;NA;NA;NA;NA;NA;NA
+1034063;Animalia;Arthropoda;Hexapoda;Insecta;NA;Coleoptera;Hydrophilidae;NA;NA;Anacaena;NA;globula;Anacaena globula;Paykull 1798;A_globula;specie;NA;NA;NA;Hydrophilidae;6;NA;NA;NA;4;NA;NA
+1034062;Animalia;Arthropoda;Hexapoda;Insecta;NA;Coleoptera;Hydrophilidae;NA;NA;Anacaena;NA;NA;Anacaena;NA;Anacaena;genus;NA;NA;NA;Hydrophilidae;6;NA;NA;NA;NA;NA;NA
+1034345;Animalia;Arthropoda;Hexapoda;Insecta;NA;Coleoptera;Hydrophilidae;NA;NA;Laccobius;NA;NA;Laccobius;NA;Laccobius;genus;NA;NA;NA;Hydrophilidae;6;NA;NA;NA;NA;NA;NA
+7830;Animalia;Arthropoda;Hexapoda;Insecta;NA;Coleoptera;Hydrophilidae;NA;NA;NA;NA;NA;Hydrophilidae;NA;Hydrophilidae;family;NA;NA;NA;Hydrophilidae;6;NA;NA;NA;NA;NA;NA
+1470;Animalia;Arthropoda;Hexapoda;Insecta;NA;Coleoptera;NA;NA;NA;NA;NA;NA;Coleoptera;NA;Coleoptera;order;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4748;Animalia;Arthropoda;Hexapoda;Insecta;NA;Coleoptera;Noteridae;NA;NA;NA;NA;NA;Noteridae;NA;Noteridae;family;NA;NA;NA;Dytiscidae;6;Dytiscidae;6;NA;NA;NA;NA
+1161912;Animalia;Arthropoda;Hexapoda;Insecta;NA;Coleoptera;Scirtidae;NA;NA;Elodes;NA;NA;Elodes;NA;Elodes;genus;NA;NA;NA;Scirtidae;6;Scirtidae;7;5.1;3;NA;NA
+7849;Animalia;Arthropoda;Hexapoda;Insecta;NA;Coleoptera;Scirtidae;NA;NA;NA;NA;NA;Scirtidae;NA;Scirtidae;family;NA;NA;NA;Scirtidae;6;Scirtidae;7;NA;NA;NA;NA
+7854;Animalia;Arthropoda;Hexapoda;Insecta;NA;Coleoptera;Staphylinidae;NA;NA;NA;NA;NA;Staphylinidae;NA;Staphylinidae;family;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+1470_1;Animalia;Arthropoda;Hexapoda;Insecta;NA;Collembola;NA;NA;NA;NA;NA;NA;Collembola;NA;Collembola;order;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+3330;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Anthomyiidae;NA;NA;NA;NA;NA;Anthomyiidae;NA;Anthomyiidae;family;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+1501514;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Athericidae;NA;NA;Atherix;NA;ibis;Atherix ibis;Fabricius 1798;A_ibis;specie;NA;NA;NA;NA;NA;Atherix;6;NA;3;NA;NA
+1501505;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Athericidae;NA;NA;Atherix;NA;NA;Atherix;NA;Atherix;genus;NA;NA;NA;NA;NA;Atherix;6;NA;NA;NA;NA
+7278;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Athericidae;NA;NA;NA;NA;NA;Athericidae;NA;Athericidae;family;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+1630056;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Blephariceridae;NA;NA;Liponeura;NA;NA;Liponeura;NA;Liponeura;genus;NA;NA;NA;NA;NA;NA;NA;NA;2;NA;NA
+7283;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Blephariceridae;NA;NA;NA;NA;NA;Blephariceridae;NA;Blephariceridae;family;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+fe_3340;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Ceratopogonidae;Ceratopogoninae;NA;NA;NA;NA;Ceratopogoninae;NA;Ceratopogoninae;subfamily;NA;NA;NA;NA;NA;Ceratopogonidae;7;NA;NA;NA;NA
+ 1633624;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Ceratopogonidae;Forcipomyinae;NA;Forcipomyia;NA;NA;Forcipomyia;NA;Forcipomyia;genus;NA;NA;NA;NA;NA;Ceratopogonidae;7;NA;NA;NA;NA
+ fe_1633624;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Ceratopogonidae;Forcipomyinae;NA;NA;NA;NA;Forcipomyinae;NA;Forcipomyinae;subfamily;NA;NA;NA;NA;NA;Ceratopogonidae;7;NA;NA;NA;NA
+ fe_1633624_1;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Ceratopogonidae;Heleinae;NA;NA;NA;NA;Heleinae;NA;Heleinae;subfamily;NA;NA;NA;NA;NA;Ceratopogonidae;7;NA;NA;NA;NA
+1637599;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Ceratopogonidae;NA;NA;Bezzia;NA;NA;Bezzia;NA;Bezzia;genus;NA;NA;NA;NA;NA;Ceratopogonidae;7;NA;5;NA;NA
+1635616;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Ceratopogonidae;NA;NA;Dasyhelea;NA;NA;Dasyhelea;NA;Dasyhelea;genus;NA;NA;NA;NA;NA;Ceratopogonidae;7;NA;NA;NA;NA
+3340;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Ceratopogonidae;NA;NA;NA;NA;NA;Ceratopogonidae;NA;Ceratopogonidae;family;NA;NA;NA;NA;NA;Ceratopogonidae;7;NA;NA;NA;NA
+3342;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chaoboridae;NA;NA;NA;NA;NA;Chaoboridae;NA;Chaoboridae;family;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+1448433;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Chironominae;Chironomini;Chironomus;NA;anthracinus;Chironomus gr. anthracinus;Zetterstedt, 1860;C_anthracinus;speciesAggregate;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1448033;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Chironominae;Chironomini;Chironomus;NA;NA;Chironomus;NA;Chironomus;genus;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1448330;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Chironominae;Chironomini;Chironomus;NA;obtusidens;Chironomus gr. obtusidens;Goetghebuer, 1921;C_obtusidens;speciesAggregate;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1448391;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Chironominae;Chironomini;Chironomus;NA;plumosus;Chironomus gr. plumosus;Linnaeus, 1758;C_plumosus;speciesAggregate;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1448237;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Chironominae;Chironomini;Chironomus;NA;riparius;Chironomus riparius;Meigen, 1804;C_riparius;specie;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+gr_1450736;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Chironominae;Chironomini;Cladopelma;NA;goetghebueri;Cladopelma gr. goetghebueri;Spies & Saether, 2004;C_goetghebueri;speciesAggregate;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1450689;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Chironominae;Chironomini;Cladopelma;NA;NA;Cladopelma;NA;Cladopelma;genus;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1454615;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Chironominae;Chironomini;Cryptochironomus;NA;NA;Cryptochironomus;NA;Cryptochironomus;genus;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1453038;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Chironominae;Chironomini;Demicryptochironomus;NA;NA;Demicryptochironomus;NA;Demicryptochironomus;genus;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1453052;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Chironominae;Chironomini;Demicryptochironomus;NA;vulneratus;Demicryptochironomus vulneratus;Zetterstedt, 1838;D_vulneratus;specie;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1446357;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Chironominae;Chironomini;Dicrotendipes;NA;NA;Dicrotendipes;NA;Dicrotendipes;genus;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1446479;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Chironominae;Chironomini;Dicrotendipes;NA;nervosus;Dicrotendipes gr. nervosus;Staeger, 1839;D_nervosus;speciesAggregate;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1446404;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Chironominae;Chironomini;Dicrotendipes;NA;tritomus;Dicrotendipes gr. tritomus;Thienemann & Kieffer, 1916;D_tritomus;speciesAggregate;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1446158;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Chironominae;Chironomini;Endochironomus;NA;dispar;Endochironomus dispar;Meigen, 1830;E_dispar;specie;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1446121;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Chironominae;Chironomini;Endochironomus;NA;NA;Endochironomus;NA;Endochironomus;genus;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1447706;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Chironominae;Chironomini;Microchironomus;NA;NA;Microchironomus;NA;Microchironomus;genus;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+5767231;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Chironominae;Chironomini;Microtendipes;NA;chloris;Microtendipes chloris;Meigen, 1818;M_chloris;specie;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1447882;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Chironominae;Chironomini;Microtendipes;NA;NA;Microtendipes;NA;Microtendipes;genus;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+4297461;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Chironominae;Chironomini;Microtendipes;NA;pedellus;Microtendipes pedellus;De Geer, 1776;M_pedellus;specie;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+tri_1450655;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Chironominae;Chironomini;NA;NA;NA;Chironomini;NA;Chironomini;tribe;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1456396;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Chironominae;Chironomini;Pagastiella;NA;NA;Pagastiella;NA;Pagastiella;genus;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1456397;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Chironominae;Chironomini;Pagastiella;NA;orophila;Pagastiella orophila;Edwards, 1929;P_orophila;specie;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1456579;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Chironominae;Chironomini;Parachironomus;NA;NA;Parachironomus;NA;Parachironomus;genus;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1455629;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Chironominae;Chironomini;Paracladopelma;NA;camptolabis;Paracladopelma camptolabis;Kieffer, 1913;P_camptolabis;specie;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+gr_1455629;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Chironominae;Chironomini;Paracladopelma;NA;camptolabis_laminata;Paracladopelma gr. Camptolabis/laminata;NA;P_camptolabis_laminata;speciesAggregate;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1455604;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Chironominae;Chironomini;Paracladopelma;NA;NA;Paracladopelma;NA;Paracladopelma;genus;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+gr_4520187;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Chironominae;Chironomini;Paracladopelma;NA;nigritulum;Paracladopelma gr. nigritulum;Goetghebuer, 1942;P_nigritulum;speciesAggregate;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1448910;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Chironominae;Chironomini;Paralauterborniella;NA;NA;Paralauterborniella;NA;Paralauterborniella;genus;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;4;NA;NA
+gr_1448911;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Chironominae;Chironomini;Paralauterborniella;NA;nigrohalterale;Paralauterborniella nigrohalterale;Malloch, 1915;P_nigrohalterale;speciesAggregate;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;4;NA;NA
+5055244;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Chironominae;Chironomini;Paratendipes;NA;albimanus;Paratendipes albimanus;Meigen, 1804;P_albimanus;specie;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1447469;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Chironominae;Chironomini;Paratendipes;NA;NA;Paratendipes;NA;Paratendipes;genus;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1450655;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Chironominae;Chironomini;Phaenopsectra;NA;NA;Phaenopsectra;NA;Phaenopsectra;genus;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1456212;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Chironominae;Chironomini;Polypedilum;NA;albicorne;Polypedilum albicorne;Meigen, 1838;P_albicorne;specie;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;4;NA;NA
+gr_1456253;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Chironominae;Chironomini;Polypedilum;NA;bicrenatum;Polypedilum gr. bicrenatum;Kieffer, 1921;P_bicrenatum;speciesAggregate;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+gr_1456255;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Chironominae;Chironomini;Polypedilum;NA;convictum;Polypedilum gr. convictum;Walker, 1856;P_convictum;speciesAggregate;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+gr_1456192;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Chironominae;Chironomini;Polypedilum;NA;laetum;Polypedilum gr. laetum;Meigen, 1818;P_laetum;speciesAggregate;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1455710;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Chironominae;Chironomini;Polypedilum;NA;NA;Polypedilum;NA;Polypedilum;genus;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+gr_1456161;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Chironominae;Chironomini;Polypedilum;NA;nubeculosum;Polypedilum gr. nubeculosum;Meigen, 1804;P_nubeculosum;speciesAggregate;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+gr_1455797;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Chironominae;Chironomini;Polypedilum;NA;scalaenum;Polypedilum gr. scalaenum;Schrank, 1803;P_scalaenum;speciesAggregate;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1445997;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Chironominae;Chironomini;Stictochironomus;NA;NA;Stictochironomus;NA;Stictochironomus;genus;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+subf_1450655;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Chironominae;NA;NA;NA;NA;Chironominae;NA;Chironominae;subfamily;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1446574;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Chironominae;Pseudochironomini;Pseudochironomus;NA;NA;Pseudochironomus;NA;Pseudochironomus;genus;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1453119;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Chironominae;Tanytarsini;Cladotanytarsus;NA;mancus;Cladotanytarsus gr. mancus;Walker, 1856;C_mancus;speciesAggregate;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;5;NA;NA
+1453087;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Chironominae;Tanytarsini;Cladotanytarsus;NA;NA;Cladotanytarsus;NA;Cladotanytarsus;genus;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;5;NA;NA
+1449165;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Chironominae;Tanytarsini;Micropsectra;NA;apposita;Micropsectra apposita;Walker, 1856;M_apposita;specie;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;5;NA;NA
+1449214;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Chironominae;Tanytarsini;Micropsectra;NA;contracta;Micropsectra contracta;Reiss, 1965;M_contracta;speciesAggregate;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;5;NA;NA
+1449019;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Chironominae;Tanytarsini;Micropsectra;NA;NA;Micropsectra;NA;Micropsectra;genus;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;5;NA;NA
+1449058;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Chironominae;Tanytarsini;Micropsectra;NA;radialis;Micropsectra radialis;Goetghebuer, 1939;M_radialis;specie;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;5;NA;NA
+gr1_1449019;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Chironominae;Tanytarsini;Micropsectra;NA;spur_big;Micropsectra spur big;NA;M_spur_big;speciesAggregate;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;5;NA;NA
+gr2_1449019;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Chironominae;Tanytarsini;Micropsectra;NA;spur_small;Micropsectra spur small;NA;M_spur_small;speciesAggregate;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;5;NA;NA
+err_1451718;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Chironominae;Tanytarsini;NA;NA;NA;Tanytarsini;NA;Tanytarsini;tribe;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;5;NA;NA
+1456376;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Chironominae;Tanytarsini;Neozavrelia;NA;fuldensis;Neozavrelia fuldensis;Fitttkau, 1954;N_fuldensis;specie;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;5;NA;NA
+1456357;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Chironominae;Tanytarsini;Neozavrelia;NA;NA;Neozavrelia;NA;Neozavrelia;genus;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;5;NA;NA
+1450610;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Chironominae;Tanytarsini;Paratanytarsus;NA;austriacus;Paratanytarsus austriacus;Kieffer, 1924;P_austriacus;specie;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;5;NA;NA
+1450575;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Chironominae;Tanytarsini;Paratanytarsus;NA;laccophilus;Paratanytarsus laccophilus;Edwards, 1929;P_laccophilus;specie;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;5;NA;NA
+1450500;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Chironominae;Tanytarsini;Paratanytarsus;NA;NA;Paratanytarsus;NA;Paratanytarsus;genus;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;5;NA;NA
+1452161;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Chironominae;Tanytarsini;Tanytarsus;NA;lugens;Tanytarsus gr. lugens;Thienemann & Kieffer, 1916;T_lugens;specie;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;5;NA;NA
+1451718;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Chironominae;Tanytarsini;Tanytarsus;NA;NA;Tanytarsus;NA;Tanytarsus;genus;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;5;NA;NA
+1451848;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Chironominae;Tanytarsini;Tanytarsus;NA;niger;Tanytarsus niger;Soegaard Andersen, 1937;T_niger;specie;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;5;NA;NA
+1445876;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Diamesinae;Boreoheptagyiini;Boreoheptagyia;NA;NA;Boreoheptagyia;NA;Boreoheptagyia;genus;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1452630;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Diamesinae;Diamesini;Diamesa;NA;cinerella;Diamesa cinerella;Meigen, 1835;D_cinerella;specie;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1452638;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Diamesinae;Diamesini;Diamesa;NA;latitarsis;Diamesa latitarsis;Goetghebeuer, 1921;D_latitarsis;specie;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+8545211;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Diamesinae;Diamesini;Diamesa;NA;NA;Diamesa;NA;Diamesa;genus;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+tribe_1447076;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Diamesinae;Diamesini;NA;NA;NA;Diamesini;NA;Diamesini;tribe;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1447076;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Diamesinae;Diamesini;Pagastia;NA;NA;Pagastia;NA;Pagastia;genus;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1447089;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Diamesinae;Diamesini;Pagastia;NA;orientalis;Pagastia orientalis;Chernovskii, 1949;P_orientalis;specie;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1445515;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Diamesinae;Diamesini;Potthastia;NA;gaedii;Potthastia gaedii;Meigen, 1838;P_gaedii;specie;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1445509;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Diamesinae;Diamesini;Potthastia;NA;NA;Potthastia;NA;Potthastia;genus;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1451078;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Diamesinae;Diamesini;Protanypus;NA;NA;Protanypus;NA;Protanypus;genus;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1455688;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Diamesinae;Diamesini;Pseudodiamesa;NA;branickii;Pseudodiamesa branickii;Nowicki, 1873;P_branickii;specie;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;3;NA;NA
+1455682;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Diamesinae;Diamesini;Pseudodiamesa;NA;NA;Pseudodiamesa;NA;Pseudodiamesa;genus;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1455701;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Diamesinae;Diamesini;Pseudodiamesa;NA;nivosa;Pseudodiamesa nivosa;Goetghebuer, 1928;P_nivosa;specie;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+fe_409187;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Diamesinae;Diamesini;Pseudodiamesa;Pseudodiamesa;NA;Pseudodiamesa_Sub;NA;Pseudodiamesa_Sub;subgenus;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1452740;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Diamesinae;Diamesini;Pseudokiefferiella;NA;NA;Pseudokiefferiella;NA;Pseudokiefferiella;genus;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1452741;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Diamesinae;Diamesini;Pseudokiefferiella;NA;parva;Pseudokiefferiella parva;Edwards, 1932;P_parva;specie;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1445911;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Diamesinae;Diamesini;Sympotthastia;NA;NA;Sympotthastia;NA;Sympotthastia;genus;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1445912;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Diamesinae;Diamesini;Sympotthastia;NA;spinifera;Sympotthastia spinifera;Serra-Tosio, 1968;S_spinifera;specie;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+subf_1447076;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Diamesinae;NA;NA;NA;NA;Diamesinae;NA;Diamesinae;subfamily;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1453069;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;NA;NA;Arctopelopia;NA;NA;Arctopelopia;NA;Arctopelopia;genus;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+3343;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;NA;NA;NA;NA;NA;Chironomidae;NA;Chironomidae;family;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1446308;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;NA;NA;Sublettea;NA;NA;Sublettea;NA;Sublettea;genus;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1454593;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Orthocladiinae;NA;Brillia;NA;modesta;Brillia modesta;Meigen, 1830;B_modesta;specie;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;4;NA;NA
+1454579;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Orthocladiinae;NA;Brillia;NA;NA;Brillia;NA;Brillia;genus;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1451445;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Orthocladiinae;NA;Bryophaenocladius;NA;NA;Bryophaenocladius;NA;Bryophaenocladius;genus;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1451457;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Orthocladiinae;NA;Bryophaenocladius;NA;subvernalis;Bryophaenocladius subvernalis;Edwards, 1929;B_subvernalis;specie;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1452954;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Orthocladiinae;NA;Camptocladius;NA;NA;Camptocladius;NA;Camptocladius;genus;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1452956;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Orthocladiinae;NA;Camptocladius;NA;stercorarius;Camptocladius stercorarius;De Geer, 1776;C_stercorarius;specie;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+7349179;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Orthocladiinae;NA;Cardiocladius;NA;NA;Cardiocladius;NA;Cardiocladius;genus;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1445723;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Orthocladiinae;NA;Chaetocladius;NA;NA;Chaetocladius;NA;Chaetocladius;genus;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1445725;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Orthocladiinae;NA;Chaetocladius;NA;vitellinus;Chaetocladius gr. vitellinus;Kieffer, 1908;C_gr_vitellinus;speciesAggregate;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1452287;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Orthocladiinae;NA;Corynoneura;NA;lacustris;Corynoneura lacustris;Edwards, 1924;C_lacustris;specie;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1452290;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Orthocladiinae;NA;Corynoneura;NA;lobata;Corynoneura lobata;Edwards, 1924;C_lobata;specie;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1452255;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Orthocladiinae;NA;Corynoneura;NA;NA;Corynoneura;NA;Corynoneura;genus;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1452334;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Orthocladiinae;NA;Corynoneura;NA;scutellata;Corynoneura scutellata;Winnertz, 1846;C_scutellata;specie;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1454015;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Orthocladiinae;NA;Cricotopus;NA;NA;Cricotopus;NA;Cricotopus;genus;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1452887;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Orthocladiinae;NA;Eukiefferiella;NA;brehmi;Eukiefferiella gr. Brehmi;Gouin, 1943;E_brehmi;speciesAggregate;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1452850;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Orthocladiinae;NA;Eukiefferiella;NA;brevicalcar;Eukiefferiella cf. brevicalcar;Kieffer, 1911;E_brevicalcar;speciesAggregate;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1452882;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Orthocladiinae;NA;Eukiefferiella;NA;claripennis;Eukiefferiella cf. claripennis;Lundbeck, 1898;E_claripennis;speciesAggregate;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1452842;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Orthocladiinae;NA;Eukiefferiella;NA;minor;Eukiefferiella minor;Edwards, 1929;E_minor;specie;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1452831;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Orthocladiinae;NA;Eukiefferiella;NA;NA;Eukiefferiella;NA;Eukiefferiella;genus;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1447036;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Orthocladiinae;NA;Heleniella;NA;NA;Heleniella;NA;Heleniella;genus;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1451071;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Orthocladiinae;NA;Heterotanytarsus;NA;apicalis;Heterotanytarsus apicalis;Kieffer, 1921;H_apicalis;specie;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1451068;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Orthocladiinae;NA;Heterotanytarsus;NA;NA;Heterotanytarsus;NA;Heterotanytarsus;genus;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1446335;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Orthocladiinae;NA;Heterotrissocladius;NA;marcidus;Heterotrissocladius marcidus;Walker, 1856;H_marcidus;specie;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;4;NA;NA
+1446312;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Orthocladiinae;NA;Heterotrissocladius;NA;NA;Heterotrissocladius;NA;Heterotrissocladius;genus;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1456540;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Orthocladiinae;NA;Krenosmittia;NA;NA;Krenosmittia;NA;Krenosmittia;genus;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1454396;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Orthocladiinae;NA;Limnophyes;NA;NA;Limnophyes;NA;Limnophyes;genus;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1450156;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Orthocladiinae;NA;Metriocnemus;NA;NA;Metriocnemus;NA;Metriocnemus;genus;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+fe_407917;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Orthocladiinae;NA;NA;NA;NA;Orthocladiinae;NA;Orthocladiinae;subfamily;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+sub_1449235;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Orthocladiinae;NA;Orthocladius;Eudactylocladius;NA;Eudactylocladius;NA;Eudactylocladius;subgenus;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1447202;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Orthocladiinae;NA;Orthocladius;NA;frigidus;Orthocladius frigidus;Zetterstedt, 1838;O_frigidus;specie;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;4;NA;NA
+1447114;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Orthocladiinae;NA;Orthocladius;NA;NA;Orthocladius;NA;Orthocladius;genus;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+gr_1454015;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Orthocladiinae;NA;Orthocladius_Cricotopus;NA;NA;Orthocladius/Cricotopus;NA;Orthocladius_Cricotopus;supragenericname;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1445979;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Orthocladiinae;NA;Paracladius;NA;NA;Paracladius;NA;Paracladius;genus;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1451175;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Orthocladiinae;NA;Parakiefferiella;NA;bathophila;Parakiefferiella bathophila;NA;P_bathophila;specie;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1451142;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Orthocladiinae;NA;Parakiefferiella;NA;NA;Parakiefferiella;NA;Parakiefferiella;genus;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1446100;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Orthocladiinae;NA;Parametriocnemus;NA;boreoalpina;Parametriocnemus boreoalpina;Gouin & Thienemann, 1942;P_boreoalpina;speciesAggregate;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1446081;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Orthocladiinae;NA;Parametriocnemus;NA;NA;Parametriocnemus;NA;Parametriocnemus;genus;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1446104;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Orthocladiinae;NA;Parametriocnemus;NA;stylatus;Parametriocnemus stylatus;Kieffer, 1924;P_stylatus;specie;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+5055302;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Orthocladiinae;NA;Paratrichocladius;NA;NA;Paratrichocladius;NA;Paratrichocladius;genus;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1453196;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Orthocladiinae;NA;Parorthocladius;NA;NA;Parorthocladius;NA;Parorthocladius;genus;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1453204;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Orthocladiinae;NA;Parorthocladius;NA;nudipennis;Parorthocladius nudipennis;Kieffer & Thienemann, 1908;P_nudipennis;specie;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1446644;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Orthocladiinae;NA;Psectrocladius;NA;NA;Psectrocladius;NA;Psectrocladius;genus;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+gr_1446753;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Orthocladiinae;NA;Psectrocladius;NA;sordidellus;Psectrocladius gr. sordidellus;Zetterstedt, 1838;P_sordidellus;speciesAggregate;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1445528;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Orthocladiinae;NA;Pseudosmittia;NA;NA;Pseudosmittia;NA;Pseudosmittia;genus;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1447439;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Orthocladiinae;NA;Rheocricotopus;NA;effusus;Rheocricotopus effusus;Walker, 1856;R_effusus;specie;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1447432;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Orthocladiinae;NA;Rheocricotopus;NA;fuscipes;Rheocricotopus fuscipes;Kieffer, 1909;R_fuscipes;specie;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1447370;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Orthocladiinae;NA;Rheocricotopus;NA;NA;Rheocricotopus;NA;Rheocricotopus;genus;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1454992;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Orthocladiinae;NA;Smittia;NA;NA;Smittia;NA;Smittia;genus;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1447793;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Orthocladiinae;NA;Stilocladius;NA;montanus;Stilocladius montanus;Rossaro, 1979;S_montanus;specie;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1447791;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Orthocladiinae;NA;Stilocladius;NA;NA;Stilocladius;NA;Stilocladius;genus;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1448994;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Orthocladiinae;NA;Synorthocladius;NA;NA;Synorthocladius;NA;Synorthocladius;genus;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1448997;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Orthocladiinae;NA;Synorthocladius;NA;semivirens;Synorthocladius semivirens;Kieffer, 1909;S_semivirens;specie;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1455301;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Orthocladiinae;NA;Thienemanniella;NA;clavicornis;Thienemanniella clavicornis;Kieffer, 1911;T_clavicornis;specie;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1455279;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Orthocladiinae;NA;Thienemanniella;NA;NA;Thienemanniella;NA;Thienemanniella;genus;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1446288;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Orthocladiinae;NA;Tvetenia;NA;calvescens;Tvetenia calvescens;Edwards, 1929;T_calvescens;specie;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+4297594;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Orthocladiinae;NA;Tvetenia;NA;discoloripes;Tvetenia discoloripes;Goetghebuer & Thienemann, 1936;T_discoloripes;specie;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1446282;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Orthocladiinae;NA;Tvetenia;NA;NA;Tvetenia;NA;Tvetenia;genus;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1453029;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Prodiamesinae;NA;Monodiamesa;NA;bathyphila;Monodiamesa bathyphila;Kieffer, 1918;M_bathyphila;specie;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1453019;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Prodiamesinae;NA;Monodiamesa;NA;NA;Monodiamesa;NA;Monodiamesa;specie;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1448918;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Prodiamesinae;NA;Odontomesa;NA;fulva;Odontomesa fulva;Kieffer, 1919;O_fulva;specie;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1448914;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Prodiamesinae;NA;Odontomesa;NA;NA;Odontomesa;NA;Odontomesa;genus;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1447595;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Prodiamesinae;NA;Prodiamesa;NA;NA;Prodiamesa;NA;Prodiamesa;genus;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1447598;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Prodiamesinae;NA;Prodiamesa;NA;olivacea;Prodiamesa olivacea;Meigen, 1818;P_olivacea;specie;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1447596;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Prodiamesinae;NA;Prodiamesa;NA;rufovittata;Prodiamesa rufovittata;Goetghebuer & Thienemann, 1932;P_rufovittata;specie;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1450272;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Tanypodinae;Macropelopiini;Apsectrotanypus;NA;NA;Apsectrotanypus;NA;Apsectrotanypus;genus;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1450281;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Tanypodinae;Macropelopiini;Apsectrotanypus;NA;trifascipennis;Apsectrotanypus trifascipennis;Zetterstedt, 1838;A_trifascipennis;specie;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1447580;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Tanypodinae;Macropelopiini;Macropelopia;NA;adaucta;Macropelopia cf. adaucta;Kieffer, 1916;M_adaucta;speciesAggregate;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1447525;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Tanypodinae;Macropelopiini;Macropelopia;NA;NA;Macropelopia;NA;Macropelopia;genus;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+fe_409291;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Tanypodinae;NA;NA;NA;NA;Tanypodinae;NA;Tanypodinae;subfamily;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;5;NA;NA
+1450425;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Tanypodinae;Pentaneurini;Ablabesmyia;NA;longistyla;Ablabesmyia pr. longistyla;Fittkau, 1962;A_longistyla;speciesAggregate;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1450453;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Tanypodinae;Pentaneurini;Ablabesmyia;NA;monilis;Ablabesmyia monilis;Linnaeus, 1758;A_monilis;specie;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1450386;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Tanypodinae;Pentaneurini;Ablabesmyia;NA;NA;Ablabesmyia;NA;Ablabesmyia;genus;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1455447;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Tanypodinae;Pentaneurini;Conchapelopia;NA;NA;Conchapelopia;NA;Conchapelopia;genus;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+tr_1455447;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Tanypodinae;Pentaneurini;NA;NA;NA;Pentaneurini;NA;Pentaneurini;tribe;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1452977;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Tanypodinae;Pentaneurini;Paramerina;NA;divisa;Paramerina divisa;Walker, 1856;P_divisa;specie;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1452976;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Tanypodinae;Pentaneurini;Paramerina;NA;NA;Paramerina;NA;Paramerina;genus;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1452768;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Tanypodinae;Pentaneurini;Thienemannimyia;NA;NA;Thienemannimyia;NA;Thienemannimyia;genus;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+gr_1452782;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Tanypodinae;Pentaneurini;Thienemannimyia;NA;northumbrica;Thienemannimyia pr. northumbrica;Edwards, 1929;T_northumbrica;speciesAggregate;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1449553;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Tanypodinae;Pentaneurini;Zavrelimyia;NA;barbatipes;Zavrelimyia cf. barbatipes;Kieffer, 1911;Z_barbatipes;speciesAggregate;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;4;NA;NA
+1449534;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Tanypodinae;Pentaneurini;Zavrelimyia;NA;melanura;Zavrelimyia melanura;Meigen, 1804;Z_melanura;specie;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;4;NA;NA
+7626166;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Tanypodinae;Pentaneurini;Zavrelimyia;NA;NA;Zavrelimyia;NA;Zavrelimyia;genus;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;4;NA;NA
+sub_4520043;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Tanypodinae;Procladiini;Procladius;Holotanypus;NA;Holotanypus;NA;Holotanypus;subgenus;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1449321;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Tanypodinae;Procladiini;Procladius;NA;choreus;Procladius choreus;Meigen, 1804;P_choreus;specie;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+1449280;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Chironomidae;Tanypodinae;Procladiini;Procladius;NA;NA;Procladius;NA;Procladius;genus;NA;NA;NA;Chironomidae;4;Chironomidae;5;NA;NA;NA;NA
+3346;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Culicidae;NA;NA;NA;NA;NA;Culicidae;NA;Culicidae;family;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+1650073;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Culicidae;NA;NA;Ochlerotatus;NA;NA;Ochlerotatus;NA;Ochlerotatus;genus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+1569552;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Dixidae;NA;NA;Dixa;NA;NA;Dixa;NA;Dixa;genus;NA;NA;2;NA;NA;Dixa;10;NA;NA;7;0.408
+ 7304;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Dixidae;NA;NA;NA;NA;NA;Dixidae;NA;Dixidae;family;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+fe_9483;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Empididae;Clinocerinae;NA;NA;NA;NA;Clinocerinae;NA;Clinocerinae;subfamily;NA;NA;NA;NA;NA;Empididae;6;NA;NA;6;0.608
+9483;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Empididae;NA;NA;NA;NA;NA;Empididae;NA;Empididae;family;NA;NA;NA;NA;NA;Empididae;6;NA;NA;6;0.608
+9483_1;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Ephydridae;NA;NA;Hydrella;NA;NA;Hydrella;NA;Hydrella;genus;NA;NA;NA;NA;NA;NA;NA;NA;NA;4;0.472
+5549;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Ephydridae;NA;NA;NA;NA;NA;Ephydridae;NA;Ephydridae;family;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+3264603;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Limoniidae;Hexatominae;NA;Hexatoma;NA;NA;Hexatoma;NA;Hexatoma;genus;NA;NA;NA;NA;NA;NA;NA;NA;NA;4;0.472
+fe_165262070;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Limoniidae;Limnophilinae;NA;NA;NA;NA;Limnophilinae;NA;Limnophilinae;subfamily;NA;NA;NA;NA;NA;NA;NA;NA;NA;4;0.472
+165262070;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Limoniidae;Limoniinae;NA;NA;NA;NA;Limoniinae;NA;Limoniinae;subfamily;NA;NA;NA;NA;NA;Limoniinae;6;NA;NA;4;0.472
+165262070_1;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Limoniidae;Limoniinae;NA;Oxydiscus;NA;NA;Oxydiscus;NA;Oxydiscus;genus;NA;NA;NA;NA;NA;Limoniinae;6;NA;NA;4;0.472
+1513860;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Limoniidae;NA;NA;Antocha;NA;NA;Antocha;NA;Antocha;genus;NA;NA;NA;NA;NA;NA;NA;NA;NA;4;0.472
+1522028;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Limoniidae;NA;NA;Eloeophila;NA;NA;Eloeophila;NA;Eloeophila;genus;NA;NA;NA;NA;NA;NA;NA;NA;5;4;0.472
+1520958;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Limoniidae;NA;NA;Limnophila;NA;NA;Limnophila;NA;Limnophila;genus;NA;NA;NA;NA;NA;NA;NA;NA;3;4;0.472
+1518868;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Limoniidae;NA;NA;Molophilus;NA;NA;Molophilus;NA;Molophilus;genus;NA;NA;NA;NA;NA;NA;NA;NA;3;4;0.472
+5580;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Limoniidae;NA;NA;NA;NA;NA;Limoniidae;NA;Limoniidae;family;NA;NA;NA;NA;NA;NA;NA;NA;NA;4;0.472
+1527221;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Muscidae;NA;NA;Lispe;NA;NA;Lipse;NA;Lipse;genus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+5564;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Muscidae;NA;NA;NA;NA;NA;Muscidae;NA;Muscidae;family;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+811;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;NA;NA;NA;NA;NA;NA;Diptera;NA;Diptera;order;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+1510247;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Pediciidae;NA;NA;Dicranota;NA;NA;Dicranota;NA;Dicranota;genus;NA;NA;4;NA;NA;NA;NA;NA;4;2;0.472
+3315;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Pediciidae;NA;NA;NA;NA;NA;Pediciidae;NA;Pediciidae;family;NA;NA;NA;NA;NA;NA;NA;NA;4;2;0.472
+1510522;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Pediciidae;NA;NA;Pedicia;NA;NA;Pedicia;NA;Pedicia;genus;NA;NA;NA;NA;NA;NA;NA;NA;4;4;0.472
+1510553;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Pediciidae;NA;NA;Pedicia;NA;rivosa;Pedicia rivosa;Linnaeus, 1758;P_rivosa;specie;NA;NA;NA;NA;NA;NA;NA;NA;5;4;0.472
+9164;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Psychodidae;NA;NA;NA;NA;NA;Psychodidae;NA;Psychodidae;family;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+1641770;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Psychodidae;NA;NA;Pericoma;NA;NA;Pericoma;NA;Pericoma;genus;NA;NA;NA;NA;NA;NA;NA;5.3;NA;NA;NA
+5585;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Ptychopteridae;NA;NA;NA;NA;NA;NA;NA;Ptychopteridae;family;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+5587;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Rhagionidae;NA;NA;NA;NA;NA;Rhagionidae;NA;Rhagionidae;family;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+3525;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Sciaridae;NA;NA;NA;NA;NA;Sciaridae;NA;Sciaridae;family;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+3524;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Sciomyzidae;NA;NA;NA;NA;NA;Sciomyzidae;NA;Sciomyzidae;family;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+3522;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Simuliidae;NA;NA;NA;NA;NA;Simuliidae;NA;Simuliidae;family;NA;NA;NA;Simuliidae;3;Simuliidae;5;NA;NA;4;0.494
+1646340;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Simuliidae;NA;NA;Prosimulium;NA;latimucro;Prosimulium latimucro;Enderlein, 1925;P_latimucro;specie;NA;NA;NA;Simuliidae;3;Simuliidae;5;NA;NA;4;0.494
+1646316;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Simuliidae;NA;NA;Prosimulium;NA;NA;Prosimulium;NA;Prosimulium;genus;NA;NA;NA;Simuliidae;3;Simuliidae;5;NA;4;4;0.494
+1646352;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Simuliidae;NA;NA;Prosimulium;NA;rufipes;Prosimulium rufipes;Meigen, 1830;P_rufipes;specie;NA;NA;NA;Simuliidae;3;Simuliidae;5;NA;3;4;0.494
+1646421;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Simuliidae;NA;NA;Prosimulium;NA;tomosvaryi;Prosimulium tomosvaryi;Enderlein, 1921;P_tomosvaryi;specie;NA;NA;NA;Simuliidae;3;Simuliidae;5;NA;3;4;0.494
+sub_5734043;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Simuliidae;NA;NA;Simulium;Eusimulium;NA;Eusimulium;NA;Eusimulium;subgenus;NA;NA;NA;Simuliidae;3;Simuliidae;5;NA;NA;4;0.494
+1645554;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Simuliidae;NA;NA;Simulium;NA;argyreatum;Simulium argyreatum;Meigen, 1838;S_argyreatum;specie;NA;NA;NA;Simuliidae;3;Simuliidae;5;NA;3;4;0.494
+1644695;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Simuliidae;NA;NA;Simulium;NA;brevidens;Simulium brevidens;Rubtsov, 1956;S_brevidens;specie;NA;NA;NA;Simuliidae;3;Simuliidae;5;NA;3;4;0.494
+1644513;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Simuliidae;NA;NA;Simulium;NA;carpathicum;Simulium carpathicum;Knoz, 1961;S_carpathicum;specie;NA;NA;NA;Simuliidae;3;Simuliidae;5;NA;4;4;0.494
+104727281;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Simuliidae;NA;NA;Simulium;NA;costatum;Simulium costatum;Friederichs, 1920;S_costatum;specie;NA;NA;NA;Simuliidae;3;Simuliidae;5;NA;2;4;0.494
+1645756;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Simuliidae;NA;NA;Simulium;NA;crenobium;Simulium crenobium;Knoz, 1961;S_crenobium;specie;NA;NA;NA;Simuliidae;3;Simuliidae;5;NA;4;4;0.494
+1645637;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Simuliidae;NA;NA;Simulium;NA;cryophilum;Simulium cryophilum;Rubtsov, 1959;S_cryophilum;specie;NA;NA;NA;Simuliidae;3;Simuliidae;5;NA;4;4;0.494
+1643542;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Simuliidae;NA;NA;Simulium;NA;maximum;Simulium maximum;Knoz, 1961;S_maximum;specie;NA;NA;NA;Simuliidae;3;Simuliidae;5;NA;3;4;0.494
+1645776;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Simuliidae;NA;NA;Simulium;NA;monticola;Simulium monticola;Friederichs, 1920;S_monticola;specie;NA;NA;NA;Simuliidae;3;Simuliidae;5;NA;4;4;0.494
+5734043;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Simuliidae;NA;NA;Simulium;NA;NA;Simulium;NA;Simulium;genus;NA;NA;NA;Simuliidae;3;Simuliidae;5;NA;NA;4;0.494
+1643709;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Simuliidae;NA;NA;Simulium;NA;naturale;Simulium naturale;Davies, 1966;S_naturale;specie;NA;NA;NA;Simuliidae;3;Simuliidae;5;NA;4;4;0.494
+1645767;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Simuliidae;NA;NA;Simulium;NA;noelleri;Simulium noelleri;Friederichs, 1920;S_noelleri;specie;NA;NA;NA;Simuliidae;3;Simuliidae;5;NA;4;4;0.494
+1644216;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Simuliidae;NA;NA;Simulium;NA;ornatum;Simulium ornatum;Meigen, 1818;S_ornatum;specie;NA;NA;NA;Simuliidae;3;Simuliidae;5;NA;2;4;0.494
+1645694;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Simuliidae;NA;NA;Simulium;NA;reptans;Simulium reptans;Linnaeus, 1758;S_reptans;specie;NA;NA;NA;Simuliidae;3;Simuliidae;5;NA;2;4;0.494
+1643983;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Simuliidae;NA;NA;Simulium;NA;rheophilum;Simulium rheophilum;Tan & Chow, 1976;S_rheophilum;specie;NA;NA;NA;Simuliidae;3;Simuliidae;5;NA;3;4;0.494
+1645350;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Simuliidae;NA;NA;Simulium;NA;silvaticum;Simulium silvaticum;Rubtsov, 1962;S_silvaticum;speciesAggregate;NA;NA;NA;Simuliidae;3;Simuliidae;5;NA;NA;4;0.494
+1645801;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Simuliidae;NA;NA;Simulium;NA;trifasciatum;Simulium trifasciatum;Curtis, 1839;S_trifasciatum;specie;NA;NA;NA;Simuliidae;3;Simuliidae;5;NA;2;4;0.494
+1643648;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Simuliidae;NA;NA;Simulium;NA;tuberosum;Simulium tuberosum;Lundstrom, 1911;S_tuberosum;specie;NA;NA;NA;Simuliidae;3;Simuliidae;5;NA;3;4;0.494
+1645185;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Simuliidae;NA;NA;Simulium;NA;urbanum;Simulium urbanum;Davies, 1966;S_urbanum;specie;NA;NA;NA;Simuliidae;3;Simuliidae;5;NA;4;4;0.494
+1644714;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Simuliidae;NA;NA;Simulium;NA;variegatum;Simulium variegatum;Meigen, 1818;S_variegatum;specie;NA;NA;NA;Simuliidae;3;Simuliidae;5;NA;2;4;0.494
+1643766;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Simuliidae;NA;NA;Simulium;NA;vernum;Simulium vernum;Macquart, 1826;S_vernum;specie;NA;NA;NA;Simuliidae;3;Simuliidae;5;NA;4;4;0.494
+6923;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Stratiomyidae;NA;NA;NA;NA;NA;Stratiomyidae;NA;Stratiomyidae;family;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+6920;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Syrphidae;NA;NA;NA;NA;NA;Syrphidae;NA;Syrphidae;family;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+6919 ;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Tabanidae;NA;NA;NA;NA;NA;Tabanidae;NA;Tabanidae;family;NA;NA;NA;NA;NA;NA;NA;NA;5;4;0.289
+1444264;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Tabanidae;NA;NA;Tabanus;NA;NA;Tabanus;NA;Tabanus;genus;NA;NA;NA;NA;NA;Tabanus;6;NA;5;4;0.289
+3518;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Thaumaleidae;NA;NA;NA;NA;NA;Thaumaleidae;NA;Thaumaleidae;family;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+3517;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Therevida;NA;NA;NA;NA;NA;Therevida;NA;Therevida;family;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+1462962;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Therevida;NA;NA;Thereva;NA;NA;Thereva;NA;Thereva;genus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+1565464;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Therevida;NA;NA;Thereva;NA;plebeja;Thereva plebeja;Linnaeus, 1758;T_plebeja;specie;NA;NA;NA;NA;NA;NA;NA;NA;2;NA;NA
+7634;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Tipulidae;NA;NA;NA;NA;NA;Tipulidae;NA;Tipulidae;family;NA;NA;NA;Tipulidae;4;NA;NA;NA;NA;4;0.472
+1507029;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Tipulidae;NA;NA;Tipula;NA;montium;Tipula montium;Egger, 1863;T_montium;specie;NA;NA;NA;Tipulidae;4;T_montium;8;NA;4;4;0.472
+1446543;Animalia;Arthropoda;Hexapoda;Insecta;NA;Diptera;Tipulidae;NA;NA;Tipula;NA;NA;Tipula;NA;Tipula;genus;NA;NA;NA;Tipulidae;4;NA;NA;NA;4;4;0.472
+1407518;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Ameletidae;NA;NA;Ameletus;NA;inopinatus;Ameletus inopinatus;Eaton, 1887;A_inopinatus;specie;0.5;0.5;3;NA;NA;NA;NA;NA;3;5;0.648
+1407481;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Ameletidae;NA;NA;Ameletus;NA;NA;Ameletus;NA;Ameletus;genus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4481043;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Ameletidae;NA;NA;Metreletus;NA;balcanicus;Metreletus balcanicus;Ulmer, 1920;M_balcanicus;specie;NA;NA;NA;NA;NA;NA;NA;NA;3;NA;NA
+4481042;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Ameletidae;NA;NA;Metreletus;NA;NA;Metreletus;NA;Metreletus;genus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4294;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Ameletidae;NA;NA;NA;NA;NA;Ameletidae;NA;Ameletidae;family;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+1407539;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Baetidae;NA;NA;Acentrella;NA;lapponica;Acentrella lapponica;Bengtsson, 1912;A_lapponica;specie;NA;1;NA;Baetidae;6;NA;NA;NA;NA;NA;NA
+1407537;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Baetidae;NA;NA;Acentrella;NA;NA;Acentrella;NA;Acentrella;genus;NA;NA;NA;Baetidae;6;NA;NA;NA;NA;NA;NA
+6932000;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Baetidae;NA;NA;Alainites;NA;muticus;Alainites muticus;Linnaeus, 1758;A_muticus;specie;NA;NA;NA;Baetidae;6;NA;NA;NA;NA;8;0.432
+4683418;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Baetidae;NA;NA;Alainites;NA;NA;Alainites;NA;Alainites;genus;NA;NA;NA;Baetidae;6;NA;NA;NA;NA;NA;NA
+4481136;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Baetidae;NA;NA;Baetis;NA;alpinus;Baetis alpinus;Pictet, 1834;B_alpinus;specie;1;NA;NA;Baetidae;6;NA;NA;NA;2;NA;NA
+4481156;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Baetidae;NA;NA;Baetis;NA;fuscatus;Baetis fuscatus;Linnaeus, 1761;B_fuscatus;specie;1;1;2;Baetidae;6;NA;NA;NA;2;7.33;0.581
+4481119;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Baetidae;NA;NA;Baetis;NA;macani;Baetis macani;Kimmins, 1957;B_macani;specie;1;1;1;Baetidae;6;NA;NA;NA;3;NA;NA
+4481141;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Baetidae;NA;NA;Baetis;NA;melanonyx;Baetis melanonyx;Pictet, 1834;B_melanonyx;specie;1;NA;NA;Baetidae;6;NA;NA;NA;2;NA;NA
+4481093;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Baetidae;NA;NA;Baetis;NA;muticus;Baetis muticus;Linnaeus, 1758;B_muticus;specie;1;1;2;Baetidae;6;B_muticus;9;NA;2;NA;NA
+1407108;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Baetidae;NA;NA;Baetis;NA;NA;Baetis;NA;Baetis;genus;1;NA;NA;Baetidae;6;NA;NA;NA;3;NA;NA
+4481123;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Baetidae;NA;NA;Baetis;NA;niger;Baetis niger;Linnaeus, 1761;B_niger;specie;1;1;3;Baetidae;6;B_niger;8;5;2;NA;NA
+4481106;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Baetidae;NA;NA;Baetis;NA;rhodani;Baetis rhodani;Pictet, 1843;B_rhodani;specie;1;0.5;3;Baetidae;6;B_rhodani;8;4.9;3;6;0.685
+4481160;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Baetidae;NA;NA;Baetis;NA;scambus;Baetis scambus;Eaton, 1870;B_scambus;specie;1;1;2;Baetidae;6;B_scambus;7;NA;3;7.33;0.581
+4481115;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Baetidae;NA;NA;Baetis;NA;subalpinus;Baetis subalpinus;Bengtsson, 1917;B_subalpinus;specie;1;1;NA;Baetidae;6;NA;NA;NA;3;NA;NA
+4481086;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Baetidae;NA;NA;Baetis;NA;vernus;Baetis vernus;Curtis, 1834;B_vernus;specie;1;1;2;Baetidae;6;B_vernus;7;4.5;3;6;0.581
+4481189;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Baetidae;NA;NA;Centroptilum;NA;luteolum;Centroptilum luteolum;Müller, 1776;C_luteolum;specie;NA;NA;3;Baetidae;6;C_luteolum;9;5.8;2;5.33;0.45
+1407705;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Baetidae;NA;NA;Centroptilum;NA;NA;Centroptilum;NA;Centroptilum;genus;NA;NA;NA;Baetidae;6;NA;NA;NA;NA;NA;NA
+1407879;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Baetidae;NA;NA;Cloeon;NA;dipterum;Cloeon dipterum;Linnaeus, 1761;C_dipterum;specie;NA;NA;3;Baetidae;6;NA;NA;NA;1;6;0.411
+1407878;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Baetidae;NA;NA;Cloeon;NA;NA;Cloeon;NA;Cloeon;genus;NA;NA;NA;Baetidae;6;NA;NA;NA;NA;NA;NA
+4481169;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Baetidae;NA;NA;Cloeon;NA;simile;Cloeon simile;Eaton, 1870;C_simile;specie;NA;NA;3;Baetidae;6;NA;NA;NA;NA;6;0.366
+7865;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Baetidae;NA;NA;NA;NA;NA;Baetidae;NA;Baetidae;family;NA;NA;NA;Baetidae;6;NA;NA;NA;NA;NA;NA
+6932171;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Baetidae;NA;NA;Nigrobaetis;NA;digitatus;Nigrobaetis digitatus;Bengtsson, 1912;N_digitatus;specie;NA;NA;1;Baetidae;6;NA;NA;NA;NA;8;0.432
+4683398;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Baetidae;NA;NA;Nigrobaetis;NA;NA;Nigrobaetis;NA;Nigrobaetis;genus;NA;NA;NA;Baetidae;6;NA;NA;NA;NA;NA;NA
+6932170;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Baetidae;NA;NA;Nigrobaetis;NA;niger;Nigrobaetis niger;Linnaeus, 1761;N_niger;specie;NA;NA;NA;Baetidae;6;NA;NA;NA;NA;5;0.432
+5757566;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Baetidae;NA;NA;Procloeon;NA;bifidum;Procloeon bifidum;Bengtsson, 1912;P_bifidum;specie;NA;NA;1;Baetidae;6;NA;NA;NA;3;8;0.432
+1407651;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Baetidae;NA;NA;Procloeon;NA;NA;Procloeon;NA;Procloeon;genus;NA;NA;NA;Baetidae;6;NA;NA;NA;NA;NA;NA
+5757628;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Caenidae;NA;NA;Caenis;NA;horaria;Caenis horaria;Linnaeus, 1758;C_horaria;specie;NA;1;2;Caenidae;6;NA;NA;6;NA;6.67;0.455
+5757622;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Caenidae;NA;NA;Caenis;NA;luctuosa;Caenis luctuosa;Burmeister, 1839;C_luctuosa;specie;NA;NA;1;Caenidae;6;NA;NA;NA;NA;8;0.617
+1408104;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Caenidae;NA;NA;Caenis;NA;NA;Caenis;NA;Caenis;genus;NA;NA;NA;Caenidae;6;NA;NA;NA;NA;NA;NA
+6932828;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Caenidae;NA;NA;Caenis;NA;rivulorum;Caenis rivulorum;Eaton, 1884;C_rivulorum;specie;NA;NA;1;Caenidae;6;C_rivulorum;7;NA;NA;8;0.413
+5757635;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Caenidae;NA;NA;Caenis;NA;robusta;Caenis robusta;Eaton, 1884;C_robusta;specie;NA;NA;NA;Caenidae;6;C_robusta;8;NA;NA;8;0.413
+7869;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Caenidae;NA;NA;NA;NA;NA;Caenidae;NA;Caenidae;family;NA;NA;NA;Caenidae;6;NA;NA;NA;NA;NA;NA
+5049045;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Ephemerellidae;NA;NA;Ephemerella;NA;aurivillii;Ephemerella aurivillii;Bengtsson, 1909;E_aurivillii;specie;NA;1;2;Ephemerellidae;6;NA;NA;NA;NA;NA;NA
+1408231;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Ephemerellidae;NA;NA;Ephemerella;NA;mucronata;Ephemerella mucronata;Bengtsson, 1909;E_mucronata;specie;NA;0;2;Ephemerellidae;6;NA;NA;NA;1;NA;NA
+1407473;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Ephemerellidae;NA;NA;Ephemerella;NA;NA;Ephemerella;NA;Ephemerella;genus;NA;NA;NA;Ephemerellidae;6;NA;NA;NA;NA;NA;NA
+7870;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Ephemerellidae;NA;NA;NA;NA;NA;Ephemerellidae;NA;Ephemerellidae;family;NA;NA;NA;Ephemerellidae;6;NA;NA;NA;NA;NA;NA
+6096704;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Ephemerellidae;NA;NA;Serratella;NA;ignita;Serratella ignita;Poda, 1761;S_ignita;specie;0;NA;2;Ephemerellidae;6;S_ignita;7;5;1;7;0.475
+1408175;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Ephemerellidae;NA;NA;Serratella;NA;NA;Serratella;NA;Serratella;genus;NA;NA;NA;Ephemerellidae;6;NA;NA;NA;NA;NA;NA
+5716472;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Ephemeridae;NA;NA;Ephemera;NA;danica;Ephemera danica;Müller, 1764;E_danica;specie;NA;NA;1;Ephemeridae;6;E_danica;9;NA;1;8;0.544
+1407107;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Ephemeridae;NA;NA;Ephemera;NA;NA;Ephemera;NA;Ephemera;genus;NA;NA;NA;Ephemeridae;6;NA;NA;NA;NA;NA;NA
+5864880;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Ephemeridae;NA;NA;Ephemera;NA;vulgata;Ephemera vulgata;Linnaeus, 1758;E_vulgata;specie;NA;NA;2;Ephemeridae;6;NA;NA;NA;NA;6.67;0.631
+4298;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Ephemeridae;NA;NA;NA;NA;NA;Ephemeridae;NA;Ephemeridae;family;NA;NA;NA;Ephemeridae;6;NA;NA;NA;NA;NA;NA
+4481305;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Heptageniidae;NA;NA;Arthroplea;NA;congener;Arthroplea congener;Bengtsson, 1908;A_congener;specie;NA;NA;4;Heptageniidae;6;NA;NA;NA;NA;2;0.577
+1408436;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Heptageniidae;NA;NA;Arthroplea;NA;NA;Arthroplea;NA;Arthroplea;genus;NA;NA;NA;Heptageniidae;6;NA;NA;NA;NA;NA;NA
+gr_4481450;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Heptageniidae;NA;NA;Ecdyonurus;NA;helveticus_venosus;Ecdyonurus gr. helveticus/venosus;NA;E_helveticus_venosus;speciesAggregate;NA;NA;NA;Heptageniidae;6;Ecdyonurus;8;NA;NA;8;0.577
+1408837;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Heptageniidae;NA;NA;Ecdyonurus;NA;NA;Ecdyonurus;NA;Ecdyonurus;genus;NA;NA;NA;Heptageniidae;6;Ecdyonurus;8;NA;2;8;0.577
+4481477;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Heptageniidae;NA;NA;Ecdyonurus;NA;torrentis;Ecdyonurus torrentis;Kimmins, 1942;E_torrentis;specie;NA;NA;NA;Heptageniidae;6;Ecdyonurus;8;NA;1;8;0.577
+4481461;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Heptageniidae;NA;NA;Ecdyonurus;NA;venosus;Ecdyonurus venosus;Fabricius, 1775;E_venosus;speciesAggregate;NA;NA;NA;Heptageniidae;6;Ecdyonurus;8;NA;2;8;0.577
+4481521;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Heptageniidae;NA;NA;Electrogena;NA;lateralis;Electrogena lateralis;Curtis, 1834;E_lateralis;specie;NA;NA;NA;Heptageniidae;6;NA;NA;NA;2;8;0.577
+4405547;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Heptageniidae;NA;NA;Electrogena;NA;NA;Electrogena;NA;Electrogena;genus;NA;NA;NA;Heptageniidae;6;NA;NA;NA;NA;NA;NA
+4481511;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Heptageniidae;NA;NA;Electrogena;NA;quadrilineata;Electrogena quadrilineata;Landa, 1970;E_quadrilineata;specie;NA;NA;NA;Heptageniidae;6;NA;NA;NA;2;NA;NA
+4481513;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Heptageniidae;NA;NA;Electrogena;NA;ujhelyii;Electrogena ujhelyii;Sowa, 1981;E_ujhelyii;specie;NA;NA;NA;Heptageniidae;6;NA;NA;NA;3;NA;NA
+ 4481328;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Heptageniidae;NA;NA;Epeorus;NA;alpicola;Epeorus alpicola;NA;E_alpicola;specie;NA;NA;NA;Heptageniidae;6;NA;NA;NA;2;NA;NA
+4481326;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Heptageniidae;NA;NA;Epeorus;NA;assimilis;Epeorus assimilis;Eaton, 1865;E_assimilis;specie;NA;NA;NA;Heptageniidae;6;NA;NA;NA;2;NA;NA
+1408551;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Heptageniidae;NA;NA;Epeorus;NA;NA;Epeorus;NA;Epeorus;genus;NA;NA;NA;Heptageniidae;6;NA;NA;NA;NA;NA;NA
+4481432;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Heptageniidae;NA;NA;Heptagenia;NA;dalecarlica;Heptagenia dalecarlica ;Bengtsson, 1912;H_dalecarlica;specie;NA;NA;2;Heptageniidae;6;NA;NA;NA;NA;NA;NA
+6096705;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Heptageniidae;NA;NA;Heptagenia;NA;fuscogrisea;Heptagenia fuscogrisea;Retzius, 1783;H_fuscogrisea;specie;NA;0;4;Heptageniidae;6;NA;NA;4.8;NA;NA;NA
+8552354;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Heptageniidae;NA;NA;Heptagenia;NA;joernensis;Heptagenia joernensis;Aro, 1928;H_joernensis;specie;NA;NA;NA;Heptageniidae;6;NA;NA;NA;NA;NA;NA
+6096711;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Heptageniidae;NA;NA;Heptagenia;NA;lateralis;Heptagenia lateralis;Curtis, 1834;H_lateralis;specie;NA;NA;NA;Heptageniidae;6;H_lateralis;8;NA;NA;NA;NA
+1407103;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Heptageniidae;NA;NA;Heptagenia;NA;NA;Heptagenia;NA;Heptagenia;genus;NA;NA;NA;Heptageniidae;6;NA;NA;NA;NA;NA;NA
+4481425;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Heptageniidae;NA;NA;Heptagenia;NA;sulphurea;Heptagenia sulphurea;Müller, 1776;H_sulphurea;specie;NA;0.5;3;Heptageniidae;6;H_sulphurea;6;5;NA;5.5;0.608
+4481489;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Heptageniidae;NA;NA;Kageronia;NA;fuscogrisea;Kageronia fuscogrisea;Retzius, 1783;K_fuscogrisea;specie;NA;NA;NA;Heptageniidae;6;NA;NA;NA;NA;2;0.577
+4405254;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Heptageniidae;NA;NA;Kageronia;NA;NA;Kageronia;NA;Kageronia;genus;NA;NA;NA;Heptageniidae;6;NA;NA;NA;NA;NA;NA
+7873;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Heptageniidae;NA;NA;NA;NA;NA;Heptageniidae;NA;Heptageniidae;family;NA;NA;NA;Heptageniidae;6;NA;NA;NA;NA;NA;NA
+4481411;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Heptageniidae;NA;NA;Rhithrogena;NA;hybrida;Rhithrogena hybrida;Eaton, 1885;R_hybrida;specie;NA;NA;NA;Heptageniidae;6;Rhithrogena;8;NA;1;8;0.577
+1408385;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Heptageniidae;NA;NA;Rhithrogena;NA;NA;Rhithrogena;NA;Rhithrogena;genus;NA;NA;NA;Heptageniidae;6;Rhithrogena;8;NA;2;8;0.577
+4481214;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Leptophlebiidae;NA;NA;Habroleptoides;NA;confusa;Habroleptoides confusa;Sartori & Jacob, 1986;H_confusa;specie;NA;NA;NA;Leptophlebiidae;6;NA;NA;NA;1;NA;NA
+ 4404777;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Leptophlebiidae;NA;NA;Habroleptoides;NA;NA;Habroleptoides;NA;Habroleptoides;genus;NA;NA;NA;Leptophlebiidae;6;NA;NA;NA;NA;NA;NA
+1407344;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Leptophlebiidae;NA;NA;Habrophlebia;NA;fusca;Habrophlebia fusca;Curtis, 1834;H_fusca;specie;NA;NA;NA;Leptophlebiidae;6;H_fusca;9;NA;NA;8;0.353
+4481199;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Leptophlebiidae;NA;NA;Habrophlebia;NA;lauta;Habrophlebia lauta;McLachlan, 1884;H_lauta;specie;NA;NA;NA;Leptophlebiidae;6;NA;NA;NA;2;NA;NA
+1407340;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Leptophlebiidae;NA;NA;Habrophlebia;NA;NA;Habrophlebia;NA;Habrophlebia;genus;NA;NA;NA;Leptophlebiidae;6;NA;NA;NA;NA;NA;NA
+4481232;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Leptophlebiidae;NA;NA;Leptophlebia;NA;marginata;Leptophlebia marginata;Linnaeus, 1767;L_marginata;specie;NA;0;4;Leptophlebiidae;6;L_marginata;3;4.3;3;2;0.321
+1407190;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Leptophlebiidae;NA;NA;Leptophlebia;NA;NA;Leptophlebia;NA;Leptophlebia;genus;NA;NA;NA;Leptophlebiidae;6;NA;NA;NA;3;2;0.133
+4481234;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Leptophlebiidae;NA;NA;Leptophlebia;NA;vespertina;Leptophlebia vespertina;Linnaeus, 1758;L_vespertina;specie;NA;0;4;Leptophlebiidae;6;NA;NA;4.5;3;2;0.133
+7868;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Leptophlebiidae;NA;NA;NA;NA;NA;Leptophlebiidae;NA;Leptophlebiidae;family;NA;NA;NA;Leptophlebiidae;6;NA;NA;NA;NA;NA;NA
+1407240;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Leptophlebiidae;NA;NA;Paraleptophlebia;NA;NA;Paraleptophlebia;NA;Paraleptophlebia;genus;NA;NA;NA;Leptophlebiidae;6;NA;NA;4.9;NA;8;0.353
+4481237;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Leptophlebiidae;NA;NA;Paraleptophlebia;NA;submarginata;Paraleptophlebia submarginata;Stephens, 1835;P_submarginata;specie;NA;NA;NA;Leptophlebiidae;6;P_submarginata;9;4.9;4;8;0.353
+1408381;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Metretopodidae;NA;NA;Metretopus;NA;borealis;Metretopus borealis;Eaton, 1871;M_borealis;specie;NA;NA;1;NA;NA;NA;NA;NA;NA;NA;NA
+1408379;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Metretopodidae;NA;NA;Metretopus;NA;NA;Metretopus;NA;Metretopus;genus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4292;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Metretopodidae;NA;NA;NA;NA;NA;Metretopodidae;NA;Metretopodidae;family;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+1225;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;NA;NA;NA;NA;NA;NA;Ephemeroptera;NA;Ephemeroptera;order;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+7866;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Siphlonuridae;NA;NA;NA;NA;NA;Siphlonuridae;NA;Siphlonuridae;family;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+1407166;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Siphlonuridae;NA;NA;Parameletus;NA;chelifer;Parameletus chelifer;Bengtsson, 1908;P_chelifer;specie;NA;NA;2;NA;NA;NA;NA;NA;NA;NA;NA
+1407165;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Siphlonuridae;NA;NA;Parameletus;NA;NA;Parameletus;NA;Parameletus;genus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4481024;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Siphlonuridae;NA;NA;Siphlonurus;NA;aestivalis;Siphlonurus aestivalis;Eaton, 1903;S_aestivalis;specie;0.5;0.5;2;NA;NA;NA;NA;NA;3;4.67;0.502
+1407136;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Siphlonuridae;NA;NA;Siphlonurus;NA;alternatus;Siphlonurus alternatus;Say, 1824;S_alternatus;specie;0.5;NA;2;NA;NA;NA;NA;NA;3;6;0.502
+4481038;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Siphlonuridae;NA;NA;Siphlonurus;NA;lacustris;Siphlonurus lacustris;Eaton, 1870;Si_lacustris;specie;0.5;NA;3;NA;NA;NA;NA;NA;3;4.67;0.502
+4481030;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Siphlonuridae;NA;NA;Siphlonurus;NA;linnaeanus;Siphlonurus linnaeanus;Eaton, 1871;S_linnaeanus;specie;0.5;0.5;NA;NA;NA;NA;NA;NA;3;4.67;0.502
+1407116;Animalia;Arthropoda;Hexapoda;Insecta;NA;Ephemeroptera;Siphlonuridae;NA;NA;Siphlonurus;NA;NA;Siphlonurus;NA;Siphlonurus;genus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+3265575;Animalia;Arthropoda;Hexapoda;Insecta;NA;Hemiptera;Aphelocheiridae;NA;NA;NA;NA;NA;Aphelocheiridae;NA;Aphelocheiridae;family;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+2049905;Animalia;Arthropoda;Hexapoda;Insecta;NA;Hemiptera;Corixidae;NA;NA;Arctocorisa;NA;carinata;Arctocorisa carinata;Sahlberg, 1819;A_carinata;specie;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+2049901;Animalia;Arthropoda;Hexapoda;Insecta;NA;Hemiptera;Corixidae;NA;NA;Arctocorisa;NA;NA;Arctocorisa;NA;Arctocorisa;genus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+2049803;Animalia;Arthropoda;Hexapoda;Insecta;NA;Hemiptera;Corixidae;NA;NA;Callicorixa;NA;NA;Callicorixa;NA;Callicorixa;genus;NA;NA;NA;Corixidae;6;NA;NA;NA;NA;NA;NA
+4485401;Animalia;Arthropoda;Hexapoda;Insecta;NA;Hemiptera;Corixidae;NA;NA;Callicorixa;NA;wollastoni;Callicorixa wollastoni;Douglas & Scott 1865;C_wollastoni;specie;NA;NA;NA;Corixidae;6;NA;NA;NA;NA;2;0.5
+6988;Animalia;Arthropoda;Hexapoda;Insecta;NA;Hemiptera;Corixidae;NA;NA;NA;NA;NA;Corixidae;NA;Corixidae;family;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4485464;Animalia;Arthropoda;Hexapoda;Insecta;NA;Hemiptera;Micronectidae;NA;NA;Micronecta;NA;griseola;Micronecta pr. Griseola;NA;M_griseola;specie;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4485457;Animalia;Arthropoda;Hexapoda;Insecta;NA;Hemiptera;Micronectidae;NA;NA;Micronecta;NA;NA;Micronecta;NA;Micronecta;genus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4777847;Animalia;Arthropoda;Hexapoda;Insecta;NA;Hemiptera;Micronectidae;NA;NA;NA;NA;NA;Micronectidae;NA;Micronectidae;family;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+9653;Animalia;Arthropoda;Hexapoda;Insecta;NA;Hemiptera;Pleidae;NA;NA;NA;NA;NA;Pleidae;NA;Pleidae;family;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+7900;Animalia;Arthropoda;Hexapoda;Insecta;NA;Hemiptera;Veliidae;NA;NA;NA;NA;NA;Veliidae;NA;Veliidae;family;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4485351;Animalia;Arthropoda;Hexapoda;Insecta;NA;Hemiptera;Veliidae;NA;NA;Velia;NA;caprai;Velia caprai;Tamanini, 1947;V_caprai;specie;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+2020395;Animalia;Arthropoda;Hexapoda;Insecta;NA;Hemiptera;Veliidae;NA;NA;Velia;NA;NA;Velia;NA;Velia;genus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+ 2008636;Animalia;Arthropoda;Hexapoda;Insecta;NA;Heteroptera;Gerridae;NA;NA;Gerris;NA;NA;Gerris;NA;Gerris;genus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+ 7881;Animalia;Arthropoda;Hexapoda;Insecta;NA;Heteroptera;Gerridae;NA;NA;NA;NA;NA;Gerridae;NA;Gerridae;family;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+ 4318;Animalia;Arthropoda;Hexapoda;Insecta;NA;Heteroptera;Mesoveliidae;NA;NA;NA;NA;NA;Mesoveliidae;NA;Mesoveliidae;family;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+ 7881_1;Animalia;Arthropoda;Hexapoda;Insecta;NA;Heteroptera;NA;NA;NA;NA;NA;NA;Heteroptera;NA;Heteroptera;order;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+5205;Animalia;Arthropoda;Hexapoda;Insecta;NA;Megaloptera;Sialidae;NA;NA;NA;NA;NA;Sialidae;NA;Sialidae;family;NA;NA;NA;Sialidae;6;NA;NA;NA;NA;NA;NA
+5101327;Animalia;Arthropoda;Hexapoda;Insecta;NA;Megaloptera;Sialidae;NA;NA;Sialis;NA;fuliginosa;Sialis fuliginosa;Pictet, 1836;S_fuliginosa;specie;NA;NA;NA;Sialidae;6;NA;NA;4.3;4;5;0.289
+5101313;Animalia;Arthropoda;Hexapoda;Insecta;NA;Megaloptera;Sialidae;NA;NA;Sialis;NA;lutaria;Sialis lutaria;Linnaeus, 1758;S_lutaria;specie;NA;NA;NA;Sialidae;6;S_lutaria;5;4.8;4;4;0.25
+1730333;Animalia;Arthropoda;Hexapoda;Insecta;NA;Megaloptera;Sialidae;NA;NA;Sialis;NA;NA;Sialis;NA;Sialis;genus;NA;NA;NA;Sialidae;6;NA;NA;NA;4;NA;NA
+9380;Animalia;Arthropoda;Hexapoda;Insecta;NA;Neuroptera;Osmylidae;NA;NA;NA;NA;NA;Osmylidae;NA;Osmylidae;family;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+5165705;Animalia;Arthropoda;Hexapoda;Insecta;NA;Neuroptera;Osmylidae;NA;NA;Osmylus;NA;fulvicephalus;Osmylus fulvicephalus;Scopoli, 1763;O_fulvicephalus;specie;NA;NA;NA;NA;NA;NA;NA;NA;2;NA;NA
+2097149;Animalia;Arthropoda;Hexapoda;Insecta;NA;Neuroptera;Osmylidae;NA;NA;Osmylus;NA;NA;Osmylus;NA;Osmylus;genus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+1425203;Animalia;Arthropoda;Hexapoda;Insecta;NA;Odonata;Aeshnidae;NA;NA;Aeshna;NA;affinis;Aeshna affinis;Vander Linden 1820;A_affinis;specie;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+1425216;Animalia;Arthropoda;Hexapoda;Insecta;NA;Odonata;Aeshnidae;NA;NA;Aeshna;NA;caerulea;Aeshna caerulea;Ström, 1783;A_caerulea;specie;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+9453665;Animalia;Arthropoda;Hexapoda;Insecta;NA;Odonata;Aeshnidae;NA;NA;Aeshna;NA;cyanea;Aeshna cyanea;Müller, 1764;A_cyanea;specie;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+1425221;Animalia;Arthropoda;Hexapoda;Insecta;NA;Odonata;Aeshnidae;NA;NA;Aeshna;NA;juncea;Aeshna juncea;Linnaeus, 1758;A_juncea;specie;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+1425177;Animalia;Arthropoda;Hexapoda;Insecta;NA;Odonata;Aeshnidae;NA;NA;Aeshna;NA;mixta;Aeshna mixta;Latreille, 1805;A_mixta;specie;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+1425165;Animalia;Arthropoda;Hexapoda;Insecta;NA;Odonata;Aeshnidae;NA;NA;Aeshna;NA;NA;Aeshna;NA;Aeshna;genus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+1425042;Animalia;Arthropoda;Hexapoda;Insecta;NA;Odonata;Aeshnidae;NA;NA;Hemianax;NA;ephippiger;Hemianax ephippiger;Burmeister, 1839;H_ephippiger;specie;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4209;Animalia;Arthropoda;Hexapoda;Insecta;NA;Odonata;Aeshnidae;NA;NA;NA;NA;NA;Aeshnidae;NA;Aeshnidae;family;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+1427007;Animalia;Arthropoda;Hexapoda;Insecta;NA;Odonata;Calopterygidae;NA;NA;Calopteryx;NA;NA;Calopteryx;NA;Calopteryx;genus;NA;NA;NA;Calopterygidae;6;NA;NA;NA;NA;NA;NA
+1427037;Animalia;Arthropoda;Hexapoda;Insecta;NA;Odonata;Calopterygidae;NA;NA;Calopteryx;NA;virgo;Calopteryx virgo;Linnaeus, 1758;C_virgo;specie;NA;NA;NA;Calopterygidae;6;NA;NA;5.1;NA;6;0.387
+4211;Animalia;Arthropoda;Hexapoda;Insecta;NA;Odonata;Calopterygidae;NA;NA;NA;NA;NA;Calopterygidae;NA;Calopterygidae;family;NA;NA;NA;Calopterygidae;6;NA;NA;NA;NA;NA;NA
+1421959;Animalia;Arthropoda;Hexapoda;Insecta;NA;Odonata;Coenagrionidae;NA;NA;Coenagrion;NA;NA;Coenagrion;NA;Coenagrion;genus;NA;NA;NA;Coenagrionidae;6;NA;NA;NA;NA;NA;NA
+1423281;Animalia;Arthropoda;Hexapoda;Insecta;NA;Odonata;Coenagrionidae;NA;NA;Ischnura;NA;NA;Ischnura;NA;Ischnura;genus;NA;NA;NA;Coenagrionidae;6;NA;NA;NA;NA;NA;NA
+8577;Animalia;Arthropoda;Hexapoda;Insecta;NA;Odonata;Coenagrionidae;NA;NA;NA;NA;NA;Coenagrionidae;NA;Coenagrionidae;family;NA;NA;NA;Coenagrionidae;6;NA;NA;NA;NA;NA;NA
+1421193;Animalia;Arthropoda;Hexapoda;Insecta;NA;Odonata;Cordulegastridae;NA;NA;Cordulegaster;NA;bidentata;Cordulegaster bidentata;Selys-Longchamps, 1843;C_bidentata;specie;NA;NA;NA;NA;NA;NA;NA;NA;3;NA;NA
+1421161;Animalia;Arthropoda;Hexapoda;Insecta;NA;Odonata;Cordulegastridae;NA;NA;Cordulegaster;NA;boltonii;Cordulegaster boltonii;Donovan, 1807;C_boltonii;specie;NA;NA;NA;NA;NA;C_boltonii;5;5.6;2;NA;NA
+1421157;Animalia;Arthropoda;Hexapoda;Insecta;NA;Odonata;Cordulegastridae;NA;NA;Cordulegaster;NA;NA;Cordulegaster;NA;Cordulegaster;genus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4483;Animalia;Arthropoda;Hexapoda;Insecta;NA;Odonata;Cordulegastridae;NA;NA;NA;NA;NA;Cordulegastridae;NA;Cordulegastridae;family;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+7009;Animalia;Arthropoda;Hexapoda;Insecta;NA;Odonata;Corduliidae;NA;NA;NA;NA;NA;Corduliidae;NA;Corduliidae;family;NA;NA;NA;NA;NA;NA;NA;5.1;NA;NA;NA
+1430020;Animalia;Arthropoda;Hexapoda;Insecta;NA;Odonata;Corduliidae;NA;NA;Somatochlora;NA;alpestris;Somatochlora alpestris;Selys, 1840;S_alpestris;specie;NA;NA;NA;NA;NA;NA;NA;5.1;NA;NA;NA
+7845669;Animalia;Arthropoda;Hexapoda;Insecta;NA;Odonata;Corduliidae;NA;NA;Somatochlora;NA;metallica;Somatochlora metallica;Vander Linden, 1825;S_metallica;specie;NA;NA;NA;NA;NA;NA;NA;5.1;NA;NA;NA
+1429956;Animalia;Arthropoda;Hexapoda;Insecta;NA;Odonata;Corduliidae;NA;NA;Somatochlora;NA;NA;Somatochlora;NA;Somatochlora;genus;NA;NA;NA;NA;NA;NA;NA;5.1;NA;NA;NA
+1426461;Animalia;Arthropoda;Hexapoda;Insecta;NA;Odonata;Gomphidae;NA;NA;Gomphus;NA;NA;Gomphus;NA;Gomphus;genus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+1426230;Animalia;Arthropoda;Hexapoda;Insecta;NA;Odonata;Gomphidae;NA;NA;Onychogomphus;NA;NA;Onychogomphus;NA;Onychogomphus;genus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4486;Animalia;Arthropoda;Hexapoda;Insecta;NA;Odonata;Gomphidae;NA;NA;NA;NA;NA;Gomphidae;NA;Gomphidae;family;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+1423980;Animalia;Arthropoda;Hexapoda;Insecta;NA;Odonata;Lestidae;NA;NA;Lestes;NA;NA;Lestes;NA;Lestes;genus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+1424036;Animalia;Arthropoda;Hexapoda;Insecta;NA;Odonata;Lestidae;NA;NA;Lestes;NA;viridis;Lestes viridis;Vander Linden, 1825;L_viridis;specie;NA;NA;NA;NA;NA;NA;NA;NA;3;NA;NA
+4489;Animalia;Arthropoda;Hexapoda;Insecta;NA;Odonata;Lestidae;NA;NA;NA;NA;NA;Lestidae;NA;Lestidae;family;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+1427882;Animalia;Arthropoda;Hexapoda;Insecta;NA;Odonata;Libellulidae;NA;NA;Libellula;NA;NA;Libellula;NA;Libellula;genus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+5936;Animalia;Arthropoda;Hexapoda;Insecta;NA;Odonata;Libellulidae;NA;NA;NA;NA;NA;Libellulidae;NA;Libellulidae;family;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+1428715;Animalia;Arthropoda;Hexapoda;Insecta;NA;Odonata;Libellulidae;NA;NA;Orthetrum;NA;brunneum;Orthetrum brunneum;Fonscolombe, 1837;O_brunneum;specie;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+1428581;Animalia;Arthropoda;Hexapoda;Insecta;NA;Odonata;Libellulidae;NA;NA;Orthetrum;NA;NA;Orthetrum;NA;Orthetrum;genus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+1428195;Animalia;Arthropoda;Hexapoda;Insecta;NA;Odonata;Libellulidae;NA;NA;Sympetrum;NA;NA;Sympetrum;NA;Sympetrum;genus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+5151888;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Capniidae;NA;NA;Capnia;NA;atra;Capnia atra;Morton, 1896;C_atra;specie;0.5;0.5;2;NA;NA;NA;NA;NA;NA;6;0.661
+5151945;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Capniidae;NA;NA;Capnia;NA;bifrons;Capnia bifrons;Newman, 1838;C_bifrons;specie;0.5;NA;2;NA;NA;NA;NA;NA;NA;4;0.661
+2002304;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Capniidae;NA;NA;Capnia;NA;NA;Capnia;NA;Capnia;genus;0.5;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+5151939;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Capniidae;NA;NA;Capnia;NA;nigra;Capnia nigra;Pictet & F.J., 1833;C_nigra;specie;0.5;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+5151840;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Capniidae;NA;NA;Capnia;NA;pygmaea;Capnia pygmaea;Zetterstedt, 1840;C_pygmaea;specie;0.5;0.5;2;NA;NA;NA;NA;NA;NA;NA;NA
+5151964;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Capniidae;NA;NA;Capnia;NA;vidua;Capnia vidua;Klapálek, 1904;C_vidua;specie;0.5;NA;NA;NA;NA;NA;NA;NA;3;2;0.661
+2002475;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Capniidae;NA;NA;Capnopsis;NA;NA;Capnopsis;NA;Capnopsis;genus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+2002476;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Capniidae;NA;NA;Capnopsis;NA;schilleri;Capnopsis schilleri;Rostock, 1892;C_schilleri;specie;NA;NA;2;NA;NA;NA;NA;NA;NA;NA;NA
+9386;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Capniidae;NA;NA;NA;NA;NA;Capniidae;NA;Capniidae;family;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+2001248;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Chloroperlidae;NA;NA;Chloroperla;NA;NA;Chloroperla;NA;Chloroperla;genus;NA;NA;NA;Chloroperlidae;1;NA;NA;NA;NA;NA;NA
+2003916;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Chloroperlidae;NA;NA;Chloroperla;NA;tripunctata;Chloroperla tripunctata;Scopoli, 1763;C_tripunctata;specie;NA;NA;NA;Chloroperlidae;1;C_tripunctata;5;NA;NA;8;0.261
+9387;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Chloroperlidae;NA;NA;NA;NA;NA;Chloroperlidae;NA;Chloroperlidae;family;NA;NA;NA;Chloroperlidae;1;NA;NA;NA;NA;NA;NA
+2003819;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Chloroperlidae;NA;NA;Siphonoperla;NA;burmeisteri;Siphonoperla burmeisteri;Pictet & F.J., 1841;S_burmeisteri;specie;NA;0;3;Chloroperlidae;1;NA;NA;NA;3;NA;NA
+2003812;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Chloroperlidae;NA;NA;Siphonoperla;NA;NA;Siphonoperla;NA;Siphonoperla;genus;NA;NA;NA;Chloroperlidae;1;NA;NA;NA;3;NA;NA
+2003833;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Chloroperlidae;NA;NA;Siphonoperla;NA;torrentium;Siphonoperla torrentium;Pictet & F.J. 1841;S_torrentium;specie;NA;NA;NA;Chloroperlidae;1;S_torrentium;5;NA;3;2;0.261
+2003855;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Chloroperlidae;NA;NA;Xanthoperla;NA;apicalis;Xanthoperla apicalis;Scopoli, 1763;X_apicalis;specie;NA;NA;3;Chloroperlidae;1;NA;NA;NA;NA;NA;NA
+2003851;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Chloroperlidae;NA;NA;Xanthoperla;NA;NA;Xanthoperla;NA;Xanthoperla;genus;NA;NA;NA;Chloroperlidae;1;NA;NA;NA;NA;NA;NA
+2001871;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Leuctridae;Leuctrinae;NA;Leuctra;NA;albida;Leuctra albida;Kempny, 1899;L_albida;specie;NA;NA;NA;Leuctridae;1;NA;NA;NA;2;NA;NA
+2001926;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Leuctridae;Leuctrinae;NA;Leuctra;NA;alpina;Leuctra alpina;Kühtreiber, 1934;L_alpina;specie;NA;NA;NA;Leuctridae;1;NA;NA;NA;2;NA;NA
+2001918;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Leuctridae;Leuctrinae;NA;Leuctra;NA;aurita;Leuctra aurita;Navás, 1919;L_aurita;specie;NA;NA;NA;Leuctridae;1;NA;NA;NA;2;NA;NA
+2001977;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Leuctridae;Leuctrinae;NA;Leuctra;NA;autumnalis;Leuctra autumnalis;Aubert, 1948;L_autumnalis;specie;NA;NA;NA;Leuctridae;1;NA;NA;NA;4;NA;NA
+2001953;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Leuctridae;Leuctrinae;NA;Leuctra;NA;braueri;Leuctra braueri;Kempny, 1898;L_braueri;specie;NA;NA;NA;Leuctridae;1;NA;NA;NA;3;NA;NA
+2001945;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Leuctridae;Leuctrinae;NA;Leuctra;NA;digitata;Leuctra digitata;Kempny, 1899;L_digitata;specie;NA;NA;4;Leuctridae;1;NA;NA;4.3;3;NA;NA
+2001954;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Leuctridae;Leuctrinae;NA;Leuctra;NA;fusca;Leuctra fusca;Linnaeus, 1758;L_fusca;specie;0.5;0;NA;Leuctridae;1;L_fusca;7;5;3;4;0.438
+2001671;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Leuctridae;Leuctrinae;NA;Leuctra;NA;geniculata;Leuctra geniculata;Stephens, 1836;L_geniculata;specie;NA;NA;NA;Leuctridae;1;L_geniculata;8;NA;5;8;0.438
+2001897;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Leuctridae;Leuctrinae;NA;Leuctra;NA;hexacantha;Leuctra hexacantha;Despax, 1940;L_hexacantha;specie;NA;NA;NA;Leuctridae;1;NA;NA;NA;5;NA;NA
+2001976;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Leuctridae;Leuctrinae;NA;Leuctra;NA;hippopus;Leuctra hippopus;Kempny, 1899;L_hippopus;specie;NA;0;4;Leuctridae;1;L_hippopus;4;4.3;5;2;0.438
+2001864;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Leuctridae;Leuctrinae;NA;Leuctra;NA;inermis;Leuctra inermis;Kempny, 1899;L_inermis;specie;NA;NA;NA;Leuctridae;1;L_inermis;5;NA;4;4;0.438
+10278948;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Leuctridae;Leuctrinae;NA;Leuctra;NA;NA;Leuctra;NA;Leuctra;genus;NA;NA;NA;Leuctridae;1;NA;NA;NA;5;NA;NA
+2001985;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Leuctridae;Leuctrinae;NA;Leuctra;NA;nigra;Leuctra nigra;Olivier, 1811;L_nigra;specie;NA;0;4;Leuctridae;1;L_nigra;5;4.3;5;2;0.438
+2001889;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Leuctridae;Leuctrinae;NA;Leuctra;NA;pseudocingulata;Leuctra pseudocingulata;H.Mendl, 1968;L_pseudocingulata;specie;NA;NA;NA;Leuctridae;1;NA;NA;NA;4;NA;NA
+2001802;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Leuctridae;Leuctrinae;NA;Leuctra;NA;rauscheri;Leuctra rauscheri;Aubert, 1957;L_rauscheri;specie;NA;NA;NA;Leuctridae;1;NA;NA;NA;4;NA;NA
+ 2001876;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Leuctridae;Leuctrinae;NA;Leuctra;NA;rosinae;Leuctra rosinae;Kempny, 1900;L_rosinae;specie;NA;NA;NA;Leuctridae;1;NA;NA;NA;4;NA;NA
+2001978;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Leuctridae;Leuctrinae;NA;Leuctra;NA;teriolensis;Leuctra teriolensis;Kempny, 1900;L_teriolensis;specie;NA;NA;NA;Leuctridae;1;NA;NA;NA;4;NA;NA
+2998;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Leuctridae;NA;NA;NA;NA;NA;Leuctridae;NA;Leuctridae;family;NA;NA;NA;Leuctridae;1;NA;NA;NA;NA;NA;NA
+787;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;NA;NA;NA;Plecoptera;NA;NA;Plecoptera;NA;Plecoptera;order;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+2002999;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Nemouridae;Amphinemurinae;NA;Amphinemura;NA;borealis;Amphinemura borealis;Morton, 1894;A_borealis;specie;NA;0;3;Nemouridae;1;NA;NA;5;NA;NA;NA
+2002863;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Nemouridae;Amphinemurinae;NA;Amphinemura;NA;NA;Amphinemura;NA;Amphinemura;genus;NA;NA;NA;Nemouridae;1;NA;NA;NA;4;NA;NA
+2003049;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Nemouridae;Amphinemurinae;NA;Amphinemura;NA;standfussi;Amphinemura standfussi;Ris, 1902;A_standfussi;specie;NA;0;4;Nemouridae;1;NA;NA;NA;4;4;0.384
+2002879;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Nemouridae;Amphinemurinae;NA;Amphinemura;NA;sulcicollis;Amphinemura sulcicollis;Stephens, 1836;A_sulcicollis;specie;NA;0;4;Nemouridae;1;A_sulcicollis;5;NA;3;2.5;0.384
+2002968;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Nemouridae;Amphinemurinae;NA;Amphinemura;NA;triangularis;Amphinemura triangularis;Ris, 1902;A_triangularis;specie;NA;NA;NA;Nemouridae;1;NA;NA;NA;3;NA;NA
+2003187;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Nemouridae;Amphinemurinae;NA;Protonemura;NA;brevistyla;Protonemura brevistyla;Ris, 1902;P_brevistyla;specie;NA;0;4;Nemouridae;1;NA;NA;NA;NA;NA;NA
+2003218;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Nemouridae;Amphinemurinae;NA;Protonemura;NA;caprai;Protonemura caprai;Aubert, 1954;P_caprai;specie;NA;NA;NA;Nemouridae;1;NA;NA;NA;NA;NA;NA
+2003299;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Nemouridae;Amphinemurinae;NA;Protonemura;NA;hrabei;Protonemura hrabei;Raušer, 1956;P_hrabei;specie;NA;NA;NA;Nemouridae;1;NA;NA;NA;2;NA;NA
+2003288;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Nemouridae;Amphinemurinae;NA;Protonemura;NA;intricata;Protonemura intricata;Ris, 1902;P_intricata;specie;NA;NA;NA;Nemouridae;1;NA;NA;NA;4;NA;NA
+2003192;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Nemouridae;Amphinemurinae;NA;Protonemura;NA;lateralis;Protonemura lateralis;Pictet & F.J., 1836;P_lateralis;specie;NA;NA;NA;Nemouridae;1;NA;NA;NA;4;NA;NA
+2003206;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Nemouridae;Amphinemurinae;NA;Protonemura;NA;meyeri;Protonemura meyeri;Pictet & F.J., 1841;P_meyeri;specie;NA;0;4;Nemouridae;1;P_meyeri;4;5;4;2;0.384
+2003262;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Nemouridae;Amphinemurinae;NA;Protonemura;NA;montana;Protonemura montana;Kimmins, 1941;P_montana;specie;NA;NA;NA;Nemouridae;1;NA;NA;NA;2;NA;NA
+2003179;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Nemouridae;Amphinemurinae;NA;Protonemura;NA;NA;Protonemura;NA;Protonemura;genus;NA;NA;NA;Nemouridae;1;NA;NA;NA;5;NA;NA
+2003314;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Nemouridae;Amphinemurinae;NA;Protonemura;NA;nimborum;Protonemura nimborum;Ris, 1902;P_nimborum;specie;NA;NA;NA;Nemouridae;1;NA;NA;NA;2;NA;NA
+2003325;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Nemouridae;Amphinemurinae;NA;Protonemura;NA;nitida;Protonemura nitida;Pictet & F.J., 1836;P_nitida;specie;NA;NA;NA;Nemouridae;1;NA;NA;NA;3;NA;NA
+2003270;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Nemouridae;Amphinemurinae;NA;Protonemura;NA;praecox;Protonemura praecox;Morton, 1894;P_praecox;specie;NA;NA;NA;Nemouridae;1;P_praecox;6;NA;4;8;0.384
+2997;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Nemouridae;NA;NA;NA;NA;NA;Nemouridae;NA;Nemouridae;family;NA;NA;NA;Nemouridae;1;NA;NA;NA;NA;NA;NA
+2003559;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Nemouridae;Nemourinae;NA;Nemoura;NA;avicularis;Nemoura avicularis;Morton, 1894;N_avicularis;specie;NA;0;3;Nemouridae;1;Nemoura  ;5;4.3;4;3;0.526
+2002881;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Nemouridae;Nemourinae;NA;Nemoura;NA;cinerea;Nemoura cinerea;Retzius, 1783;N_cinerea;specie;NA;0;4;Nemouridae;1;Nemoura  ;5;4.3;5;2;0.323
+2003565;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Nemouridae;Nemourinae;NA;Nemoura;NA;flexuosa;Nemoura flexuosa;Aubert, 1949;N_flexuosa;specie;NA;NA;NA;Nemouridae;1;Nemoura  ;5;5;2;NA;NA
+ 2003369;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Nemouridae;Nemourinae;NA;Nemoura;NA;minima;Nemoura minima;Aubert, 1946;N_minima;specie;NA;0;4;Nemouridae;1;Nemoura  ;5;4.3;5;2;0.323
+2003419;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Nemouridae;Nemourinae;NA;Nemoura;NA;mortoni;Nemoura mortoni;Ris, 1902;N_mortoni;specie;NA;NA;NA;Nemouridae;1;Nemoura  ;5;NA;NA;NA;NA
+2001440;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Nemouridae;Nemourinae;NA;Nemoura;NA;NA;Nemoura;NA;Nemoura;genus;NA;NA;NA;Nemouridae;1;Nemoura  ;5;NA;5;2;0.399
+gr_2003517;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Nemouridae;Nemourinae;NA;Nemoura;NA;sinuata/obtusa;Nemoura sinuata/obtusa;NA;N_sinuata_obtusa;specie;NA;0;4;Nemouridae;1;Nemoura  ;5;4.3;5;2;0.323
+2002690;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Nemouridae;Nemourinae;NA;Nemurella;NA;NA;Nemurella;NA;Nemurella;genus;NA;NA;NA;Nemouridae;1;NA;NA;NA;NA;NA;NA
+2002691;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Nemouridae;Nemourinae;NA;Nemurella;NA;pictetii;Nemurella pictetii;Klapalek, 1900;N_pictetii;specie;NA;0;4;Nemouridae;1;N_pictetii;1;4.3;5;2;0.384
+2005247;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Perlidae;NA;NA;Dinocras;NA;cephalotes;Dinocras cephalotes;Curtis, 1827;D_cephalotes;specie;0.5;0.5;1;Perlidae;6;D_cephalotes;10;NA;2;NA;NA
+2005240;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Perlidae;NA;NA;Dinocras;NA;NA;Dinocras;NA;Dinocras;genus;NA;NA;NA;Perlidae;6;NA;NA;NA;NA;NA;NA
+7223;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Perlidae;NA;NA;NA;NA;NA;Perlidae;NA;Perlidae;family;NA;NA;NA;Perlidae;6;NA;NA;NA;NA;NA;NA
+5152263;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Perlidae;NA;NA;Perla;NA;bipunctata;Perla bipunctata;Pictet & F.J., 1833;P_bipunctata;specie;NA;NA;NA;Perlidae;6;P_bipunctata;8;NA;1;NA;NA
+5152227;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Perlidae;NA;NA;Perla;NA;marginata;Perla marginata;Panzer, 1799;P_marginata;specie;NA;NA;NA;Perlidae;6;NA;NA;NA;2;NA;NA
+2001220;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Perlidae;NA;NA;Perla;NA;NA;Perla;NA;Perla;genus;NA;NA;NA;Perlidae;6;NA;NA;NA;1;NA;NA
+2004357;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Perlodidae;NA;NA;Arcynopteryx;NA;compacta;Arcynopteryx compacta;McLachlan, 1872;A_compacta;specie;0.5;0.5;NA;Perlodidae;2;NA;NA;NA;4;NA;NA
+2004355;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Perlodidae;NA;NA;Arcynopteryx;NA;NA;Arcynopteryx;NA;Arcynopteryx;genus;NA;NA;NA;Perlodidae;2;NA;NA;NA;NA;NA;NA
+2004434;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Perlodidae;NA;NA;Dictyogenus;NA;fontium;Dictyogenus fontium;Ris, 1896;D_fontium;specie;NA;NA;NA;Perlodidae;2;NA;NA;NA;NA;NA;NA
+2004430;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Perlodidae;NA;NA;Dictyogenus;NA;NA;Dictyogenus;NA;Dictyogenus;genus;NA;NA;NA;Perlodidae;2;NA;NA;NA;NA;NA;NA
+5986716;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Perlodidae;NA;NA;Diura;NA;bicaudata;Diura bicaudata;Linnaeus, 1758;D_bicaudata;specie;0.5;0.5;2;Perlodidae;2;D_bicaudata;3;4.7;5;4.67;0.587
+5986713;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Perlodidae;NA;NA;Diura;NA;NA;Diura;NA;Diura;genus;0.5;NA;NA;Perlodidae;2;NA;NA;NA;NA;NA;NA
+5986715;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Perlodidae;NA;NA;Diura;NA;nanseni;Diura nanseni;Kempny, 1900;D_nanseni;specie;0.5;0.5;3;Perlodidae;2;NA;NA;NA;NA;NA;NA
+2004102;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Perlodidae;NA;NA;Isoperla;NA;carbonaria;Isoperla carbonaria;Aubert, 1953;I_carbonaria;specie;0.5;NA;NA;Perlodidae;2;NA;NA;5;3;NA;NA
+2004213;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Perlodidae;NA;NA;Isoperla;NA;difformis;Isoperla difformis;Klapálek, 1909;I_difformis;specie;NA;NA;4;Perlodidae;2;NA;NA;NA;NA;NA;NA
+2004024;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Perlodidae;NA;NA;Isoperla;NA;goertzi;Isoperla goertzi;Illies, 1952;I_goertzi;specie;0.5;NA;NA;Perlodidae;2;NA;NA;5;2;NA;NA
+2004039;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Perlodidae;NA;NA;Isoperla;NA;grammatica;Isoperla grammatica;Poda, 1761;I_grammatica;specie;0.5;0.5;4;Perlodidae;2;I_grammatica;5;5;3;8;0.618
+2003678;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Perlodidae;NA;NA;Isoperla;NA;NA;Isoperla;NA;Isoperla;genus;0.5;NA;NA;Perlodidae;2;NA;NA;5;3;NA;NA
+2004134;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Perlodidae;NA;NA;Isoperla;NA;obscura;Isoperla obscura;Zetterstedt, 1840;I_obscura;specie;0.5;0.5;4;Perlodidae;2;NA;NA;5;3;4;0.618
+2004019;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Perlodidae;NA;NA;Isoperla;NA;oxylepis;Isoperla oxylepis;Despax, 1936;I_oxylepis;specie;0.5;NA;NA;Perlodidae;2;NA;NA;5;3;NA;NA
+2004106;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Perlodidae;NA;NA;Isoperla;NA;rivulorum;Isoperla rivulorum;Pictet & F.J., 1841;I_rivulorum;specie;0.5;NA;NA;Perlodidae;2;NA;NA;5;2;NA;NA
+2004008;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Perlodidae;NA;NA;Isoperla;NA;silesica;Isoperla silesica;Illies, 1952;I_silesica;specie;0.5;NA;NA;Perlodidae;2;NA;NA;5;2;NA;NA
+2996;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Perlodidae;NA;NA;NA;NA;NA;Perlodidae;NA;Perlodidae;family;NA;NA;NA;Perlodidae;2;NA;NA;NA;NA;NA;NA
+2003965;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Perlodidae;NA;NA;Perlodes;NA;dispar;Perlodes dispar;Rambur, 1842;P_dispar;specie;NA;NA;3;Perlodidae;2;NA;NA;NA;2;4;0.618
+2003969;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Perlodidae;NA;NA;Perlodes;NA;intricatus;Perlodes intricatus;Pictet, 1841;P_intricatus;specie;NA;NA;NA;Perlodidae;2;NA;NA;NA;2;8;0.618
+2003977;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Perlodidae;NA;NA;Perlodes;NA;microcephalus;Perlodes microcephalus;Pictet & F.J., 1833;P_microcephalus;specie;NA;NA;NA;Perlodidae;2;P_microcephalus;7;NA;2;8;0.618
+2003960;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Perlodidae;NA;NA;Perlodes;NA;NA;Perlodes;NA;Perlodes;genus;NA;NA;NA;Perlodidae;2;NA;NA;NA;2;NA;NA
+2001466;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Taeniopterygidae;NA;NA;Brachyptera;NA;NA;Brachyptera;NA;Brachyptera;genus;NA;NA;NA;Taeniopterygidae;2;NA;NA;NA;NA;NA;NA
+2001474;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Taeniopterygidae;NA;NA;Brachyptera;NA;risi;Brachyptera risi;Morton, 1896;B_risi;specie;NA;0;4;Taeniopterygidae;2;B_risi;6;NA;5;3;0.55
+2001499;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Taeniopterygidae;NA;NA;Brachyptera;NA;seticornis;Brachyptera seticornis;Klapálek, 1902;B_seticornis;specie;NA;NA;NA;Taeniopterygidae;2;NA;NA;NA;5;NA;NA
+2994;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Taeniopterygidae;NA;NA;NA;NA;NA;Taeniopterygidae;NA;Taeniopterygidae;family;NA;NA;NA;Taeniopterygidae;2;NA;NA;NA;NA;NA;NA
+5151762;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Taeniopterygidae;NA;NA;Taeniopteryx;NA;auberti;Taeniopteryx auberti;Kis & Sowa, 1964;T_auberti;specie;NA;NA;NA;Taeniopterygidae;2;NA;NA;NA;2;NA;NA
+5151769;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Taeniopterygidae;NA;NA;Taeniopteryx;NA;hubaulti;Taeniopteryx hubaulti;Aubert, 1946;T_hubaulti;specie;NA;NA;NA;Taeniopterygidae;2;NA;NA;NA;2;NA;NA
+2001548;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Taeniopterygidae;NA;NA;Taeniopteryx;NA;NA;Taeniopteryx;NA;Taeniopteryx;genus;NA;NA;NA;Taeniopterygidae;2;NA;NA;NA;NA;NA;NA
+5151773;Animalia;Arthropoda;Hexapoda;Insecta;NA;Plecoptera;Taeniopterygidae;NA;NA;Taeniopteryx;NA;nebulosa;Taeniopteryx nebulosa;Linnaeus, 1758;T_nebulosa;specie;NA;0;4;Taeniopterygidae;2;NA;NA;4.3;NA;2.67;0.55
+1441130;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Apataniidae;NA;NA;Apatania;NA;NA;Apatania;NA;Apatania;genus;0.5;NA;NA;NA;NA;NA;NA;NA;4;NA;NA
+1441166;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Apataniidae;NA;NA;Apatania;NA;stigmatella;Apatania stigmatella;Zetterstedt, 1840;A_stigmatella;specie;NA;0.5;NA;NA;NA;NA;NA;NA;4;NA;NA
+1441207;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Apataniidae;NA;NA;Apatania;NA;zonella;Apatania zonella;Zetterstedt, 1840;A_zonella;specie;NA;0.5;NA;NA;NA;NA;NA;NA;4;NA;NA
+7956;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Apataniidae;NA;NA;NA;NA;NA;Apataniidae;NA;Apataniidae;family;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+5053154;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Beraeidae;NA;NA;Beraea;NA;NA;Beraea;NA;Beraea;genus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+5053160;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Beraeidae;NA;NA;Beraea;NA;pullata;Beraea pullata;Curtis, 1834;B_pullata;specie;NA;NA;NA;NA;NA;NA;NA;NA;3;NA;NA
+7958;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Beraeidae;NA;NA;NA;NA;NA;Beraeidae;NA;Beraeidae;family;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+1443471;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Brachycentridae;NA;NA;Brachycentrus;NA;NA;Brachycentrus;NA;Brachycentrus;genus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+7735049;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Brachycentridae;NA;NA;Brachycentrus;NA;subnubilis;Brachycentrus subnubilis;Curtis, 1834;B_subnubilis;specie;NA;NA;NA;NA;NA;NA;NA;NA;NA;8;0.604
+1443414;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Brachycentridae;NA;NA;Micrasema;NA;gelidum;Micrasema gelidum;McLachlan, 1876;M_gelidum;specie;NA;NA;NA;NA;NA;NA;NA;4.3;NA;NA;NA
+1443434;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Brachycentridae;NA;NA;Micrasema;NA;longulum;Micrasema longulum;McLachlan, 1876;M_longulum;specie;NA;NA;NA;NA;NA;NA;NA;NA;3;NA;NA
+1443455;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Brachycentridae;NA;NA;Micrasema;NA;minimum;Micrasema minimum;McLachlan, 1876;M_minimum;specie;NA;NA;NA;NA;NA;NA;NA;NA;3;NA;NA
+1443374;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Brachycentridae;NA;NA;Micrasema;NA;NA;Micrasema;NA;Micrasema;genus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+1443388;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Brachycentridae;NA;NA;Micrasema;NA;setiferum;Micrasema setiferum;Pictet, 1834;M_setiferum;specie;NA;NA;3;NA;NA;NA;NA;NA;NA;NA;NA
+4390;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Brachycentridae;NA;NA;NA;NA;NA;Brachycentridae;NA;Brachycentridae;family;NA;NA;NA;NA;NA;NA;NA;NA;4;NA;NA
+1440577;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Ecnomidae;NA;NA;Ecnomus;NA;NA;Ecnomus;NA;Ecnomus;genus;NA;NA;NA;Psychomyiidae;6;NA;NA;NA;NA;NA;NA
+1440654;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Ecnomidae;NA;NA;Ecnomus;NA;tenellus;Ecnomus tenellus;Rambur, 1842;E_tenellus;specie;NA;NA;NA;Psychomyiidae;6;NA;NA;NA;NA;NA;NA
+7963;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Ecnomidae;NA;NA;NA;NA;NA;Ecnomidae;NA;Ecnomidae;family;NA;NA;NA;Psychomyiidae;6;NA;NA;NA;NA;NA;NA
+1430644;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Glossosomatidae;NA;NA;Agapetus;NA;fuscipes;Agapetus fuscipes;Curtis, 1834;A_fuscipes;specie;NA;NA;NA;Rhyacophilidae;6;Agapetus;8;NA;1;8;0.469
+1430666;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Glossosomatidae;NA;NA;Agapetus;NA;iridipennis;Agapetus iridipennis;McLachlan, 1879;A_iridipennis;specie;NA;NA;NA;Rhyacophilidae;6;Agapetus;8;NA;1;8;0.469
+1430618;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Glossosomatidae;NA;NA;Agapetus;NA;moselyi;Agapetus moselyi;Ulmer, 1938;A_moselyi;specie;NA;NA;NA;Rhyacophilidae;6;Agapetus;8;NA;1;8;0.469
+1430526;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Glossosomatidae;NA;NA;Agapetus;NA;NA;Agapetus;NA;Agapetus;genus;NA;NA;NA;Rhyacophilidae;6;Agapetus;8;NA;1;8;0.469
+1430527;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Glossosomatidae;NA;NA;Agapetus;NA;ochripes;Agapetus ochripes;Curtis, 1834;A_ochripes;specie;NA;NA;2;Rhyacophilidae;6;Agapetus;8;NA;1;6.67;0.469
+4801965;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Glossosomatidae;NA;NA;Glossosoma;NA;conformis;Glossosoma conformis;Neboiss, 1963;G_conformis;specie;0.5;NA;NA;Rhyacophilidae;6;Glossosoma;8;NA;1;8;0.469
+1430495;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Glossosomatidae;NA;NA;Glossosoma;NA;intermedium;Glossosoma intermedium;Klapalek, 1892;G_intermedium;specie;0.5;1;NA;Rhyacophilidae;6;Glossosoma;8;NA;2;8;0.469
+1430405;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Glossosomatidae;NA;NA;Glossosoma;NA;NA;Glossosoma;NA;Glossosoma;genus;0.5;NA;NA;Rhyacophilidae;6;Glossosoma;8;NA;2;8;0.469
+7964;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Glossosomatidae;NA;NA;NA;NA;NA;Glossosomatidae;NA;Glossosomatidae;family;NA;NA;NA;Rhyacophilidae;6;NA;NA;NA;NA;NA;NA
+4405947;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Glossosomatidae;NA;NA;Synagapetus;NA;NA;Synagapetus;NA;Synagapetus;genus;NA;NA;NA;Rhyacophilidae;6;NA;NA;NA;1;NA;NA
+1437569;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Goeridae;NA;NA;Goera;NA;NA;Goera;NA;Goera;genus;NA;NA;NA;Goeridae;4;NA;NA;NA;NA;NA;NA
+1441388;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Goeridae;NA;NA;Goera;NA;pilosa;Goera pilosa;Fabricius, 1775;G_pilosa;specie;NA;NA;3;Goeridae;4;NA;NA;NA;NA;4;0.324
+1441517;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Goeridae;NA;NA;Lithax;NA;NA;Lithax;NA;Lithax;genus;NA;NA;NA;Goeridae;4;NA;NA;NA;NA;NA;NA
+1441519;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Goeridae;NA;NA;Lithax;NA;niger;Lithax niger;Hagen, 1859;L_niger;specie;NA;NA;NA;Goeridae;4;NA;NA;NA;2;NA;NA
+9655;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Goeridae;NA;NA;NA;NA;NA;Goeridae;NA;Goeridae;family;NA;NA;NA;Goeridae;4;NA;NA;NA;NA;NA;NA
+1441362;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Goeridae;NA;NA;Silo;NA;NA;Silo;NA;Silo;genus;NA;NA;NA;Goeridae;4;NA;NA;NA;2;NA;NA
+1441365;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Goeridae;NA;NA;Silo;NA;pallipes;Silo pallipes;Fabricius, 1781;S_pallipes;specie;NA;NA;3;Goeridae;4;S_pallipes;8;6.4;3;5.33;0.324
+1439417;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Hydropsychidae;NA;NA;Ceratopsyche;NA;NA;Ceratopsyche;NA;Ceratopsyche;genus;NA;NA;NA;Hydropsychidae;4;NA;NA;NA;NA;NA;NA
+1439423;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Hydropsychidae;NA;NA;Ceratopsyche;NA;silfvenii;Ceratopsyche silfvenii;Ulmer, 1906;C_silfvenii;specie;NA;NA;2;Hydropsychidae;4;NA;NA;NA;NA;NA;NA
+1439839;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Hydropsychidae;NA;NA;Cheumatopsyche;NA;lepida;Cheumatopsyche lepida;Pictet, 1834;C_lepida;specie;NA;NA;1;Hydropsychidae;4;NA;NA;NA;NA;8;0.58
+1439645;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Hydropsychidae;NA;NA;Cheumatopsyche;NA;NA;Cheumatopsyche;NA;Cheumatopsyche;genus;NA;NA;NA;Hydropsychidae;4;NA;NA;NA;NA;NA;NA
+1439248;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Hydropsychidae;NA;NA;Diplectrona;NA;felix;Diplectrona felix;McLachlan, 1878;D_felix;specie;NA;NA;NA;Hydropsychidae;4;D_felix;7;NA;3;8;0.58
+1439161;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Hydropsychidae;NA;NA;Diplectrona;NA;NA;Diplectrona;NA;Diplectrona;genus;NA;NA;NA;Hydropsychidae;4;NA;NA;NA;NA;NA;NA
+5054043;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Hydropsychidae;NA;NA;Hydropsyche;NA;angustipennis;Hydropsyche angustipennis;Curtis, 1834;H_angustipennis;specie;0.5;0.5;4;Hydropsychidae;4;NA;NA;5.3;NA;3.33;0.58
+5054177;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Hydropsychidae;NA;NA;Hydropsyche;NA;instabilis;Hydropsyche instabilis;Curtis, 1834;H_instabilis;specie;0.5;NA;NA;Hydropsychidae;4;H_instabilis;9;NA;2;8;0.58
+5054242;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Hydropsychidae;NA;NA;Hydropsyche;NA;modesta;Hydropsyche modesta;Navás, 1925;H_modesta;specie;0.5;NA;NA;Hydropsychidae;4;NA;NA;NA;NA;NA;NA
+1431357;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Hydropsychidae;NA;NA;Hydropsyche;NA;NA;Hydropsyche;NA;Hydropsyche;genus;0.5;NA;NA;Hydropsychidae;4;NA;NA;NA;2;NA;NA
+5054150;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Hydropsychidae;NA;NA;Hydropsyche;NA;pellucidula;Hydropsyche pellucidula;Curtis, 1834;H_pellucidula;specie;0.5;0.5;3;Hydropsychidae;4;H_pellucidula;6;5;2;5.5;0.58
+5054160;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Hydropsychidae;NA;NA;Hydropsyche;NA;siltalai;Hydropsyche siltalai;Doehler, 1963;H_siltalai;specie;0.5;0.5;4;Hydropsychidae;4;H_siltalai;6;5;2;4.5;0.58
+7966;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Hydropsychidae;NA;NA;NA;NA;NA;Hydropsychidae;NA;Hydropsychidae;family;NA;NA;NA;Hydropsychidae;4;NA;NA;NA;NA;NA;NA
+1433231;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Hydroptilidae;NA;NA;Hydroptila;NA;NA;Hydroptila;NA;Hydroptila;genus;NA;NA;2;Hydroptilidae;6;NA;NA;NA;NA;7;0.465
+1431966;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Hydroptilidae;NA;NA;Ithytrichia;NA;lamellaris;Ithytrichia lamellaris;Eaton, 1873;I_lamellaris;specie;0.5;0.5;2;Hydroptilidae;6;NA;NA;NA;NA;6.67;0.457
+1431960;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Hydroptilidae;NA;NA;Ithytrichia;NA;NA;Ithytrichia;NA;Ithytrichia;genus;NA;NA;2;Hydroptilidae;6;NA;NA;NA;NA;6.67;0.457
+7967;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Hydroptilidae;NA;NA;NA;NA;NA;Hydroptilidae;NA;Hydroptilidae;family;NA;NA;NA;Hydroptilidae;6;Hydroptilidae;5;NA;NA;NA;NA
+1432588;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Hydroptilidae;NA;NA;Oxyethira;NA;NA;Oxyethira;NA;Oxyethira;genus;NA;0;3;Hydroptilidae;6;NA;NA;4.8;NA;3.33;0.512
+1432551;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Hydroptilidae;NA;NA;Ptilocolepus;NA;granulatus;Ptilocolepus granulatus;Pictet, 1834;P_granulatus;specie;NA;NA;NA;Hydroptilidae;6;NA;NA;NA;3;NA;NA
+1432547;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Hydroptilidae;NA;NA;Ptilocolepus;NA;NA;Ptilocolepus;NA;Ptilocolepus;genus;NA;NA;NA;Hydroptilidae;6;NA;NA;NA;NA;NA;NA
+1442890;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Lepidostomatidae;NA;NA;Crunoecia;NA;irrorata;Crunoecia irrorata;Curtis, 1834;C_irrorata;specie;NA;NA;NA;Lepidostomatidae;2;C_irrorata;9;NA;NA;NA;NA
+1442888;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Lepidostomatidae;NA;NA;Crunoecia;NA;NA;Crunoecia;NA;Crunoecia;genus;NA;NA;NA;Lepidostomatidae;2;NA;NA;NA;NA;NA;NA
+5054529;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Lepidostomatidae;NA;NA;Lepidostoma;NA;hirtum;Lepidostoma hirtum;Fabricius, 1775;L_hirtum;specie;0.5;0.5;2;Lepidostomatidae;2;L_hirtum;6;5;NA;6;0.538
+1443129;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Lepidostomatidae;NA;NA;Lepidostoma;NA;NA;Lepidostoma;NA;Lepidostoma;genus;NA;NA;NA;Lepidostomatidae;2;NA;NA;NA;NA;NA;NA
+7968;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Lepidostomatidae;NA;NA;NA;NA;NA;Lepidostomatidae;NA;Lepidostomatidae;family;NA;NA;NA;Lepidostomatidae;2;NA;NA;NA;NA;NA;NA
+1436670;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Leptoceridae;NA;NA;Adicella;NA;NA;Adicella;NA;Adicella;genus;NA;NA;NA;Leptoceridae;6;NA;NA;NA;NA;NA;NA
+1436697;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Leptoceridae;NA;NA;Adicella;NA;reducta;Adicella reducta;McLachlan, 1895;A_reducta;specie;NA;0;NA;Leptoceridae;6;NA;NA;NA;3;2;0.352
+1437108;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Leptoceridae;NA;NA;Athripsodes;NA;aterrimus;Athripsodes aterrimus;Stephens, 1836;A_aterrimus;specie;NA;0;4;Leptoceridae;6;NA;NA;NA;NA;2.67;0.378
+1437150;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Leptoceridae;NA;NA;Athripsodes;NA;bilineatus;Athripsodes bilineatus;Linnaeus, 1758;A_bilineatus;specie;NA;NA;NA;Leptoceridae;6;A_bilineatus;8;NA;NA;8;0.378
+1437081;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Leptoceridae;NA;NA;Athripsodes;NA;cinereus;Athripsodes cinereus;Curtis, 1834;A_cinereus;specie;NA;0;2;Leptoceridae;6;NA;NA;NA;NA;5.33;0.306
+1435097;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Leptoceridae;NA;NA;Athripsodes;NA;NA;Athripsodes;NA;Athripsodes;genus;NA;NA;NA;Leptoceridae;6;NA;NA;NA;NA;NA;NA
+1435915;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Leptoceridae;NA;NA;Ceraclea;NA;annulicornis;Ceraclea annulicornis;Stephens, 1836;C_annulicornis;specie;NA;NA;1;Leptoceridae;6;NA;NA;5;NA;8;0.566
+1435885;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Leptoceridae;NA;NA;Ceraclea;NA;NA;Ceraclea;NA;Ceraclea;genus;NA;NA;NA;Leptoceridae;6;NA;NA;NA;NA;NA;NA
+1435562;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Leptoceridae;NA;NA;Mystacides;NA;azurea;Mystacides azurea;Linnaeus, 1761;M_azurea;specie;NA;0;2;Leptoceridae;6;Mystacides;8;NA;NA;5.5;0.48
+1435559;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Leptoceridae;NA;NA;Mystacides;NA;longicornis;Mystacides azurea;Linnaeus, 1758;M_longicornis;specie;NA;NA;3;Leptoceridae;6;Mystacides;8;NA;NA;6;0.69
+9208303;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Leptoceridae;NA;NA;Mystacides;NA;NA;Mystacides;NA;Mystacides;genus;NA;NA;NA;Leptoceridae;6;Mystacides;8;NA;NA;5.5;0.394
+4481587;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Leptoceridae;NA;NA;Mystacides;NA;nigra;Mystacides azurea;Linnaeus, 1758;M_nigra;specie;NA;NA;3;Leptoceridae;6;Mystacides;8;NA;NA;6;0.69
+4395;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Leptoceridae;NA;NA;NA;NA;NA;Leptoceridae;NA;Leptoceridae;family;NA;NA;NA;Leptoceridae;6;NA;NA;NA;NA;NA;NA
+1436389;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Leptoceridae;NA;NA;Oecetis;NA;testacea;Oecetis testacea;Curtis, 1834;O_testacea;specie;NA;NA;2;Leptoceridae;6;O_testacea;5;NA;NA;5.5;0.304
+1435754;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Leptoceridae;NA;NA;Triaenodes;NA;bicolor;Triaenodes bicolor;Curtis, 1834;T_bicolor;specie;NA;NA;2;Leptoceridae;6;NA;NA;NA;NA;6;0.3
+1442358;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Limnephilidae;Drusinae;NA;Anomalopterygella;NA;chauvinia;Anomalopterygella chauvinia;Stein, 1874;A_chauvinia;specie;NA;NA;NA;Limnephilidae;4;Limnephilidae;5;NA;2;NA;NA
+1442356;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Limnephilidae;Drusinae;NA;Anomalopterygella;NA;NA;Anomalopterygella;NA;Anomalopterygella;genus;NA;NA;NA;Limnephilidae;4;Limnephilidae;5;NA;NA;NA;NA
+1441861;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Limnephilidae;Drusinae;NA;Drusus;NA;biguttatus;Drusus biguttatus;Pictet, 1834;D_biguttatus;specie;NA;NA;NA;Limnephilidae;4;Limnephilidae;5;NA;4;NA;NA
+1441805;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Limnephilidae;Drusinae;NA;Drusus;NA;chrysotus;Drusus chrysotus;Rambur, 1842;D_chrysotus;specie;NA;NA;NA;Limnephilidae;4;Limnephilidae;5;NA;3;NA;NA
+1441821;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Limnephilidae;Drusinae;NA;Drusus;NA;discolor;Drusus discolor;Rambur, 1842;D_discolor;specie;NA;NA;NA;Limnephilidae;4;Limnephilidae;5;NA;4;NA;NA
+1441847;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Limnephilidae;Drusinae;NA;Drusus;NA;improvisus;Drusus improvisus;McLachlan, 1884;D_improvisus_cf;speciesAggregate;NA;NA;NA;Limnephilidae;4;Limnephilidae;5;NA;5;NA;NA
+4801602;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Limnephilidae;Drusinae;NA;Drusus;NA;monticola;Drusus monticola;McLachlan, 1876;D_monticola;specie;NA;NA;NA;Limnephilidae;4;Limnephilidae;5;NA;5;NA;NA
+1441830;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Limnephilidae;Drusinae;NA;Drusus;NA;muelleri;Drusus muelleri;McLachlan, 1868;D_muelleri;specie;NA;NA;NA;Limnephilidae;4;Limnephilidae;5;NA;5;NA;NA
+1441798;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Limnephilidae;Drusinae;NA;Drusus;NA;NA;Drusus;NA;Drusus;genus;NA;NA;NA;Limnephilidae;4;Limnephilidae;5;NA;5;NA;NA
+1442259;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Limnephilidae;Drusinae;NA;Ecclisopteryx;NA;NA;Ecclisopteryx;NA;Ecclisopteryx;genus;NA;NA;NA;Limnephilidae;4;Limnephilidae;5;NA;3;NA;NA
+1441979;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Limnephilidae;Limnephilinae;NA;Acrophylax;NA;NA;Acrophylax;NA;Acrophylax;genus;NA;NA;NA;Limnephilidae;4;Limnephilidae;NA;NA;NA;NA;NA
+1441982;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Limnephilidae;Limnephilinae;NA;Acrophylax;NA;zerberus;Acrophylax zerberus;Brauer, 1867;A_zerberus;specie;NA;NA;NA;Limnephilidae;4;Limnephilidae;5;NA;NA;NA;NA
+1441797;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Limnephilidae;Limnephilinae;NA;AIIogamus;NA;uncatus;AIIogamus uncatus;Brauer, 1857;A_uncatus;specie;NA;NA;NA;Limnephilidae;4;Limnephilidae;5;NA;4;NA;NA
+1441789;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Limnephilidae;Limnephilinae;NA;Allogamus;NA;antennatus;Allogamus antennatus;McLachlan, 1876;A_antennatus;specie;NA;NA;NA;Limnephilidae;4;Limnephilidae;5;NA;NA;NA;NA
+1441778;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Limnephilidae;Limnephilinae;NA;Allogamus;NA;auricollis;Allogamus auricollis;Pictet, 1834;A_auricollis;specie;NA;NA;NA;Limnephilidae;4;Limnephilidae;5;NA;1;NA;NA
+1441777;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Limnephilidae;Limnephilinae;NA;Allogamus;NA;NA;Allogamus;NA;Allogamus;genus;NA;NA;NA;Limnephilidae;4;Limnephilidae;5;NA;NA;NA;NA
+1441911;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Limnephilidae;Limnephilinae;NA;Anisogamus;NA;NA;Anisogamus;NA;Anisogamus;genus;NA;NA;NA;Limnephilidae;4;Limnephilidae;5;NA;NA;NA;NA
+1442861;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Limnephilidae;Limnephilinae;NA;Annitella;NA;NA;Annitella;NA;Annitella;genus;NA;NA;NA;Limnephilidae;4;Limnephilidae;5;NA;NA;NA;NA
+1442870;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Limnephilidae;Limnephilinae;NA;Annitella;NA;obscurata;Annitella obscurata;McLachlan, 1876;A_obscurata;specie;NA;NA;NA;Limnephilidae;4;Limnephilidae;5;NA;2;NA;NA
+1442291;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Limnephilidae;Limnephilinae;NA;Chaetopteryx;NA;major;Chaetopteryx major;McLachlan, 1876;C_major;specie;NA;NA;NA;Limnephilidae;4;Limnephilidae;5;NA;4;NA;NA
+1442276;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Limnephilidae;Limnephilinae;NA;Chaetopteryx;NA;NA;Chaetopteryx;NA;Chaetopteryx;genus;NA;NA;NA;Limnephilidae;4;Limnephilidae;5;4.3;5;NA;NA
+1442307;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Limnephilidae;Limnephilinae;NA;Chaetopteryx;NA;villosa;Chaetopteryx villosa;Fabricius, 1798;C_villosa;specie;NA;0;NA;Limnephilidae;4;Limnephilidae;5;NA;NA;2;0.659
+1442831;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Limnephilidae;Limnephilinae;NA;Glyphotaelius;NA;pellucidus;Glyphotaelius pellucidus;Retzius, 1783;G_pellucidus;specie;NA;NA;4;Limnephilidae;4;Limnephilidae;5;NA;4;2;0.344
+1441931;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Limnephilidae;Limnephilinae;NA;Halesus;NA;digitatus;Halesus digitatus;von Paula Schrank, 1781;H_digitatus;specie;NA;NA;NA;Limnephilidae;4;Limnephilidae;5;NA;2;NA;NA
+1441921;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Limnephilidae;Limnephilinae;NA;Halesus;NA;NA;Halesus;NA;Halesus;genus;NA;NA;NA;Limnephilidae;4;Limnephilidae;5;4.7;3;NA;NA
+1441933;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Limnephilidae;Limnephilinae;NA;Halesus;NA;radiatus;Halesus radiatus;Curtis, 1834;H_radiatus;specie;NA;0;NA;Limnephilidae;4;Limnephilidae;5;NA;NA;2;0.325
+1442566;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Limnephilidae;Limnephilinae;NA;Limnephilus;NA;auricula;Limnephilus auricula;Curtis, 1834;L_auricula;specie;NA;0;NA;Limnephilidae;4;Limnephilidae;5;4.9;NA;2;0.325
+1442607;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Limnephilidae;Limnephilinae;NA;Limnephilus;NA;centralis;Limnephilus centralis;Curtis, 1834;L_centralis;specie;NA;0;NA;Limnephilidae;4;Limnephilidae;5;4.9;NA;2;0.325
+1442466;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Limnephilidae;Limnephilinae;NA;Limnephilus;NA;coenosus;Limnephilus coenosus;Curtis, 1834;L_coenosus;specie;NA;0;NA;Limnephilidae;4;Limnephilidae;5;4.9;NA;2;0.325
+1442515;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Limnephilidae;Limnephilinae;NA;Limnephilus;NA;extricatus;Limnephilus extricatus;McLachlan, 186;L_extricatus;specie;NA;0;NA;Limnephilidae;4;Limnephilidae;5;4.9;NA;2;0.325
+1442690;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Limnephilidae;Limnephilinae;NA;Limnephilus;NA;flavicornis;Limnephilus flavicornis;Fabricius, 1787;L_flavicornis;specie;NA;0;NA;Limnephilidae;4;Limnephilidae;5;4.9;3;2;0.325
+1442474;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Limnephilidae;Limnephilinae;NA;Limnephilus;NA;lunatus;Limnephilus lunatus;Curtis, 1834;L_lunatus;specie;NA;0;NA;Limnephilidae;4;Limnephilidae;5;4.9;NA;2;0.325
+1442450;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Limnephilidae;Limnephilinae;NA;Limnephilus;NA;NA;Limnephilus;NA;Limnephilus;genus;NA;NA;NA;Limnephilidae;4;Limnephilidae;5;NA;NA;NA;NA
+1442729;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Limnephilidae;Limnephilinae;NA;Limnephilus;NA;rhombicus;Limnephilus rhombicus;Linnaeus, 1758;L_rhombicus;specie;NA;0;NA;Limnephilidae;4;Limnephilidae;5;4.9;4;2;0.325
+1442540;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Limnephilidae;Limnephilinae;NA;Limnephilus;NA;stigma;Limnephilus stigma;Curtis, 1834;L_stigma;specie;NA;0;NA;Limnephilidae;4;Limnephilidae;5;4.9;NA;2;0.325
+1442619;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Limnephilidae;Limnephilinae;NA;Limnephilus;NA;vittatus;Limnephilus vittatus;Fabricius, 1798;L_vittatus;specie;NA;0;NA;Limnephilidae;4;Limnephilidae;5;4.9;NA;2;0.325
+1442446;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Limnephilidae;Limnephilinae;NA;Melampophylax;NA;melampus;Melampophylax melampus;McLachlan, 1876;M_melampus;specie;NA;NA;NA;Limnephilidae;4;Limnephilidae;5;NA;NA;NA;NA
+1442437;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Limnephilidae;Limnephilinae;NA;Melampophylax;NA;NA;Melampophylax;NA;Melampophylax;genus;NA;NA;NA;Limnephilidae;4;Limnephilidae;5;NA;NA;NA;NA
+1442121;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Limnephilidae;Limnephilinae;NA;Mesophylax;NA;NA;Mesophylax;NA;Mesophylax;genus;NA;NA;NA;Limnephilidae;4;Limnephilidae;5;NA;NA;NA;NA
+4482123;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Limnephilidae;Limnephilinae;NA;Micropterna;NA;lateralis;Micropterna lateralis;Stephens, 1837;M_lateralis;specie;NA;0;NA;Limnephilidae;4;Limnephilidae;5;4.3;4;2;0.325
+8844306;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Limnephilidae;Limnephilinae;NA;Micropterna;NA;NA;Micropterna;NA;Micropterna;genus;NA;NA;NA;Limnephilidae;4;Limnephilidae;5;4.3;5;2;0.325
+1442194;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Limnephilidae;Limnephilinae;NA;Nemotaulius;NA;NA;Nemotaulius;NA;Nemotaulius;genus;NA;NA;NA;Limnephilidae;4;Limnephilidae;5;NA;NA;NA;NA
+1442204;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Limnephilidae;Limnephilinae;NA;Nemotaulius;NA;punctatolineatus;Nemotaulius punctatolineatus;Retzius, 1783;N_punctatolineatus;specie;NA;NA;4;Limnephilidae;4;Limnephilidae;5;NA;NA;2;0.175
+1441658;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Limnephilidae;Limnephilinae;NA;Parachiona;NA;NA;Parachiona;NA;Parachiona;genus;NA;NA;NA;Limnephilidae;4;Limnephilidae;5;NA;NA;NA;NA
+1441659;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Limnephilidae;Limnephilinae;NA;Parachiona;NA;picicornis;Parachiona picicornis;Pictet, 1834;P_picicornis;specie;NA;NA;NA;Limnephilidae;4;Limnephilidae;5;NA;4;NA;NA
+5054428;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Limnephilidae;Limnephilinae;NA;Potamophylax;NA;cingulatus;Potamophylax cingulatus;Stephens, 1837;P_cingulatus;specie;NA;0;NA;Limnephilidae;4;Limnephilidae;5;4.5;4;2;0.222
+5054450;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Limnephilidae;Limnephilinae;NA;Potamophylax;NA;latipennis;Potamophylax latipennis;Curtis, 1834;P_latipennis;specie;NA;0;NA;Limnephilidae;4;Limnephilidae;5;4.5;4;2;0.222
+1442833;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Limnephilidae;Limnephilinae;NA;Potamophylax;NA;NA;Potamophylax;NA;Potamophylax;genus;NA;NA;NA;Limnephilidae;4;Limnephilidae;5;4.5;4;NA;NA
+5054437;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Limnephilidae;Limnephilinae;NA;Potamophylax;NA;nigricornis;Potamophylax nigricornis;Pictet, 1834;P_nigricornis;specie;NA;NA;NA;Limnephilidae;4;Limnephilidae;5;4.5;2;NA;NA
+1442040;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Limnephilidae;Limnephilinae;NA;Pseudopsilopteryx;NA;NA;Pseudopsilopteryx;NA;Pseudopsilopteryx;genus;NA;NA;NA;Limnephilidae;4;Limnephilidae;5;NA;NA;NA;NA
+1442041;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Limnephilidae;Limnephilinae;NA;Pseudopsilopteryx;NA;zimmeri;Pseudopsilopteryx zimmeri;McLachlan, 1876;P_zimmeri;specie;NA;NA;NA;Limnephilidae;4;Limnephilidae;5;NA;4;NA;NA
+5054362;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Limnephilidae;Limnephilinae;NA;Stenophylax;NA;mucronatus;Stenophylax mucronatus;McLachlan, 1880;S_mucronatus;speciesAggregate;NA;NA;NA;Limnephilidae;4;Limnephilidae;5;NA;NA;NA;NA
+1441986;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Limnephilidae;Limnephilinae;NA;Stenophylax;NA;NA;Stenophylax;NA;Stenophylax;genus;NA;NA;NA;Limnephilidae;4;Limnephilidae;5;NA;NA;NA;NA
+5054365;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Limnephilidae;Limnephilinae;NA;Stenophylax;NA;permistus;Stenophylax permistus;McLachlan, 1895;S_permistus;specie;NA;0;NA;Limnephilidae;4;Limnephilidae;5;NA;NA;2;0.325
+4396;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Limnephilidae;NA;NA;NA;NA;NA;Limnephilidae;NA;Limnephilidae;family;NA;NA;NA;Limnephilidae;4;Limnephilidae;5;NA;NA;NA;NA
+1437382;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Molannidae;NA;NA;Molanna;NA;angustata;Molanna angustata;Curtis, 1834;M_angustata;specie;NA;0;3;NA;NA;NA;NA;5.1;NA;3;0.569
+1437358;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Molannidae;NA;NA;Molanna;NA;NA;Molanna;NA;Molanna;genus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+1437330;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Molannidae;NA;NA;Molannodes;NA;NA;Molannodes;NA;Molannodes;genus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+1437347;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Molannidae;NA;NA;Molannodes;NA;tinctus;Molannodes tinctus;Zetterstedt, 1840;M_tinctus;specie;NA;0;3;NA;NA;NA;NA;4.9;NA;NA;NA
+7970;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Molannidae;NA;NA;NA;NA;NA;Molannidae;NA;Molannidae;family;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+1003;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;NA;NA;NA;NA;NA;NA;Trichoptera;NA;Trichoptera;order;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4397;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Odontoceridae;NA;NA;NA;NA;NA;Odontoceridae;NA;Odontoceridae;family;NA;NA;NA;Odontoceridae;6;NA;NA;NA;NA;NA;NA
+1437449;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Odontoceridae;NA;NA;Odontocerum;NA;albicorne;Odontocerum albicorne;Scopoli, 1763;O_albicorne;specie;NA;NA;NA;Odontoceridae;6;O_albicorne;8;NA;4;NA;NA
+1437448;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Odontoceridae;NA;NA;Odontocerum;NA;NA;Odontocerum;NA;Odontocerum;genus;NA;NA;NA;Odontoceridae;6;NA;NA;NA;NA;NA;NA
+1431348;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Philopotamidae;NA;NA;Chimarra;NA;marginata;Chimarra marginata;Linnaeus, 1767;C_marginata;specie;NA;NA;1;Philopotamidae;3;NA;NA;NA;NA;NA;NA
+1430802;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Philopotamidae;NA;NA;Chimarra;NA;NA;Chimarra;NA;Chimarra;genus;NA;NA;NA;Philopotamidae;3;NA;NA;NA;NA;NA;NA
+7973;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Philopotamidae;NA;NA;NA;NA;NA;Philopotamidae;NA;Philopotamidae;family;NA;NA;NA;Philopotamidae;3;NA;NA;NA;NA;NA;NA
+5054434;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Philopotamidae;NA;NA;Philopotamus;NA;luctuosus;Potamophylax luctuosus;Piller & Mitterpacher, 1783;P_luctuosus;specie;NA;NA;NA;Philopotamidae;3;NA;NA;NA;3;NA;NA
+1431740;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Philopotamidae;NA;NA;Philopotamus;NA;ludificatus;Philopotamus ludificatus;McLachlan, 1878;P_ludificatus;specie;NA;NA;NA;Philopotamidae;3;NA;NA;NA;2;NA;NA
+1431748;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Philopotamidae;NA;NA;Philopotamus;NA;montanus;Philopotamus montanus;Donovan, 1813;P_montanus;specie;0.5;0.5;NA;Philopotamidae;3;P_montanus;8;NA;3;NA;NA
+8046676;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Philopotamidae;NA;NA;Philopotamus;NA;NA;Philopotamus;NA;Philopotamus;genus;NA;NA;NA;Philopotamidae;3;NA;NA;NA;3;NA;NA
+1431736;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Philopotamidae;NA;NA;Philopotamus;NA;variegatus;Philopotamus variegatus;Scopoli, 1763;P_variegatus;specie;NA;NA;NA;Philopotamidae;3;NA;NA;NA;3;NA;NA
+1431549;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Philopotamidae;NA;NA;Wormaldia;NA;NA;Wormaldia;NA;Wormaldia;genus;NA;NA;NA;Philopotamidae;3;Wormaldia;9;NA;NA;8;0.57
+1431624;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Philopotamidae;NA;NA;Wormaldia;NA;occipitalis;Wormaldia occipitalis;Pictet, 1834;W_occipitalis;specie;NA;NA;NA;Philopotamidae;3;Wormaldia;9;NA;3;8;0.57
+1431606;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Philopotamidae;NA;NA;Wormaldia;NA;pulla;Wormaldia pulla;McLachlan, 1878;W_pulla;specie;NA;NA;NA;Philopotamidae;3;Wormaldia;9;NA;2;8;0.57
+1431569;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Philopotamidae;NA;NA;Wormaldia;NA;subnigra;Wormaldia subnigra;McLachlan, 1865;W_subnigra;specie;NA;NA;1;Philopotamidae;3;Wormaldia;NA;NA;NA;NA;NA
+1441020;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Phryganeidae;NA;NA;Agrypnia;NA;NA;Agrypnia;NA;Agrypnia;genus;NA;NA;NA;NA;NA;NA;NA;4.8;NA;2;0.32
+1441039;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Phryganeidae;NA;NA;Agrypnia;NA;obsoleta;Agrypnia obsoleta;Hagen, 1864;A_obsoleta;specie;NA;0;NA;NA;NA;NA;NA;NA;NA;2;0.328
+1441028;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Phryganeidae;NA;NA;Agrypnia;NA;pagetana;Agrypnia pagetana;Curtis, 1835;A_pagetana;specie;NA;NA;NA;NA;NA;NA;NA;NA;4;2;0.32
+1440933;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Phryganeidae;NA;NA;Hagenella;NA;clathrata;Hagenella clathrata;Kolenati, 1848;H_clathrata;specie;NA;NA;NA;NA;NA;NA;NA;NA;4;2;0.32
+1440931;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Phryganeidae;NA;NA;Hagenella;NA;NA;Hagenella;NA;Hagenella;genus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+7975;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Phryganeidae;NA;NA;NA;NA;NA;Phryganeidae;NA;Phryganeidae;family;NA;NA;NA;NA;NA;NA;NA;4.8;NA;2;NA
+1440914;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Phryganeidae;NA;NA;Oligostomis;NA;NA;Oligostomis;NA;Oligostomis;genus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+1441045;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Phryganeidae;NA;NA;Oligostomis;NA;reticulata;Oligostomis reticulata;Linnaeus, 1761;O_reticulata;specie;NA;NA;NA;NA;NA;NA;NA;NA;4;NA;NA
+1441044;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Phryganeidae;NA;NA;Oligotricha;NA;NA;Oligotricha;NA;Oligotricha;genus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+1440923;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Phryganeidae;NA;NA;Oligotricha;NA;striata;Oligotricha striata;Linnaeus, 1758;O_striata;specie;NA;NA;NA;NA;NA;NA;NA;NA;3;NA;NA
+1441007;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Phryganeidae;NA;NA;Phryganea;NA;grandis;Phryganea grandis;Linnaeus, 1758;P_grandis;specie;NA;0;NA;NA;NA;NA;NA;NA;3;2;0.255
+1431356;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Phryganeidae;NA;NA;Phryganea;NA;NA;Phryganea;NA;Phryganea;genus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+5053359;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Polycentropodidae;NA;NA;Cyrnus;NA;flavidus;Cyrnus flavidus;McLachlan, 1864;C_flavidus;specie;NA;0;4;Polycentropodidae;1;Polycentropodidae;5;NA;NA;2.67;0.391
+5053360;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Polycentropodidae;NA;NA;Cyrnus;NA;insolitus;Cyrnus insolitus;McLachlan, 1878;C_insolitus;specie;NA;0;4;Polycentropodidae;1;Polycentropodidae;5;NA;NA;2;0.316
+1437806;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Polycentropodidae;NA;NA;Cyrnus;NA;NA;Cyrnus;NA;Cyrnus;genus;NA;0;NA;Polycentropodidae;1;Polycentropodidae;5;NA;NA;2.67;0.392
+5053363;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Polycentropodidae;NA;NA;Cyrnus;NA;trimaculatus;Cyrnus trimaculatus;Curtis, 1834;C_trimaculatus;specie;NA;0;4;Polycentropodidae;1;Polycentropodidae;5;NA;NA;2.67;0.529
+1437577;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Polycentropodidae;NA;NA;Holocentropus;NA;dubius;Holocentropus dubius;Rambur, 1842;H_dubius;specie;NA;0;4;Polycentropodidae;1;Polycentropodidae;5;NA;NA;2.67;0.281
+1437574;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Polycentropodidae;NA;NA;Holocentropus;NA;NA;Holocentropus;NA;Holocentropus;genus;NA;NA;NA;Polycentropodidae;1;Polycentropodidae;5;NA;NA;NA;NA
+4400;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Polycentropodidae;NA;NA;NA;NA;NA;Polycentropodidae;NA;Polycentropodidae;family;NA;NA;NA;Polycentropodidae;1;Polycentropodidae;5;NA;NA;NA;NA
+1437830;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Polycentropodidae;NA;NA;Neureclipsis;NA;bimaculata;Neureclipsis bimaculata;Linnaeus, 1758;N_bimaculata;specie;NA;0;4;Polycentropodidae;1;Polycentropodidae;5;4.7;NA;2;0.29
+1437821;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Polycentropodidae;NA;NA;Neureclipsis;NA;NA;Neureclipsis;NA;Neureclipsis;genus;NA;NA;NA;Polycentropodidae;1;Polycentropodidae;5;NA;NA;NA;NA
+1438067;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Polycentropodidae;NA;NA;Plectrocnemia;NA;conspersa;Plectrocnemia conspersa;Curtis, 1834;P_conspersa;specie;NA;0;4;Polycentropodidae;1;Polycentropodidae;5;4.3;5;2;0.008
+1438081;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Polycentropodidae;NA;NA;Plectrocnemia;NA;geniculata;Plectrocnemia geniculata;McLachlan, 1871;P_geniculata;specie;NA;NA;NA;Polycentropodidae;1;Polycentropodidae;5;NA;5;2;0.103
+1438056;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Polycentropodidae;NA;NA;Plectrocnemia;NA;NA;Plectrocnemia;NA;Plectrocnemia;genus;NA;NA;NA;Polycentropodidae;1;Polycentropodidae;5;NA;5;NA;NA
+1437978;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Polycentropodidae;NA;NA;Polycentropus;NA;flavomaculatus;Polycentropus flavomaculatus;Pictet, 1834;P_flavomaculatus;specie;NA;0;4;Polycentropodidae;1;Polycentropodidae;5;4.7;NA;2;0.409
+1437980;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Polycentropodidae;NA;NA;Polycentropus;NA;irroratus;Polycentropus irroratus;Curtis, 1835;P_irroratus;specie;NA;0;4;Polycentropodidae;1;Polycentropodidae;5;5.6;NA;2;0.369
+1437832;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Polycentropodidae;NA;NA;Polycentropus;NA;NA;Polycentropus;NA;Polycentropus;genus;NA;NA;NA;Polycentropodidae;1;Polycentropodidae;5;NA;NA;2;0.333
+1438856;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Psychomyiidae;NA;NA;Lype;NA;NA;Lype;NA;Lype;genus;NA;NA;NA;Psychomyiidae;6;Lype;8;5.6;NA;6;0.546
+4401;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Psychomyiidae;NA;NA;NA;NA;NA;Psychomyiidae;NA;Psychomyiidae;family;NA;NA;NA;Psychomyiidae;6;NA;NA;NA;NA;NA;NA
+3259770;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Psychomyiidae;NA;NA;Psychomyia;NA;NA;Psychomyia;NA;Psychomyia;genus;NA;NA;NA;Psychomyiidae;6;NA;NA;NA;NA;NA;NA
+4482345;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Psychomyiidae;NA;NA;Psychomyia;NA;pusilla;Psychomyia pusilla;Fabricius, 1781;P_pusilla;specie;NA;NA;NA;Psychomyiidae;6;NA;NA;NA;1;NA;NA
+1438576;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Psychomyiidae;NA;NA;Tinodes;NA;NA;Tinodes;NA;Tinodes;genus;NA;NA;NA;Psychomyiidae;6;NA;NA;NA;1;NA;NA
+5053695;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Psychomyiidae;NA;NA;Tinodes;NA;rostocki;Tinodes rostocki;McLachlan, 1878;T_rostocki;specie;NA;NA;NA;Psychomyiidae;6;NA;NA;NA;1;NA;NA
+5053761;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Psychomyiidae;NA;NA;Tinodes;NA;waeneri;Tinodes waeneri;Linnaeus, 1758;T_waeneri;specie;NA;0.5;3;Psychomyiidae;6;NA;NA;NA;1;6;0.256
+4402;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Rhyacophilidae;NA;NA;NA;NA;NA;Rhyacophilidae;NA;Rhyacophilidae;family;NA;NA;NA;Rhyacophilidae;6;NA;NA;NA;NA;NA;NA
+4801845;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Rhyacophilidae;NA;NA;Rhyacophila;Hyperrhyacophila;NA;Hyperrhyacophila;NA;Hyperrhyacophila;subgenus;NA;NA;NA;Rhyacophilidae;6;NA;NA;NA;4;NA;NA
+4801675;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Rhyacophilidae;NA;NA;Rhyacophila;Hyporhyacophila;NA;Hyporhyacophila;NA;Hyporhyacophila;subgenus;NA;NA;NA;Rhyacophilidae;6;NA;NA;NA;4;NA;NA
+1433826;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Rhyacophilidae;NA;NA;Rhyacophila;NA;aurata;Rhyacophila aurata;Brauer, 1857;R_aurata;specie;NA;NA;NA;Rhyacophilidae;6;NA;NA;NA;4;NA;NA
+1434182;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Rhyacophilidae;NA;NA;Rhyacophila;NA;dorsalis;Rhyacophila dorsalis;Curtis, 1834;R_dorsalis;specie;NA;NA;NA;Rhyacophilidae;6;R_dorsalis;5;NA;4;4;0.62
+1434258;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Rhyacophilidae;NA;NA;Rhyacophila;NA;evoluta;Rhyacophila evoluta;McLachlan, 1879;R_evoluta;specie;NA;NA;NA;Rhyacophilidae;6;NA;NA;NA;3;NA;NA
+1434133;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Rhyacophilidae;NA;NA;Rhyacophila;NA;fasciata;Rhyacophila fasciata;Hagen, 1859;R_fasciata;specie;NA;NA;3;Rhyacophilidae;6;NA;NA;4.5;4;NA;NA
+1433899;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Rhyacophilidae;NA;NA;Rhyacophila;NA;glareosa;Rhyacophila glareosa;McLachlan, 1867;R_glareosa;specie;NA;NA;NA;Rhyacophilidae;6;NA;NA;NA;NA;NA;NA
+1434304;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Rhyacophilidae;NA;NA;Rhyacophila;NA;hirticornis;Rhyacophila hirticornis;McLachlan, 1879;R_hirticornis;specie;NA;NA;NA;Rhyacophilidae;6;NA;NA;NA;NA;NA;NA
+1434029;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Rhyacophilidae;NA;NA;Rhyacophila;NA;italica;Rhyacophila italica;Moretti, 1981;R_italica;specie;NA;NA;NA;Rhyacophilidae;6;NA;NA;NA;4;NA;NA
+1434230;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Rhyacophilidae;NA;NA;Rhyacophila;NA;munda;Rhyacophila munda;McLachlan, 1862;R_munda;specie;NA;NA;NA;Rhyacophilidae;6;R_munda;7;NA;4;4;0.62
+1430783;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Rhyacophilidae;NA;NA;Rhyacophila;NA;NA;Rhyacophila;NA;Rhyacophila;genus;NA;NA;NA;Rhyacophilidae;6;NA;NA;NA;4;NA;NA
+1433809;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Rhyacophilidae;NA;NA;Rhyacophila;NA;nubila;Rhyacophila nubila;Zetterstedt, 1840;R_nubila;specie;NA;0;4;Rhyacophilidae;6;NA;NA;4.7;4;NA;NA
+1434321;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Rhyacophilidae;NA;NA;Rhyacophila;NA;occidentalis;Rhyacophila occidentalis;McLachlan, 1879;R_occidentalis;specie;NA;NA;NA;Rhyacophilidae;6;NA;NA;NA;4;NA;NA
+1433711;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Rhyacophilidae;NA;NA;Rhyacophila;NA;tristis;Rhyacophila tristis;Pictet, 1834;R_tristis;specie;NA;NA;NA;Rhyacophilidae;6;NA;NA;NA;2;NA;NA
+1434087;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Rhyacophilidae;NA;NA;Rhyacophila;Pararhyacophila;intermedia;Rhyacophila intermedia;McLachlan, 1868;R_intermedia;specie;NA;NA;NA;Rhyacophilidae;6;NA;NA;NA;4;NA;NA
+sub_4802050;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Rhyacophilidae;NA;NA;Rhyacophila;Pararhyacophila;NA;Pararhyacophila;NA;Pararhyacophila;subgenus;NA;NA;NA;Rhyacophilidae;6;NA;NA;NA;4;NA;NA
+gr_1434182;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Rhyacophilidae;NA;NA;Rhyacophila;Rhyacophila;dorsalis-Gr.;Rhyacophila dorsalis;NA;R_dorsalis_gr;specieAggregate;NA;NA;NA;Rhyacophilidae;6;NA;NA;NA;NA;NA;NA
+1433873;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Rhyacophilidae;NA;NA;Rhyacophila;Rhyacophila;praemorsa;Rhyacophila praemorsa;McLachlan, 1879;R_praemorsa;specie;NA;NA;NA;Rhyacophilidae;6;NA;NA;NA;4;NA;NA
+4404;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Sericostomatidae;NA;NA;NA;NA;NA;Sericostomatidae;NA;Sericostomatidae;family;NA;NA;NA;Sericostomatidae;4;NA;NA;NA;NA;NA;NA
+1435114;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Sericostomatidae;NA;NA;Notidobia;NA;ciliaris;Notidobia ciliaris;Linnaeus, 1761;N_ciliaris;specie;NA;0;NA;Sericostomatidae;4;NA;NA;NA;NA;6;0.192
+1434831;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Sericostomatidae;NA;NA;Notidobia;NA;NA;Notidobia;NA;Notidobia;genus;NA;NA;NA;Sericostomatidae;4;NA;NA;NA;NA;NA;NA
+1435164;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Sericostomatidae;NA;NA;Oecismus;NA;monedula;Oecismus monedula;Hagen, 1859;O_monedula;specie;NA;NA;NA;Sericostomatidae;4;NA;NA;NA;2;NA;NA
+1435162;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Sericostomatidae;NA;NA;Oecismus;NA;NA;Oecismus;NA;Oecismus;genus;NA;NA;NA;Sericostomatidae;4;NA;NA;NA;NA;NA;NA
+3230787;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Sericostomatidae;NA;NA;Sericostoma;NA;NA;Sericostoma;NA;Sericostoma;genus;NA;NA;NA;Sericostomatidae;4;NA;NA;NA;3;NA;NA
+5053115;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Sericostomatidae;NA;NA;Sericostoma;NA;pedemontanum;Sericostoma pedemontanum;McLachlan, 1876;S_pedemontanum;specie;NA;NA;NA;Sericostomatidae;4;NA;NA;NA;3;NA;NA
+5053104;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Sericostomatidae;NA;NA;Sericostoma;NA;personatum;Sericostoma personatum;Kirby & Spence, 1826;S_personatum;specie;NA;0.5;3;Sericostomatidae;4;S_personatum;7;5.4;3;5.5;0.204
+4407;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Uenoidae;NA;NA;NA;NA;NA;Uenoidae;NA;Uenoidae;family;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+1441609;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Uenoidae;NA;NA;Thremma;NA;gallicum;Thremma gallicum;McLachlan, 1880;T_gallicum;specie;NA;NA;NA;NA;NA;NA;NA;NA;4;NA;NA
+1441605;Animalia;Arthropoda;Hexapoda;Insecta;NA;Trichoptera;Uenoidae;NA;NA;Thremma;NA;NA;Thremma;NA;Thremma;genus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4542006;Animalia;Arthropoda;NA;Arachnida;NA;Trombidiformes;Arrenuridae;Arrenurinae;NA;Arrenurus;Megaluracarus;conicus;Arrenurus conicus;Piersig, 1894;A_conicus;specie;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4542000;Animalia;Arthropoda;NA;Arachnida;NA;Trombidiformes;Arrenuridae;Arrenurinae;NA;Arrenurus;Megaluracarus;membranator;Arrenurus membranator;Thor, 1901;A_membranator;specie;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+2181035;Animalia;Arthropoda;NA;Arachnida;NA;Trombidiformes;Arrenuridae;Arrenurinae;NA;Arrenurus;NA;NA;Arrenurus;NA;Arrenurus;genus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4652007;Animalia;Arthropoda;NA;Arachnida;NA;Trombidiformes;Arrenuridae;NA;NA;Hydracarina;NA;NA;Hydracarina;NA;Hydracarina;genus;NA;NA;NA;NA;NA;Hydracarina;7;NA;NA;NA;NA
+3661;Animalia;Arthropoda;NA;Arachnida;NA;Trombidiformes;Arrenuridae;NA;NA;NA;NA;NA;Arrenuridae;NA;Arrenuridae;family;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+2180513;Animalia;Arthropoda;NA;Arachnida;NA;Trombidiformes;Feltriidae;NA;NA;Feltria;NA;minuta;Feltria minuta;Koenike, 1892;F_minuta;specie;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+2180508;Animalia;Arthropoda;NA;Arachnida;NA;Trombidiformes;Feltriidae;NA;NA;Feltria;NA;NA;Feltria;NA;Feltria;genus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4541733;Animalia;Arthropoda;NA;Arachnida;NA;Trombidiformes;Feltriidae;NA;NA;Feltria;NA;setigera;Feltria setigera;Koenike, 1896;F_setigera;specie;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+7491;Animalia;Arthropoda;NA;Arachnida;NA;Trombidiformes;Feltriidae;NA;NA;NA;NA;NA;Feltriidae;NA;Feltriidae;family;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+7495;Animalia;Arthropoda;NA;Arachnida;NA;Trombidiformes;Hydryphantidae;NA;NA;NA;NA;NA;Hydryphantidae;NA;Hydryphantidae;family;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+2180523;Animalia;Arthropoda;NA;Arachnida;NA;Trombidiformes;Hydryphantidae;NA;NA;Partunia;NA;NA;Partunia;NA;Partunia;genus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4540054;Animalia;Arthropoda;NA;Arachnida;NA;Trombidiformes;Hydryphantidae;NA;NA;Partunia;NA;steinmanni;Partunia steinmanni;Walter, 1906;P_steinmanni;specie;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4540202;Animalia;Arthropoda;NA;Arachnida;NA;Trombidiformes;Hydryphantidae;Thyadinae;NA;Panisus;NA;michaeli;Panisus michaeli;Koenike, 1896;P_michaeli;specie;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+3252682;Animalia;Arthropoda;NA;Arachnida;NA;Trombidiformes;Hydryphantidae;Thyadinae;NA;Panisus;NA;NA;Panisus;NA;Panisus;genus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4541504;Animalia;Arthropoda;NA;Arachnida;NA;Trombidiformes;Hygrobatidae;NA;NA;Atractides;NA;fissus;Atractides fissus;Walter, 1927;A_fissus;specie;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4541553;Animalia;Arthropoda;NA;Arachnida;NA;Trombidiformes;Hygrobatidae;NA;NA;Atractides;NA;gibberipalpis;Atractides gibberipalpis;Piersig, 1898;A_gibberipalpis;specie;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+2180421;Animalia;Arthropoda;NA;Arachnida;NA;Trombidiformes;Hygrobatidae;NA;NA;Atractides;NA;NA;Atractides;NA;Atractides;genus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+5774175;Animalia;Arthropoda;NA;Arachnida;NA;Trombidiformes;Hygrobatidae;NA;NA;Hygrobates;NA;longiporus;Hygrobates longiporus;Thor, 1898;H_longiporus;specie;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+2180436;Animalia;Arthropoda;NA;Arachnida;NA;Trombidiformes;Hygrobatidae;NA;NA;Hygrobates;NA;NA;Hygrobates;NA;Hygrobates;genus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+3665;Animalia;Arthropoda;NA;Arachnida;NA;Trombidiformes;Hygrobatidae;NA;NA;NA;NA;NA;Hygrobatidae;NA;Hygrobatidae;family;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4540463;Animalia;Arthropoda;NA;Arachnida;NA;Trombidiformes;Lebertiidae;Lebertiinae;NA;Lebertia;NA;dubia;Lebertia dubia;Thor, 1899;L_dubia;specie;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4540557;Animalia;Arthropoda;NA;Arachnida;NA;Trombidiformes;Lebertiidae;Lebertiinae;NA;Lebertia;NA;maglioi;Lebertia maglioi;Thor, 1907;L_maglioi;specie;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+9080199;Animalia;Arthropoda;NA;Arachnida;NA;Trombidiformes;Lebertiidae;Lebertiinae;NA;Lebertia;NA;NA;Lebertia;NA;Lebertia;genus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4540505;Animalia;Arthropoda;NA;Arachnida;NA;Trombidiformes;Lebertiidae;Lebertiinae;NA;Lebertia;NA;rufipes;Lebertia rufipes;Koenike, 1902;L_rufipes;specie;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4540480;Animalia;Arthropoda;NA;Arachnida;NA;Trombidiformes;Lebertiidae;Lebertiinae;NA;Lebertia;NA;sparsicapillata;Lebertia sparsicapillata;Thor, 1905;L_sparsicapillata;specie;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4540534;Animalia;Arthropoda;NA;Arachnida;NA;Trombidiformes;Lebertiidae;Lebertiinae;NA;Lebertia;NA;tuberosa;Lebertia tuberosa;Thor, 1914;L_tuberosa;specie;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+7496;Animalia;Arthropoda;NA;Arachnida;NA;Trombidiformes;Lebertiidae;NA;NA;NA;NA;NA;Lebertiidae;NA;Lebertiidae;family;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+372;Animalia;Arthropoda;NA;Arachnida;NA;Trombidiformes;NA;NA;NA;NA;NA;NA;Trombidiformes;NA;Trombidiformes;order;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+3668;Animalia;Arthropoda;NA;Arachnida;NA;Trombidiformes;Oxidae;NA;NA;NA;NA;NA;Oxidae;NA;Oxidae;family;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4540392;Animalia;Arthropoda;NA;Arachnida;NA;Trombidiformes;Oxidae;NA;NA;Oxus;NA;longisetus;Oxus longisetus;Berlese, 1885;O_longisetus;specie;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+2181024;Animalia;Arthropoda;NA;Arachnida;NA;Trombidiformes;Oxidae;NA;NA;Oxus;NA;NA;Oxus;NA;Oxus;genus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4540388;Animalia;Arthropoda;NA;Arachnida;NA;Trombidiformes;Oxidae;NA;NA;Oxus;NA;setosus;Oxus setosus;Koenike, 1898;O_setosus;specie;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+2180972;Animalia;Arthropoda;NA;Arachnida;NA;Trombidiformes;Pionidae;NA;NA;Forelia;NA;NA;Forelia;NA;Forelia;genus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+3669;Animalia;Arthropoda;NA;Arachnida;NA;Trombidiformes;Pionidae;NA;NA;NA;NA;NA;Pionidae;NA;Pionidae;family;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+7504;Animalia;Arthropoda;NA;Arachnida;NA;Trombidiformes;Protziidae;NA;NA;NA;NA;NA;Protziidae;NA;Protziidae;family;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4540073;Animalia;Arthropoda;NA;Arachnida;NA;Trombidiformes;Protziidae;NA;NA;Protzia;NA;distincta;Protzia distincta;Piersig, 1896;P_distincta;specie;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+2180519;Animalia;Arthropoda;NA;Arachnida;NA;Trombidiformes;Protziidae;NA;NA;Protzia;NA;NA;Protzia;NA;Protzia;genus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+6061;Animalia;Arthropoda;NA;Arachnida;NA;Trombidiformes;Sperchontidae;NA;NA;NA;NA;NA;Sperchontidae;NA;Sperchontidae;family;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+2181242;Animalia;Arthropoda;NA;Arachnida;NA;Trombidiformes;Sperchontidae;NA;NA;Sperchon;NA;brevirostris;Sperchon brevirostris;Koenike, 1895;S_brevirostris;specie;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+2181245;Animalia;Arthropoda;NA;Arachnida;NA;Trombidiformes;Sperchontidae;NA;NA;Sperchon;NA;glandulosus;Sperchon glandulosus;Koenike, 1886;S_glandulosus;specie;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+8354214;Animalia;Arthropoda;NA;Arachnida;NA;Trombidiformes;Sperchontidae;NA;NA;Sperchon;NA;NA;Sperchon;NA;Sperchon;genus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4541597;Animalia;Arthropoda;NA;Arachnida;NA;Trombidiformes;Wettinidae;NA;NA;NA;NA;NA;Wettinidae;NA;Wettinidae;family;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+2180950;Animalia;Arthropoda;NA;Arachnida;NA;Trombidiformes;Wettinidae;NA;NA;Wettina;NA;NA;Wettina;NA;Wettina;genus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4541598;Animalia;Arthropoda;NA;Arachnida;NA;Trombidiformes;Wettinidae;NA;NA;Wettina;NA;podagrica;Wettina podagrica;Koch, 1837;W_podagrica;specie;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+1_545;Animalia;Arthropoda;NA;Branchiopoda;NA;Cladocera;NA;NA;NA;NA;NA;NA;Cladocera;NA;Cladocera;order;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+2_545;Animalia;Arthropoda;NA;Branchiopoda;NA;Conchostraca;NA;NA;NA;NA;NA;NA;Conchostraca;NA;Conchostraca;order;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+2235051;Animalia;Arthropoda;NA;Branchiopoda;NA;Notostraca;Triopsidae;NA;NA;Lepidurus;NA;arcticus;Lepidurus arcticus;Pallas, 1793;L_arcticus;specie;1;1;NA;NA;NA;NA;NA;NA;NA;NA;NA
+2235049;Animalia;Arthropoda;NA;Branchiopoda;NA;Notostraca;Triopsidae;NA;NA;Lepidurus;NA;NA;Lepidurus;NA;Lepidurus;genus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+2235047;Animalia;Arthropoda;NA;Branchiopoda;NA;Notostraca;Triopsidae;NA;NA;NA;NA;NA;Triopsidae;NA;Triopsidae;family;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+353;Animalia;Arthropoda;NA;Ostracoda;NA;NA;NA;NA;NA;NA;NA;NA;Ostracoda;NA;Ostracoda;class;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+2287071;Animalia;Mollusca;NA;Bivalvia;NA;Myida;Dreissenidae;NA;NA;Dreissena;NA;NA;Dreissena;NA;Dreissena;genus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+2287072;Animalia;Mollusca;NA;Bivalvia;NA;Myida;Dreissenidae;NA;NA;Dreissena;NA;polymorpha;Dreissena polymorpha;Pallas, 1771;D_polymorpha;specie;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+6852;Animalia;Mollusca;NA;Bivalvia;NA;Myida;Dreissenidae;NA;NA;NA;NA;NA;Dreissenidae;NA;Dreissenidae;family;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+137;Animalia;Mollusca;NA;Bivalvia;NA;NA;NA;NA;NA;NA;NA;NA;Bivalvia;NA;Bivalvia;class;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+10495862;Animalia;Mollusca;NA;Bivalvia;NA;Sphaeriida;NA;NA;NA;NA;NA;NA;Sphaeriida;NA;Sphaeriida;order;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+7857878;Animalia;Mollusca;NA;Bivalvia;NA;Sphaeriida;Sphaeriidae;NA;NA;Euglesa;NA;henslowana;Euglesa henslowana;Sheppard, 1825;E_henslowana;specie;NA;NA;NA;Sphaeriidae;6;NA;NA;NA;NA;NA;NA
+7641355;Animalia;Mollusca;NA;Bivalvia;NA;Sphaeriida;Sphaeriidae;NA;NA;Euglesa;NA;NA;Euglesa;NA;Euglesa;genus;NA;NA;NA;Sphaeriidae;6;NA;NA;NA;NA;NA;NA
+3247675;Animalia;Mollusca;NA;Bivalvia;NA;Sphaeriida;Sphaeriidae;NA;NA;NA;NA;NA;Sphaeriidae;NA;Sphaeriidae;family;NA;NA;NA;Sphaeriidae;6;NA;NA;NA;NA;NA;NA
+2286685;Animalia;Mollusca;NA;Bivalvia;NA;Sphaeriida;Sphaeriidae;NA;NA;Pisidium;NA;casertanum;Pisidium casertanum;Poli, 1791;P_casertanum;specie;NA;0.25;4;Sphaeriidae;6;Pisidium;7;4.7;NA;5;0.504
+4559709;Animalia;Mollusca;NA;Bivalvia;NA;Sphaeriida;Sphaeriidae;NA;NA;Pisidium;NA;lilljeborgii;Pisidium lilljeborgii;Clessin, 1886;P_lilljeborgii;specie;NA;0.25;4;Sphaeriidae;6;Pisidium;7;4.7;NA;5;0.504
+2286678;Animalia;Mollusca;NA;Bivalvia;NA;Sphaeriida;Sphaeriidae;NA;NA;Pisidium;NA;NA;Pisidium;NA;Pisidium;genus;NA;0.25;4;Sphaeriidae;6;Pisidium;7;4.7;NA;5;0.504
+2286709;Animalia;Mollusca;NA;Bivalvia;NA;Sphaeriida;Sphaeriidae;NA;NA;Sphaerium;NA;corneum;Sphaerium corneum;Linnaeus, 1758;S_corneum;specie;0.25;0.5;3;Sphaeriidae;6;NA;NA;5.8;1;4.67;0.537
+2286706;Animalia;Mollusca;NA;Bivalvia;NA;Sphaeriida;Sphaeriidae;NA;NA;Sphaerium;NA;NA;Sphaerium;NA;Sphaerium;genus;0.25;0.5;NA;Sphaeriidae;6;NA;NA;NA;NA;NA;NA
+gr_2286706;Animalia;Mollusca;NA;Bivalvia;NA;Sphaeriida;Sphaeriidae;NA;NA;Sphaerium_Pisidium;NA;NA;Sphaerium/Pisidium;NA;Sphaerium_Pisidium;supragenericname;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+7911174;Animalia;Mollusca;NA;Bivalvia;NA;Unionida;Margaritiferidae;NA;NA;Margaritifera;NA;margaritifera;Margaritifera margaritifera;Linnaeus, 1758;M_margaritifera;specie;NA;1;2;NA;NA;NA;NA;NA;NA;NA;NA
+2287870;Animalia;Mollusca;NA;Bivalvia;NA;Unionida;Margaritiferidae;NA;NA;Margaritifera;NA;NA;Margaritifera;NA;Margaritifera;genus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+3462;Animalia;Mollusca;NA;Bivalvia;NA;Unionida;Margaritiferidae;NA;NA;NA;NA;NA;Margaritiferidae;NA;Margaritiferidae;family;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+2287924;Animalia;Mollusca;NA;Bivalvia;NA;Unionida;Unionidae;NA;NA;Anodonta;NA;NA;Anodonta;NA;Anodonta;genus;NA;1;NA;NA;NA;NA;NA;NA;NA;7;0.268
+3461;Animalia;Mollusca;NA;Bivalvia;NA;Unionida;Unionidae;NA;NA;NA;NA;NA;Unionidae;NA;Unionidae;family;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4374770;Animalia;Mollusca;NA;Bivalvia;NA;Unionida;Unionidae;NA;NA;Unio;NA;NA;Unio;NA;Unio;genus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4374772;Animalia;Mollusca;NA;Bivalvia;NA;Unionida;Unionidae;NA;NA;Unio;NA;pictorum;Unio pictorum;Linnaeus, 1758;U_pictorum;specie;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+3458;Animalia;Mollusca;NA;Bivalvia;NA;Venerida;Corbiculidae;NA;NA;NA;NA;NA;Corbiculidae;NA;Corbiculidae;family;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+2855;Animalia;Mollusca;NA;Gastropoda;NA;Architaenioglossa;Viviparidae;NA;NA;NA;NA;NA;Viviparidae;NA;Viviparidae;family;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+5778077;Animalia;Mollusca;NA;Gastropoda;NA;Architaenioglossa;Viviparidae;NA;NA;Viviparus;NA;ater;Viviparus ater;De Cristofori & Jan, 1832;V_ater;specie;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+5190145;Animalia;Mollusca;NA;Gastropoda;NA;Architaenioglossa;Viviparidae;NA;NA;Viviparus;NA;NA;Viviparus;NA;Viviparus;genus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+2658;Animalia;Mollusca;NA;Gastropoda;NA;Cycloneritida;Neritidae;NA;NA;NA;NA;NA;Neritidae;NA;Neritidae;family;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+2291444;Animalia;Mollusca;NA;Gastropoda;NA;Cycloneritida;Neritidae;NA;NA;Theodoxus;NA;fluviatilis;Theodoxus fluviatilis;Linnaeus, 1758;T_fluviatilis;specie;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+2291442;Animalia;Mollusca;NA;Gastropoda;NA;Cycloneritida;Neritidae;NA;NA;Theodoxus;NA;NA;Theodoxus;NA;Theodoxus;genus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+3244907;Animalia;Mollusca;NA;Gastropoda;NA;Littorinimorpha;Bithyniidae;NA;NA;Bithynia;NA;NA;Bithynia;NA;Bithynia;genus;NA;NA;NA;Hydrobiidae;6;NA;NA;NA;NA;NA;NA
+2299854;Animalia;Mollusca;NA;Gastropoda;NA;Littorinimorpha;Bithyniidae;NA;NA;Bithynia;NA;tentaculata;Bithynia tentaculata;Linnaeus, 1758;B_tentaculata;specie;NA;NA;NA;Hydrobiidae;6;NA;NA;NA;1;NA;NA
+2678;Animalia;Mollusca;NA;Gastropoda;NA;Littorinimorpha;Bithyniidae;NA;NA;NA;NA;NA;Bithyniidae;NA;Bithyniidae;family;NA;NA;NA;Hydrobiidae;6;NA;NA;NA;NA;NA;NA
+2300258;Animalia;Mollusca;NA;Gastropoda;NA;Littorinimorpha;Bythinellidae;NA;NA;Bythinella;NA;NA;Bythinella;NA;Bythinella;genus;NA;NA;NA;NA;NA;NA;NA;NA;2;NA;NA
+7649758;Animalia;Mollusca;NA;Gastropoda;NA;Littorinimorpha;Bythinellidae;NA;NA;NA;NA;NA;Bythinellidae;NA;Bythinellidae;family;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+2671;Animalia;Mollusca;NA;Gastropoda;NA;Littorinimorpha;Hydrobiidae;NA;NA;NA;NA;NA;Hydrobiidae;NA;Hydrobiidae;family;NA;NA;NA;Hydrobiidae;6;NA;NA;NA;NA;NA;NA
+8407314;Animalia;Mollusca;NA;Gastropoda;NA;Littorinimorpha;Tateidae;NA;NA;NA;NA;NA;Tateidae;NA;Tateidae;family;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+5192470;Animalia;Mollusca;NA;Gastropoda;NA;Littorinimorpha;Tateidae;NA;NA;Potamopyrgus;NA;antipodarum;Potamopyrgus antipodarum;Gray, 1843;P_antipodarum;specie;NA;NA;NA;NA;NA;P_antipodarum;7;NA;NA;7.33;0.34
+5192469;Animalia;Mollusca;NA;Gastropoda;NA;Littorinimorpha;Tateidae;NA;NA;Potamopyrgus;NA;NA;Potamopyrgus;NA;Potamopyrgus;genus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+2854;Animalia;Mollusca;NA;Gastropoda;NA;NA;Acroloxidae;NA;NA;NA;NA;NA;Acroloxidae;NA;Acroloxidae;family;NA;NA;NA;Ancylidae;6;NA;NA;NA;NA;NA;NA
+5189830;Animalia;Mollusca;NA;Gastropoda;NA;NA;Ancylidae;NA;NA;Ancylus;NA;fluviatilis;Ancylus fluviatilis;Müller, 1774;A_fluviatilis;specie;NA;NA;2;Ancylidae;6;A_fluviatilis;8;NA;1;7;0.529
+8176678;Animalia;Mollusca;NA;Gastropoda;NA;NA;Ancylidae;NA;NA;Ancylus;NA;NA;Ancylus;NA;Ancylus;genus;NA;NA;NA;Ancylidae;6;NA;NA;NA;NA;NA;NA
+2853;Animalia;Mollusca;NA;Gastropoda;NA;NA;Ancylidae;NA;NA;NA;NA;NA;Ancylidae;NA;Ancylidae;family;NA;NA;NA;Ancylidae;6;NA;NA;NA;NA;NA;NA
+2291335;Animalia;Mollusca;NA;Gastropoda;NA;NA;Lymnaeidae;NA;NA;Galba;NA;NA;Galba;NA;Galba;genus;NA;NA;NA;Lymnaeidae;6;NA;NA;NA;NA;NA;NA
+2291336;Animalia;Mollusca;NA;Gastropoda;NA;NA;Lymnaeidae;NA;NA;Galba;NA;truncatula;Galba truncatula;O.F.Müller, 1774;G_truncatula;specie;NA;NA;1;Lymnaeidae;6;NA;NA;NA;NA;7.33;0.386
+2291251;Animalia;Mollusca;NA;Gastropoda;NA;NA;Lymnaeidae;NA;NA;Lymnaea;NA;NA;Lymnaea;NA;Lymnaea;genus;NA;NA;NA;Lymnaeidae;6;NA;NA;5.1;NA;NA;NA
+8711937;Animalia;Mollusca;NA;Gastropoda;NA;NA;Lymnaeidae;NA;NA;Lymnaea;NA;peregra;Lymnaea peregra;O.F.Müller, 1774;L_peregra;specie;NA;1;2;Lymnaeidae;6;L_peregra;9;5.1;NA;7;0.627
+2852;Animalia;Mollusca;NA;Gastropoda;NA;NA;Lymnaeidae;NA;NA;NA;NA;NA;Lymnaeidae;NA;Lymnaeidae;family;NA;NA;NA;Lymnaeidae;6;NA;NA;NA;NA;NA;NA
+4606562;Animalia;Mollusca;NA;Gastropoda;NA;NA;Lymnaeidae;NA;NA;Peregriana;NA;NA;Peregriana;NA;Peregriana;genus;NA;NA;NA;Lymnaeidae;6;NA;NA;NA;NA;NA;NA
+9842003;Animalia;Mollusca;NA;Gastropoda;NA;NA;Lymnaeidae;NA;NA;Peregriana;NA;peregra;Peregriana peregra;O.F.Müller, 1774;P_peregra;specie;NA;NA;NA;Lymnaeidae;6;NA;NA;NA;2;NA;NA
+225;Animalia;Mollusca;NA;Gastropoda;NA;NA;NA;NA;NA;NA;NA;NA;Gastropoda;NA;Gastropoda;class;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+6798;Animalia;Mollusca;NA;Gastropoda;NA;NA;Physidae;NA;NA;NA;NA;NA;Physidae;NA;Physidae;family;NA;NA;NA;Physidae;6;NA;NA;NA;NA;NA;NA
+7568032;Animalia;Mollusca;NA;Gastropoda;NA;NA;Physidae;NA;NA;Physa;NA;fontinalis;Physa fontinalis;Linnaeus, 1758;P_fontinalis;specie;NA;NA;2;Physidae;6;NA;NA;NA;1;6;0.396
+9037827;Animalia;Mollusca;NA;Gastropoda;NA;NA;Physidae;NA;NA;Physa;NA;NA;Physa;NA;Physa;genus;NA;NA;NA;Physidae;6;NA;NA;NA;NA;NA;NA
+5189806;Animalia;Mollusca;NA;Gastropoda;NA;NA;Physidae;NA;NA;Physella;NA;acuta;Physella acuta;Draparnaud, 1805;P_acuta;specie;NA;NA;2;Physidae;6;NA;NA;NA;1;6;0.396
+9619305;Animalia;Mollusca;NA;Gastropoda;NA;NA;Physidae;NA;NA;Physella;NA;NA;Physella;NA;Physella;genus;NA;NA;NA;Physidae;6;NA;NA;NA;NA;NA;NA
+8028368;Animalia;Mollusca;NA;Gastropoda;NA;NA;Planorbidae;NA;NA;Bathyomphalus;NA;contortus;Bathyomphalus contortus;Linnaeus 1758;B_contortus;specie;NA;NA;1;Planorbidae;6;NA;NA;5.3;NA;7.33;0.67
+4359150;Animalia;Mollusca;NA;Gastropoda;NA;NA;Planorbidae;NA;NA;Bathyomphalus;NA;NA;Bathyomphalus;NA;Bathyomphalus;genus;NA;NA;NA;Planorbidae;6;NA;NA;NA;NA;NA;NA
+4562199;Animalia;Mollusca;NA;Gastropoda;NA;NA;Planorbidae;NA;NA;Gyraulus;NA;acronicus;Gyraulus acronicus;Férussac, 1807;G_acronicus;specie;NA;NA;2;Planorbidae;6;NA;NA;5.3;NA;NA;NA
+4562206;Animalia;Mollusca;NA;Gastropoda;NA;NA;Planorbidae;NA;NA;Gyraulus;NA;albus;Gyraulus albus;O.F.Müller, 1774;G_albus;specie;NA;NA;2;Planorbidae;6;NA;NA;5.3;NA;6.67;0.637
+2290991;Animalia;Mollusca;NA;Gastropoda;NA;NA;Planorbidae;NA;NA;Gyraulus;NA;NA;Gyraulus;NA;Gyraulus;genus;NA;NA;NA;Planorbidae;6;NA;NA;5.3;NA;NA;NA
+2851;Animalia;Mollusca;NA;Gastropoda;NA;NA;Planorbidae;NA;NA;NA;NA;NA;Planorbidae;NA;Planorbidae;family;NA;NA;NA;Planorbidae;6;NA;NA;NA;NA;NA;NA
+5778419;Animalia;Mollusca;NA;Gastropoda;NA;NA;Planorbidae;NA;NA;Planorbis;NA;carinatus;Planorbis carinatus;O.F.Müller, 1774;P_carinatus;specie;NA;1;NA;Planorbidae;6;NA;NA;NA;NA;8;0.413
+5189719;Animalia;Mollusca;NA;Gastropoda;NA;NA;Planorbidae;NA;NA;Planorbis;NA;NA;Planorbis;NA;Planorbis;genus;NA;1;NA;Planorbidae;6;NA;NA;NA;NA;NA;NA
+8298325;Animalia;Mollusca;NA;Gastropoda;NA;NA;Planorbidae;NA;NA;Planorbis;NA;planorbis;Planorbis planorbis;Linnaeus, 1758;P_planorbis;specie;NA;1;NA;Planorbidae;6;NA;NA;NA;NA;8;0.413
+2699;Animalia;Mollusca;NA;Gastropoda;NA;NA;Valvatidae;NA;NA;NA;NA;NA;Valvatidae;NA;Valvatidae;family;NA;NA;NA;Valvatidae;6;NA;NA;NA;NA;NA;NA
+1434828;Animalia;Mollusca;NA;Gastropoda;NA;NA;Valvatidae;NA;NA;Valvata;NA;NA;Valvata;NA;Valvata;genus;NA;NA;NA;Valvatidae;6;NA;NA;NA;NA;NA;NA
+2298076;Animalia;Mollusca;NA;Gastropoda;NA;NA;Valvatidae;NA;NA;Valvata;NA;piscinalis;Valvata piscinalis;O.F.Müller, 1774;V_piscinalis;specie;NA;NA;NA;Valvatidae;6;NA;NA;NA;NA;NA;NA
+5967481_1;Animalia;Nemathelminthes;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Nemathelminthes;NA;Nemathelminthes;phylum;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+6495 ;Animalia;Nemathelminthes;NA;Nematoda;NA;Mermithida;Mermithidae;NA;NA;NA;NA;NA;Mermithidae;NA;Mermithidae;family;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+5967481;Animalia;Nemathelminthes;NA;Nematoda;NA;NA;NA;NA;NA;NA;NA;NA;Nematoda;NA;Nematoda;class;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+phy_5967481;Animalia;Nemathelminthes;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Nemathelminthes;NA;Nemathelminthes;phylum;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+9660818;Animalia;Nematomorpha;NA;Gordioida;NA;Gordioidea;Gordiidae;NA;NA;Gordius;NA;NA;Gordius;NA;Gordius;genus;NA;NA;NA;NA;NA;NA;NA;NA;2;NA;NA
+6462;Animalia;Nematomorpha;NA;Gordioida;NA;Gordioidea;Gordiidae;NA;NA;NA;NA;NA;Gordiidae;NA;Gordiidae;family;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+2506445;Animalia;Nemertea;NA;Hoplonemertea;NA;Monostilifera;Prostomatidae;NA;NA;Prostoma;NA;NA;Prostoma;NA;Prostoma;genus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+9259121;Animalia;Nemertea;NA;Hoplonemertea;NA;Monostilifera;Prostomatidae;NA;NA;NA;NA;NA;Prostomatidae;NA;Prostomatidae;family;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+108;Animalia;Platyhelminthes;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;Platyhelminthes;NA;Platyhelminthes;phylum;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+6368;Animalia;Platyhelminthes;NA;NA;NA;Proseriata;Otomesostomatidae;NA;NA;NA;NA;NA;Otomesostomatidae;NA;Otomesostomatidae;family;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+2502223;Animalia;Platyhelminthes;NA;NA;NA;Proseriata;Otomesostomatidae;NA;NA;Otomesostoma;NA;auditivum;Otomesostoma auditivum;Du Plessis, 1874;O_auditivum;specie;NA;0.5;NA;NA;NA;NA;NA;NA;NA;NA;NA
+8263453;Animalia;Platyhelminthes;NA;NA;NA;Proseriata;Otomesostomatidae;NA;NA;Otomesostoma;NA;NA;Otomesostoma;NA;Otomesostoma;genus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+fe_14226;Animalia;Platyhelminthes;NA;Turbellaria;NA;NA;NA;NA;NA;NA;NA;NA;Turbellaria;NA;Turbellaria;subphylum;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+5967598;Animalia;Platyhelminthes;NA;Turbellaria;NA;Rhabdocoela;NA;NA;NA;NA;NA;NA;Rhabdocoela;NA;Rhabdocoela;order;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+2501742;Animalia;Platyhelminthes;NA;Turbellaria;NA;Rhabdocoela;Polycystididae;NA;NA;Gyratrix;NA;hermaphroditus;Gyratrix hermaphroditus;Ehrenberg, 1831;G_hermaphroditus;specie;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+2501739;Animalia;Platyhelminthes;NA;Turbellaria;NA;Rhabdocoela;Polycystididae;NA;NA;Gyratrix;NA;NA;Gyratrix;NA;Gyratrix;genus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+3032;Animalia;Platyhelminthes;NA;Turbellaria;NA;Rhabdocoela;Polycystididae;NA;NA;NA;NA;NA;Polycystididae;NA;Polycystididae;family;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4416211;Animalia;Platyhelminthes;NA;Turbellaria;NA;Tricladida;Dendrocoelidae;NA;NA;Dendrocoelum;NA;bohemicum;Dendrocoelum bohemicum;Komarek & Kunst, 1956;D_bohemicum;specie;NA;NA;NA;NA;NA;NA;NA;NA;4;NA;NA
+2502950;Animalia;Platyhelminthes;NA;Turbellaria;NA;Tricladida;Dendrocoelidae;NA;NA;Dendrocoelum;NA;lacteum;Dendrocoelum lacteum;Müller, 1774;D_lacteum;specie;NA;NA;NA;NA;NA;NA;NA;NA;4;NA;NA
+2502949;Animalia;Platyhelminthes;NA;Turbellaria;NA;Tricladida;Dendrocoelidae;NA;NA;Dendrocoelum;NA;NA;Dendrocoelum;NA;Dendrocoelum;genus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+6366;Animalia;Platyhelminthes;NA;Turbellaria;NA;Tricladida;Dendrocoelidae;NA;NA;NA;NA;NA;Dendrocoelidae;NA;Dendrocoelidae;family;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+2502875;Animalia;Platyhelminthes;NA;Turbellaria;NA;Tricladida;Dugesiidae;NA;NA;Dugesia;NA;gonocephala;Dugesia gonocephala;Duges, 1830;D_gonocephala;specie;NA;NA;NA;Planariidae;4;NA;NA;NA;1;NA;NA
+2502874;Animalia;Platyhelminthes;NA;Turbellaria;NA;Tricladida;Dugesiidae;NA;NA;Dugesia;NA;lugubris;Dugesia lugubris;Schmidt, 1861;D_lugubris;specie;NA;NA;NA;Planariidae;4;NA;NA;NA;NA;NA;NA
+2502872;Animalia;Platyhelminthes;NA;Turbellaria;NA;Tricladida;Dugesiidae;NA;NA;Dugesia;NA;NA;Dugesia;NA;Dugesia;genus;NA;NA;NA;Planariidae;4;NA;NA;NA;NA;NA;NA
+3268624;Animalia;Platyhelminthes;NA;Turbellaria;NA;Tricladida;Dugesiidae;NA;NA;Girardia;NA;NA;Girardia;NA;Girardia;genus;NA;NA;NA;Planariidae;4;NA;NA;NA;NA;NA;NA
+5892120;Animalia;Platyhelminthes;NA;Turbellaria;NA;Tricladida;Dugesiidae;NA;NA;Girardia;NA;tigrina;Girardia tigrina;Girard, 1850;G_tigrina;specie;NA;NA;NA;Planariidae;4;NA;NA;NA;NA;NA;NA
+6365;Animalia;Platyhelminthes;NA;Turbellaria;NA;Tricladida;Dugesiidae;NA;NA;NA;NA;NA;Dugesiidae;NA;Dugesiidae;family;NA;NA;NA;Planariidae;4;NA;NA;NA;NA;NA;NA
+427;Animalia;Platyhelminthes;NA;Turbellaria;NA;Tricladida;NA;NA;NA;NA;NA;NA;Tricladida;NA;Tricladida;order;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4416390;Animalia;Platyhelminthes;NA;Turbellaria;NA;Tricladida;Planariidae;NA;NA;Crenobia;NA;alpina;Crenobia alpina;Dana, 1766;C_alpina;specie;NA;0.5;NA;Planariidae;4;C_alpina;5;NA;NA;5;0.57
+4405623;Animalia;Platyhelminthes;NA;Turbellaria;NA;Tricladida;Planariidae;NA;NA;Crenobia;NA;NA;Crenobia;NA;Crenobia;genus;NA;NA;NA;Planariidae;4;NA;NA;NA;NA;NA;NA
+6362;Animalia;Platyhelminthes;NA;Turbellaria;NA;Tricladida;Planariidae;NA;NA;NA;NA;NA;Planariidae;NA;Planariidae;family;NA;NA;NA;Planariidae;4;NA;NA;NA;NA;NA;NA
+2502895;Animalia;Platyhelminthes;NA;Turbellaria;NA;Tricladida;Planariidae;NA;NA;Phagocata;NA;NA;Phagocata;NA;Phagocata;genus;NA;NA;NA;Planariidae;4;NA;NA;NA;NA;NA;NA
+2502910;Animalia;Platyhelminthes;NA;Turbellaria;NA;Tricladida;Planariidae;NA;NA;Phagocata;NA;vitta;Phagocata vitta;Duges, 1830;P_vitta;specie;NA;NA;NA;Planariidae;4;P_vitta;4;NA;NA;2;0.057
+9573051;Animalia;Platyhelminthes;NA;Turbellaria;NA;Tricladida;Planariidae;NA;NA;Planaria;NA;NA;Planaria;NA;Planaria;genus;NA;NA;NA;Planariidae;4;NA;NA;NA;NA;NA;NA
+2502887;Animalia;Platyhelminthes;NA;Turbellaria;NA;Tricladida;Planariidae;NA;NA;Polycelis;NA;felina;Polycelis felina;Dalyell, 1814;P_felina;specie;NA;NA;NA;Planariidae;4;P_felina;7;NA;5;4;0.183
+2502880;Animalia;Platyhelminthes;NA;Turbellaria;NA;Tricladida;Planariidae;NA;NA;Polycelis;NA;NA;Polycelis;NA;Polycelis;genus;NA;NA;NA;Planariidae;4;NA;NA;NA;4;NA;NA
+2502886;Animalia;Platyhelminthes;NA;Turbellaria;NA;Tricladida;Planariidae;NA;NA;Polycelis;NA;nigra;Polycelis nigra;Müller, 1774;P_nigra;specie;NA;NA;NA;Planariidae;4;NA;NA;NA;4;NA;NA
